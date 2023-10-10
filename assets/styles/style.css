@@ -1,0 +1,7 @@
+.columnaAdaptada{
+    height: 100vh;
+}
+
+.seleccion:hover{
+    opacity: 0.5;
+}
