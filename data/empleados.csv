@@ -1,0 +1,2001 @@
+Id,Nombre,Apellidos,SalarioMensual,Deudas,RetencionFuente,Correo,Telefono,Cargo
+29077,Raul,Gutierrez,1303792,True,0.1,bbbb@hotmail.com,4833333,desarrollador junior
+344834,Kelly,Gomez,1463887,True,0.1,aaaa@hotmail.com,4630063,arquitecto
+489258,Ana,Montoya,2241936,True,0.1,bbbb@hotmail.com,4747418,desarrollador junior
+137562,Raul,Gomez,4544716,True,0.1,aaaa@hotmail.com,4623749,desarrollador senior
+38750,Veronica,Peralta,4553735,True,0.1,aaaa@hotmail.com,5063764,desarrollador junior
+221903,Veronica,Gomez,4993925,True,0.1,aaaa@hotmail.com,5021726,desarrollador senior
+367409,Veronica,Gonzalez,4800752,True,0.1,cccc@hotmail.com,4758778,desarrollador senior
+171170,Kelly,Gonzalez,1667051,True,0.1,dddd@hotmail.com,4702037,desarrollador senior
+124033,Kelly,Peralta,3692190,True,0.1,dddd@hotmail.com,4745007,desarrollador senior
+254333,Veronica,Perez,1562310,True,0.1,bbbb@hotmail.com,4984910,desarrollador junior
+309633,Pablo,Gonzalez,4527273,True,0.1,bbbb@hotmail.com,4954995,arquitecto
+239753,Raul,Montoya,4479661,True,0.1,bbbb@hotmail.com,4718743,desarrollador senior
+137218,Andres,Gonzalez,4043937,True,0.1,aaaa@hotmail.com,5071933,arquitecto
+353784,Pablo,Perez,4641392,True,0.1,aaaa@hotmail.com,4729484,desarrollador senior
+13610,Pablo,Gutierrez,4569475,True,0.1,dddd@hotmail.com,4889711,arquitecto
+116006,Andres,Montoya,1153523,True,0.1,aaaa@hotmail.com,5016528,desarrollador junior
+300748,Andres,Gutierrez,3425770,True,0.1,dddd@hotmail.com,5055001,arquitecto
+274203,Kelly,Urrego,2653175,True,0.1,bbbb@hotmail.com,4986175,desarrollador senior
+114419,Juan,Gomez,3037405,True,0.1,bbbb@hotmail.com,4643712,desarrollador senior
+96046,Kelly,Montoya,1135299,True,0.1,aaaa@hotmail.com,4751329,desarrollador senior
+22767,Veronica,Perez,1354638,True,0.1,bbbb@hotmail.com,5022255,desarrollador senior
+71322,Ana,Gonzalez,1136731,True,0.1,cccc@hotmail.com,4847772,arquitecto
+300694,Juan,Gomez,4361353,True,0.1,bbbb@hotmail.com,5022173,desarrollador junior
+403087,Andres,Peralta,2314211,True,0.1,aaaa@hotmail.com,5010110,desarrollador junior
+32,Raul,Gonzalez,4961486,True,0.1,dddd@hotmail.com,4971415,arquitecto
+148654,Veronica,Gomez,4875973,True,0.1,bbbb@hotmail.com,4861547,arquitecto
+443660,Juan,Peralta,2801352,True,0.1,aaaa@hotmail.com,4962411,desarrollador junior
+252275,Raul,Gonzalez,4650179,True,0.1,cccc@hotmail.com,4636001,arquitecto
+41174,Manuela,Perez,2898075,True,0.1,bbbb@hotmail.com,4610162,desarrollador junior
+36969,Ana,Gomez,4239869,True,0.1,aaaa@hotmail.com,4668587,desarrollador senior
+495691,Veronica,Montoya,3330007,True,0.1,cccc@hotmail.com,4658504,desarrollador junior
+122314,Mauricio,Perez,2877341,True,0.1,aaaa@hotmail.com,5071361,arquitecto
+249131,Kelly,Peralta,3826938,True,0.1,aaaa@hotmail.com,4673868,desarrollador senior
+292784,Manuela,Urrego,1116975,True,0.1,aaaa@hotmail.com,4754495,desarrollador junior
+129244,Kelly,Peralta,3565292,True,0.1,bbbb@hotmail.com,4768313,desarrollador senior
+73467,Veronica,Gonzalez,3134120,True,0.1,cccc@hotmail.com,4692799,desarrollador senior
+89211,Isabel,Gonzalez,1881254,True,0.1,cccc@hotmail.com,5049076,desarrollador junior
+446854,Juan,Perez,3568772,True,0.1,cccc@hotmail.com,4853746,desarrollador senior
+85517,Manuela,Montoya,2058393,True,0.1,bbbb@hotmail.com,4991148,desarrollador junior
+284516,Kelly,Gutierrez,3053885,True,0.1,cccc@hotmail.com,4715203,desarrollador junior
+395030,Manuela,Urrego,1406951,True,0.1,bbbb@hotmail.com,5025855,desarrollador senior
+132556,Raul,Gonzalez,4307572,True,0.1,aaaa@hotmail.com,4929332,arquitecto
+168230,Veronica,Gonzalez,2631770,True,0.1,dddd@hotmail.com,4876826,desarrollador senior
+291496,Manuela,Peralta,3081180,True,0.1,bbbb@hotmail.com,4775960,desarrollador senior
+335558,Isabel,Peralta,1903396,True,0.1,cccc@hotmail.com,4730526,arquitecto
+321912,Pablo,Gonzalez,2147531,True,0.1,cccc@hotmail.com,4747835,desarrollador senior
+134140,Manuela,Urrego,4976226,True,0.1,dddd@hotmail.com,4770754,desarrollador junior
+162765,Pablo,Gomez,3765561,True,0.1,bbbb@hotmail.com,5003615,desarrollador senior
+427366,Juan,Peralta,4957404,True,0.1,bbbb@hotmail.com,4766986,desarrollador junior
+116701,Manuela,Perez,2115720,True,0.1,bbbb@hotmail.com,4740378,desarrollador junior
+486391,Isabel,Perez,2854993,True,0.1,dddd@hotmail.com,4972203,desarrollador junior
+199927,Juan,Gonzalez,2469472,True,0.1,aaaa@hotmail.com,4776787,arquitecto
+487985,Mauricio,Perez,1668648,True,0.1,dddd@hotmail.com,4665642,desarrollador junior
+93292,Manuela,Gonzalez,4229635,True,0.1,aaaa@hotmail.com,5072192,arquitecto
+292487,Manuela,Perez,2686348,True,0.1,bbbb@hotmail.com,4635331,arquitecto
+264141,Raul,Urrego,4134809,True,0.1,bbbb@hotmail.com,4621557,desarrollador junior
+162555,Kelly,Gomez,1346580,True,0.1,dddd@hotmail.com,4833892,desarrollador senior
+2716,Isabel,Montoya,3613114,True,0.1,bbbb@hotmail.com,4925353,desarrollador senior
+155298,Ana,Gomez,3733213,True,0.1,cccc@hotmail.com,5009039,desarrollador junior
+223126,Andres,Urrego,1064712,True,0.1,cccc@hotmail.com,4828227,desarrollador senior
+71584,Raul,Perez,3964943,True,0.1,aaaa@hotmail.com,4862218,desarrollador senior
+31515,Ana,Gutierrez,3959964,True,0.1,cccc@hotmail.com,4619963,desarrollador junior
+315956,Andres,Urrego,3744827,True,0.1,bbbb@hotmail.com,4742816,desarrollador junior
+270182,Manuela,Montoya,2552664,True,0.1,dddd@hotmail.com,4865239,desarrollador senior
+24191,Manuela,Gonzalez,2173391,True,0.1,dddd@hotmail.com,4702673,desarrollador junior
+196234,Manuela,Montoya,2117726,True,0.1,aaaa@hotmail.com,4775845,arquitecto
+421626,Veronica,Gonzalez,1790755,True,0.1,aaaa@hotmail.com,5045229,desarrollador senior
+11786,Kelly,Gomez,2395188,True,0.1,dddd@hotmail.com,4678630,arquitecto
+263857,Mauricio,Gutierrez,2601096,True,0.1,bbbb@hotmail.com,5045431,desarrollador junior
+145510,Juan,Montoya,2118701,True,0.1,cccc@hotmail.com,5070447,arquitecto
+312750,Andres,Montoya,4698472,True,0.1,bbbb@hotmail.com,4684343,desarrollador senior
+89111,Ana,Montoya,2704867,True,0.1,bbbb@hotmail.com,4630652,arquitecto
+369992,Pablo,Gutierrez,4003384,True,0.1,cccc@hotmail.com,5031770,desarrollador senior
+257181,Raul,Urrego,4587890,True,0.1,dddd@hotmail.com,4872698,desarrollador senior
+348899,Manuela,Gutierrez,2192770,True,0.1,bbbb@hotmail.com,4800780,arquitecto
+148446,Veronica,Montoya,1790295,True,0.1,cccc@hotmail.com,4931095,desarrollador senior
+359678,Raul,Gonzalez,1883713,True,0.1,cccc@hotmail.com,5075159,desarrollador senior
+404350,Mauricio,Gonzalez,1291781,True,0.1,bbbb@hotmail.com,4611168,arquitecto
+101851,Manuela,Montoya,1137990,True,0.1,cccc@hotmail.com,4716728,desarrollador junior
+174377,Andres,Montoya,4101812,True,0.1,cccc@hotmail.com,5080697,arquitecto
+391430,Isabel,Peralta,4243039,True,0.1,dddd@hotmail.com,5037552,desarrollador junior
+411639,Mauricio,Gonzalez,3528434,True,0.1,cccc@hotmail.com,4860007,desarrollador senior
+139209,Raul,Gonzalez,1230100,True,0.1,cccc@hotmail.com,4755919,desarrollador senior
+387014,Andres,Urrego,4276777,True,0.1,aaaa@hotmail.com,4834686,desarrollador senior
+415067,Mauricio,Gutierrez,3539376,True,0.1,dddd@hotmail.com,4999667,arquitecto
+339677,Andres,Gomez,4184267,True,0.1,bbbb@hotmail.com,4776057,desarrollador senior
+216579,Mauricio,Gomez,3355689,True,0.1,bbbb@hotmail.com,4695168,arquitecto
+160570,Juan,Gomez,2362779,True,0.1,dddd@hotmail.com,4681404,desarrollador senior
+194736,Manuela,Peralta,3257586,True,0.1,aaaa@hotmail.com,4750429,arquitecto
+19555,Isabel,Gonzalez,3852725,True,0.1,dddd@hotmail.com,5042965,desarrollador junior
+102312,Juan,Montoya,1977412,True,0.1,dddd@hotmail.com,4852644,desarrollador junior
+313506,Juan,Montoya,4700976,True,0.1,dddd@hotmail.com,4885940,desarrollador junior
+196791,Juan,Peralta,3612510,True,0.1,cccc@hotmail.com,4913538,desarrollador junior
+45404,Mauricio,Gutierrez,3486508,True,0.1,cccc@hotmail.com,4897282,desarrollador senior
+275437,Juan,Perez,4891710,True,0.1,cccc@hotmail.com,4733608,desarrollador junior
+144956,Pablo,Peralta,1275935,True,0.1,aaaa@hotmail.com,4865455,desarrollador senior
+394140,Veronica,Montoya,2905473,True,0.1,aaaa@hotmail.com,4929407,arquitecto
+27746,Mauricio,Perez,3730009,True,0.1,cccc@hotmail.com,4990674,arquitecto
+476768,Kelly,Gomez,4697528,True,0.1,dddd@hotmail.com,4605649,desarrollador senior
+304634,Manuela,Urrego,1213576,True,0.1,cccc@hotmail.com,4763693,arquitecto
+311372,Veronica,Urrego,2050061,True,0.1,bbbb@hotmail.com,4743178,desarrollador senior
+117913,Juan,Gonzalez,3328474,True,0.1,dddd@hotmail.com,4786714,desarrollador junior
+115736,Isabel,Gutierrez,1070498,True,0.1,cccc@hotmail.com,4923347,arquitecto
+347238,Juan,Peralta,3271546,True,0.1,cccc@hotmail.com,4874801,arquitecto
+210815,Isabel,Montoya,1647998,True,0.1,dddd@hotmail.com,4890506,desarrollador junior
+126068,Andres,Gutierrez,2847116,True,0.1,dddd@hotmail.com,4801009,desarrollador senior
+386595,Manuela,Urrego,1692159,True,0.1,cccc@hotmail.com,4950484,desarrollador senior
+83225,Veronica,Montoya,4789281,True,0.1,aaaa@hotmail.com,4794514,arquitecto
+206606,Kelly,Gomez,2405009,True,0.1,aaaa@hotmail.com,4726814,desarrollador junior
+16518,Juan,Montoya,3570201,True,0.1,dddd@hotmail.com,5079156,desarrollador junior
+56238,Ana,Gomez,1715070,True,0.1,dddd@hotmail.com,4674013,desarrollador junior
+375925,Andres,Perez,3430981,True,0.1,cccc@hotmail.com,4602496,desarrollador senior
+320457,Raul,Peralta,2885720,True,0.1,aaaa@hotmail.com,4739069,arquitecto
+232424,Pablo,Gutierrez,4744395,True,0.1,aaaa@hotmail.com,4885016,arquitecto
+129382,Mauricio,Gutierrez,4685966,True,0.1,aaaa@hotmail.com,4918260,desarrollador senior
+107814,Manuela,Gutierrez,1170335,True,0.1,cccc@hotmail.com,4626757,desarrollador junior
+217916,Ana,Perez,2437425,True,0.1,bbbb@hotmail.com,4832829,desarrollador senior
+88501,Raul,Perez,3413236,True,0.1,aaaa@hotmail.com,4979341,desarrollador senior
+497004,Manuela,Urrego,3409330,True,0.1,aaaa@hotmail.com,4856644,desarrollador senior
+344107,Isabel,Gomez,1278810,True,0.1,bbbb@hotmail.com,4753711,desarrollador junior
+205928,Ana,Montoya,3562366,True,0.1,dddd@hotmail.com,4942293,arquitecto
+159265,Ana,Montoya,1851027,True,0.1,aaaa@hotmail.com,4940257,desarrollador senior
+438296,Veronica,Gomez,3701899,True,0.1,bbbb@hotmail.com,4765612,desarrollador senior
+277473,Manuela,Montoya,4238483,True,0.1,aaaa@hotmail.com,4662510,arquitecto
+385765,Mauricio,Gutierrez,2985472,True,0.1,aaaa@hotmail.com,5058573,desarrollador junior
+422528,Ana,Urrego,2489043,True,0.1,cccc@hotmail.com,4901656,desarrollador junior
+208787,Ana,Perez,3263951,True,0.1,bbbb@hotmail.com,4768479,desarrollador senior
+47689,Mauricio,Gonzalez,4344782,True,0.1,bbbb@hotmail.com,4900369,arquitecto
+335933,Andres,Peralta,1493958,True,0.1,aaaa@hotmail.com,4856740,arquitecto
+186302,Andres,Gonzalez,4409447,True,0.1,bbbb@hotmail.com,4999326,desarrollador junior
+130112,Raul,Perez,3441723,True,0.1,aaaa@hotmail.com,4772587,desarrollador junior
+49122,Isabel,Montoya,2787347,True,0.1,cccc@hotmail.com,5046388,arquitecto
+103875,Raul,Perez,4902113,True,0.1,aaaa@hotmail.com,4755002,arquitecto
+327915,Mauricio,Gonzalez,2464023,True,0.1,cccc@hotmail.com,4781926,desarrollador senior
+65874,Pablo,Perez,4685798,True,0.1,aaaa@hotmail.com,4866171,desarrollador senior
+405131,Raul,Perez,1506199,True,0.1,dddd@hotmail.com,5055708,desarrollador junior
+350947,Kelly,Gonzalez,2047392,True,0.1,aaaa@hotmail.com,4639072,desarrollador senior
+361271,Isabel,Montoya,4104651,True,0.1,aaaa@hotmail.com,5075204,arquitecto
+123026,Juan,Peralta,3176563,True,0.1,aaaa@hotmail.com,4604009,arquitecto
+445441,Pablo,Gomez,3384893,True,0.1,dddd@hotmail.com,5074761,desarrollador senior
+171645,Kelly,Gomez,2927746,True,0.1,bbbb@hotmail.com,4758197,desarrollador junior
+399578,Mauricio,Gonzalez,4664346,True,0.1,bbbb@hotmail.com,5061814,desarrollador senior
+89823,Veronica,Gomez,3798574,True,0.1,cccc@hotmail.com,4921290,desarrollador junior
+180224,Ana,Gonzalez,2898443,True,0.1,cccc@hotmail.com,4958515,arquitecto
+241850,Manuela,Perez,1751439,True,0.1,cccc@hotmail.com,4762950,desarrollador junior
+322103,Juan,Urrego,3092104,True,0.1,aaaa@hotmail.com,4832176,desarrollador junior
+275900,Pablo,Montoya,1257609,True,0.1,cccc@hotmail.com,5038173,desarrollador junior
+62191,Juan,Gutierrez,1328326,True,0.1,aaaa@hotmail.com,4995642,desarrollador senior
+141815,Juan,Peralta,1426732,True,0.1,bbbb@hotmail.com,4634510,desarrollador senior
+407404,Raul,Montoya,1998256,True,0.1,aaaa@hotmail.com,4921558,arquitecto
+284957,Manuela,Gonzalez,4968368,True,0.1,dddd@hotmail.com,4980814,arquitecto
+69039,Mauricio,Montoya,2508954,True,0.1,dddd@hotmail.com,4766501,desarrollador senior
+316198,Veronica,Montoya,1295752,True,0.1,aaaa@hotmail.com,4770051,arquitecto
+290241,Isabel,Montoya,2009060,True,0.1,bbbb@hotmail.com,5032696,desarrollador junior
+455151,Kelly,Gomez,2302124,True,0.1,aaaa@hotmail.com,4745987,arquitecto
+350166,Isabel,Gomez,4383791,True,0.1,bbbb@hotmail.com,5015651,arquitecto
+262861,Veronica,Gonzalez,4534241,True,0.1,cccc@hotmail.com,4938588,arquitecto
+134260,Mauricio,Peralta,3715194,True,0.1,aaaa@hotmail.com,4704086,arquitecto
+92456,Veronica,Montoya,3923819,True,0.1,dddd@hotmail.com,4770602,arquitecto
+172134,Isabel,Gutierrez,4745095,True,0.1,bbbb@hotmail.com,4744913,desarrollador senior
+200926,Andres,Peralta,2430845,True,0.1,aaaa@hotmail.com,4744412,arquitecto
+463122,Manuela,Perez,2333575,True,0.1,aaaa@hotmail.com,4698992,arquitecto
+370407,Ana,Peralta,3371182,True,0.1,aaaa@hotmail.com,4748510,desarrollador junior
+359845,Kelly,Gomez,3382134,True,0.1,dddd@hotmail.com,4990551,desarrollador senior
+483427,Andres,Peralta,2406246,True,0.1,cccc@hotmail.com,5060504,desarrollador junior
+464233,Pablo,Perez,1090562,True,0.1,dddd@hotmail.com,4783382,desarrollador junior
+95337,Kelly,Urrego,3905478,True,0.1,aaaa@hotmail.com,5004608,desarrollador junior
+62443,Pablo,Gutierrez,4971690,True,0.1,bbbb@hotmail.com,4691619,desarrollador junior
+77136,Mauricio,Gomez,2749235,True,0.1,bbbb@hotmail.com,4972841,arquitecto
+462401,Ana,Urrego,4712817,True,0.1,aaaa@hotmail.com,4737613,desarrollador junior
+352737,Mauricio,Montoya,4584058,True,0.1,aaaa@hotmail.com,4728807,desarrollador junior
+103309,Kelly,Peralta,2463449,True,0.1,aaaa@hotmail.com,4748782,desarrollador junior
+324767,Mauricio,Peralta,1601994,True,0.1,dddd@hotmail.com,5012685,desarrollador senior
+15156,Pablo,Gomez,2512546,True,0.1,dddd@hotmail.com,4895338,arquitecto
+135728,Veronica,Peralta,3260709,True,0.1,bbbb@hotmail.com,4654607,arquitecto
+34782,Manuela,Perez,2362665,True,0.1,dddd@hotmail.com,4916928,desarrollador senior
+356183,Raul,Urrego,4713307,True,0.1,cccc@hotmail.com,4633519,desarrollador senior
+6331,Veronica,Gonzalez,3090339,True,0.1,bbbb@hotmail.com,4637882,desarrollador senior
+335546,Andres,Urrego,4745470,True,0.1,bbbb@hotmail.com,4648379,desarrollador senior
+432757,Mauricio,Gomez,4874755,True,0.1,cccc@hotmail.com,5047547,arquitecto
+404935,Raul,Peralta,1465308,True,0.1,bbbb@hotmail.com,4976029,desarrollador senior
+401029,Mauricio,Perez,1689019,True,0.1,bbbb@hotmail.com,4757528,desarrollador junior
+33144,Veronica,Gonzalez,2973914,True,0.1,dddd@hotmail.com,4696234,arquitecto
+45397,Kelly,Perez,3691881,True,0.1,dddd@hotmail.com,4786614,desarrollador junior
+139507,Isabel,Urrego,1488267,True,0.1,bbbb@hotmail.com,4802296,desarrollador senior
+53193,Andres,Perez,4973785,True,0.1,dddd@hotmail.com,4893049,desarrollador junior
+328641,Raul,Gonzalez,4791482,True,0.1,dddd@hotmail.com,4998786,desarrollador senior
+328200,Veronica,Montoya,4647363,True,0.1,bbbb@hotmail.com,4703712,desarrollador senior
+66157,Kelly,Gonzalez,4775724,True,0.1,aaaa@hotmail.com,4952138,desarrollador junior
+48040,Andres,Urrego,4992747,True,0.1,cccc@hotmail.com,4904797,desarrollador junior
+76381,Pablo,Perez,3735243,True,0.1,aaaa@hotmail.com,4855519,desarrollador junior
+13462,Pablo,Urrego,3290127,True,0.1,aaaa@hotmail.com,4783533,arquitecto
+417534,Veronica,Gomez,3283291,True,0.1,aaaa@hotmail.com,4724263,desarrollador junior
+451576,Mauricio,Urrego,3856766,True,0.1,cccc@hotmail.com,4712043,desarrollador junior
+379833,Juan,Perez,2282068,True,0.1,bbbb@hotmail.com,4812760,arquitecto
+183153,Isabel,Perez,4221479,True,0.1,aaaa@hotmail.com,4883157,desarrollador junior
+355505,Juan,Urrego,4557055,True,0.1,dddd@hotmail.com,4827800,arquitecto
+449352,Raul,Peralta,4041315,True,0.1,bbbb@hotmail.com,4895831,desarrollador senior
+37336,Ana,Gomez,1942264,True,0.1,aaaa@hotmail.com,4641370,arquitecto
+161332,Isabel,Urrego,2349964,True,0.1,bbbb@hotmail.com,4935692,desarrollador junior
+225135,Juan,Montoya,2490281,True,0.1,dddd@hotmail.com,4823565,arquitecto
+381029,Veronica,Montoya,4970255,True,0.1,cccc@hotmail.com,4927397,arquitecto
+224763,Ana,Gomez,1058216,True,0.1,dddd@hotmail.com,4721872,arquitecto
+318428,Kelly,Gutierrez,1628633,True,0.1,aaaa@hotmail.com,4772722,desarrollador junior
+17350,Isabel,Urrego,2701123,True,0.1,cccc@hotmail.com,4638791,desarrollador junior
+483419,Veronica,Urrego,2515547,True,0.1,aaaa@hotmail.com,4890469,desarrollador senior
+9412,Pablo,Peralta,2277449,True,0.1,bbbb@hotmail.com,5064426,arquitecto
+157700,Pablo,Gomez,2261453,True,0.1,bbbb@hotmail.com,4877365,arquitecto
+322965,Kelly,Perez,3262578,True,0.1,dddd@hotmail.com,4902607,desarrollador senior
+56500,Mauricio,Gomez,3668427,True,0.1,cccc@hotmail.com,4881428,desarrollador senior
+283805,Ana,Urrego,1625939,True,0.1,bbbb@hotmail.com,4756680,desarrollador junior
+429670,Mauricio,Gonzalez,2387337,True,0.1,bbbb@hotmail.com,4795953,desarrollador junior
+68511,Veronica,Urrego,3936275,True,0.1,aaaa@hotmail.com,4759158,desarrollador senior
+309324,Kelly,Gonzalez,4179012,True,0.1,cccc@hotmail.com,4865765,desarrollador senior
+89903,Juan,Peralta,3130832,True,0.1,bbbb@hotmail.com,4795804,arquitecto
+421223,Veronica,Gutierrez,1338475,True,0.1,cccc@hotmail.com,5069877,desarrollador junior
+79170,Manuela,Gonzalez,3919301,True,0.1,dddd@hotmail.com,4653118,arquitecto
+442824,Juan,Perez,2880072,True,0.1,bbbb@hotmail.com,4741557,desarrollador senior
+432485,Ana,Gonzalez,1639943,True,0.1,aaaa@hotmail.com,4934476,arquitecto
+338102,Ana,Peralta,1690289,True,0.1,cccc@hotmail.com,4990229,desarrollador senior
+212288,Raul,Gonzalez,4410232,True,0.1,aaaa@hotmail.com,4913956,desarrollador junior
+428661,Pablo,Perez,1314220,True,0.1,cccc@hotmail.com,5056533,desarrollador junior
+449405,Mauricio,Gutierrez,1535971,True,0.1,bbbb@hotmail.com,4966336,desarrollador junior
+472509,Juan,Gomez,1943249,True,0.1,dddd@hotmail.com,4867412,desarrollador junior
+417331,Mauricio,Perez,2831371,True,0.1,bbbb@hotmail.com,4610522,desarrollador junior
+112596,Manuela,Perez,2098589,True,0.1,aaaa@hotmail.com,4991456,desarrollador junior
+45900,Kelly,Montoya,3589205,True,0.1,dddd@hotmail.com,4771947,desarrollador senior
+330342,Kelly,Montoya,2637940,True,0.1,aaaa@hotmail.com,4912926,desarrollador junior
+342120,Ana,Montoya,3921253,True,0.1,bbbb@hotmail.com,4724593,desarrollador senior
+482976,Raul,Gonzalez,4429051,True,0.1,bbbb@hotmail.com,4953073,desarrollador junior
+300420,Juan,Urrego,3833512,True,0.1,dddd@hotmail.com,4837629,desarrollador senior
+87521,Veronica,Peralta,2801159,True,0.1,bbbb@hotmail.com,4704834,arquitecto
+90455,Ana,Montoya,3927497,True,0.1,dddd@hotmail.com,4914909,desarrollador junior
+486100,Raul,Montoya,3709275,True,0.1,bbbb@hotmail.com,4710620,desarrollador junior
+240138,Kelly,Urrego,1017835,True,0.1,aaaa@hotmail.com,4609765,desarrollador senior
+468775,Andres,Gomez,2049971,True,0.1,cccc@hotmail.com,4642607,desarrollador junior
+58801,Andres,Perez,1607192,True,0.1,aaaa@hotmail.com,5010272,arquitecto
+292133,Manuela,Montoya,4264046,True,0.1,dddd@hotmail.com,4656826,desarrollador junior
+36517,Andres,Gonzalez,1862205,True,0.1,bbbb@hotmail.com,4921322,desarrollador junior
+103059,Juan,Perez,3510670,True,0.1,aaaa@hotmail.com,4820385,desarrollador junior
+144381,Isabel,Perez,2193338,True,0.1,bbbb@hotmail.com,4731037,desarrollador senior
+15518,Juan,Urrego,2809524,True,0.1,aaaa@hotmail.com,5052353,arquitecto
+195700,Isabel,Peralta,3749599,True,0.1,dddd@hotmail.com,4981815,arquitecto
+338558,Manuela,Gutierrez,1884954,True,0.1,bbbb@hotmail.com,5021229,arquitecto
+310322,Pablo,Gomez,2300380,True,0.1,cccc@hotmail.com,5013158,arquitecto
+285933,Andres,Peralta,1945609,True,0.1,aaaa@hotmail.com,4751581,arquitecto
+422746,Veronica,Gomez,1088115,True,0.1,bbbb@hotmail.com,4746284,desarrollador junior
+444241,Mauricio,Urrego,1270886,True,0.1,aaaa@hotmail.com,4708026,desarrollador junior
+456603,Pablo,Gonzalez,3883421,True,0.1,bbbb@hotmail.com,4738546,desarrollador senior
+119873,Mauricio,Perez,3031366,True,0.1,dddd@hotmail.com,4775427,arquitecto
+257711,Juan,Gonzalez,2680064,True,0.1,dddd@hotmail.com,4969780,desarrollador junior
+100532,Andres,Gutierrez,2728022,True,0.1,aaaa@hotmail.com,4737797,desarrollador junior
+285631,Manuela,Montoya,3218536,True,0.1,aaaa@hotmail.com,4688446,arquitecto
+304648,Ana,Montoya,2490581,True,0.1,cccc@hotmail.com,4654686,arquitecto
+195688,Manuela,Gutierrez,3737253,True,0.1,bbbb@hotmail.com,5064905,desarrollador senior
+91192,Andres,Montoya,2950335,True,0.1,aaaa@hotmail.com,4693565,desarrollador junior
+81632,Isabel,Gomez,1793616,True,0.1,cccc@hotmail.com,4673083,desarrollador senior
+133055,Andres,Peralta,2345636,True,0.1,aaaa@hotmail.com,4682070,arquitecto
+373038,Pablo,Urrego,2123583,True,0.1,bbbb@hotmail.com,4913130,desarrollador senior
+185978,Andres,Gonzalez,2887360,True,0.1,cccc@hotmail.com,4902183,arquitecto
+81267,Ana,Perez,2253374,True,0.1,dddd@hotmail.com,5066372,desarrollador junior
+474406,Kelly,Gutierrez,3677803,True,0.1,bbbb@hotmail.com,4599949,arquitecto
+483068,Isabel,Gonzalez,2925128,True,0.1,dddd@hotmail.com,4918405,desarrollador junior
+256537,Mauricio,Gomez,4321235,True,0.1,cccc@hotmail.com,4709497,desarrollador junior
+461315,Manuela,Peralta,2302515,True,0.1,aaaa@hotmail.com,4994903,desarrollador junior
+195488,Kelly,Urrego,4397369,True,0.1,bbbb@hotmail.com,4804194,desarrollador senior
+26437,Pablo,Peralta,1698343,True,0.1,dddd@hotmail.com,4773188,desarrollador junior
+254457,Ana,Gomez,2767394,True,0.1,bbbb@hotmail.com,4925209,arquitecto
+155393,Veronica,Perez,3036255,True,0.1,dddd@hotmail.com,4667009,arquitecto
+445010,Kelly,Montoya,2213160,True,0.1,cccc@hotmail.com,4903351,desarrollador senior
+354897,Kelly,Montoya,1366350,True,0.1,cccc@hotmail.com,4875552,arquitecto
+438926,Isabel,Urrego,2755300,True,0.1,aaaa@hotmail.com,4725221,arquitecto
+235988,Ana,Urrego,3858362,True,0.1,dddd@hotmail.com,4661558,desarrollador senior
+46133,Veronica,Peralta,4929904,True,0.1,bbbb@hotmail.com,5077708,desarrollador junior
+47021,Andres,Perez,1591291,True,0.1,dddd@hotmail.com,5067052,desarrollador junior
+1761,Raul,Perez,4170856,True,0.1,cccc@hotmail.com,4800466,arquitecto
+260801,Veronica,Peralta,1224501,True,0.1,bbbb@hotmail.com,5054784,desarrollador senior
+352250,Isabel,Gutierrez,3544797,True,0.1,dddd@hotmail.com,4736703,desarrollador junior
+430332,Kelly,Montoya,4295282,True,0.1,cccc@hotmail.com,4616996,desarrollador junior
+159261,Ana,Gutierrez,2977565,True,0.1,aaaa@hotmail.com,4615749,desarrollador junior
+27969,Andres,Gonzalez,1372507,True,0.1,cccc@hotmail.com,4989834,desarrollador junior
+266314,Kelly,Montoya,2546484,True,0.1,aaaa@hotmail.com,4735788,arquitecto
+477832,Manuela,Gonzalez,1996017,True,0.1,dddd@hotmail.com,5007906,desarrollador junior
+176052,Pablo,Gonzalez,4865535,True,0.1,cccc@hotmail.com,4672949,arquitecto
+318139,Ana,Perez,4989489,True,0.1,dddd@hotmail.com,5027480,desarrollador junior
+396555,Juan,Montoya,1666725,True,0.1,dddd@hotmail.com,4642048,desarrollador junior
+144832,Raul,Gonzalez,2643090,True,0.1,bbbb@hotmail.com,5042751,desarrollador junior
+257584,Manuela,Gomez,1293679,True,0.1,aaaa@hotmail.com,4993793,desarrollador junior
+341579,Veronica,Gonzalez,2737577,True,0.1,dddd@hotmail.com,4722680,desarrollador junior
+137887,Raul,Urrego,4717972,True,0.1,dddd@hotmail.com,4727582,desarrollador senior
+296018,Veronica,Urrego,3517869,True,0.1,aaaa@hotmail.com,4934051,desarrollador junior
+265054,Andres,Montoya,1589293,True,0.1,cccc@hotmail.com,5055474,desarrollador senior
+269121,Ana,Gomez,2680320,True,0.1,dddd@hotmail.com,4955517,arquitecto
+219068,Juan,Perez,1129288,True,0.1,dddd@hotmail.com,4692289,arquitecto
+119282,Mauricio,Peralta,3586582,True,0.1,aaaa@hotmail.com,5008965,desarrollador junior
+232369,Ana,Gonzalez,2299537,True,0.1,cccc@hotmail.com,4644580,desarrollador senior
+51747,Isabel,Gomez,2723018,True,0.1,aaaa@hotmail.com,4831317,desarrollador junior
+259044,Kelly,Gomez,3393430,True,0.1,aaaa@hotmail.com,4961163,desarrollador senior
+413267,Pablo,Gutierrez,2109243,True,0.1,dddd@hotmail.com,4663390,desarrollador senior
+286695,Veronica,Gutierrez,4351306,True,0.1,cccc@hotmail.com,4915799,arquitecto
+425279,Andres,Montoya,1878118,True,0.1,cccc@hotmail.com,4888871,arquitecto
+94773,Mauricio,Perez,4489731,True,0.1,cccc@hotmail.com,4635726,desarrollador junior
+38365,Isabel,Gutierrez,2654847,True,0.1,bbbb@hotmail.com,4715042,desarrollador senior
+258019,Andres,Gonzalez,2412155,True,0.1,dddd@hotmail.com,4614493,desarrollador junior
+51602,Pablo,Urrego,4551586,True,0.1,aaaa@hotmail.com,4640213,desarrollador senior
+176026,Isabel,Gonzalez,4633375,True,0.1,aaaa@hotmail.com,4686233,desarrollador senior
+145795,Ana,Urrego,1930733,True,0.1,dddd@hotmail.com,4701419,desarrollador senior
+455304,Raul,Perez,2209501,True,0.1,aaaa@hotmail.com,4856717,desarrollador senior
+256628,Kelly,Gomez,1112906,True,0.1,dddd@hotmail.com,4710811,arquitecto
+32289,Isabel,Peralta,1438817,True,0.1,cccc@hotmail.com,4806584,arquitecto
+167201,Isabel,Gutierrez,1560650,True,0.1,dddd@hotmail.com,4617829,arquitecto
+197427,Ana,Gutierrez,4928457,True,0.1,cccc@hotmail.com,4603794,desarrollador junior
+191567,Andres,Montoya,2408316,True,0.1,aaaa@hotmail.com,4687629,desarrollador senior
+242616,Raul,Gutierrez,1719605,True,0.1,cccc@hotmail.com,4778273,arquitecto
+33543,Manuela,Urrego,1704462,True,0.1,dddd@hotmail.com,4767817,desarrollador senior
+415350,Juan,Urrego,3697643,True,0.1,dddd@hotmail.com,4794766,arquitecto
+281399,Mauricio,Gonzalez,1032221,True,0.1,aaaa@hotmail.com,4897196,arquitecto
+427975,Juan,Gonzalez,1072732,True,0.1,bbbb@hotmail.com,4692282,desarrollador senior
+429234,Mauricio,Urrego,2587843,True,0.1,aaaa@hotmail.com,4814188,desarrollador senior
+232217,Manuela,Peralta,4033982,True,0.1,dddd@hotmail.com,4919351,desarrollador senior
+236819,Ana,Peralta,2180007,True,0.1,bbbb@hotmail.com,5054796,desarrollador junior
+50193,Kelly,Perez,3899476,True,0.1,dddd@hotmail.com,4690112,desarrollador junior
+484971,Mauricio,Perez,2053887,True,0.1,dddd@hotmail.com,5031574,desarrollador junior
+320306,Mauricio,Gonzalez,2196150,True,0.1,cccc@hotmail.com,4788302,desarrollador senior
+185190,Andres,Gonzalez,3336246,True,0.1,dddd@hotmail.com,4948397,desarrollador senior
+382680,Ana,Montoya,1522539,True,0.1,cccc@hotmail.com,4646523,arquitecto
+349654,Isabel,Gonzalez,4941795,True,0.1,cccc@hotmail.com,4996290,desarrollador junior
+457266,Manuela,Gonzalez,1574547,True,0.1,cccc@hotmail.com,4665175,desarrollador junior
+36513,Ana,Gutierrez,1729347,True,0.1,aaaa@hotmail.com,4909552,desarrollador junior
+208042,Mauricio,Montoya,3278813,True,0.1,bbbb@hotmail.com,5014507,desarrollador junior
+401313,Kelly,Perez,1720714,True,0.1,bbbb@hotmail.com,4653022,arquitecto
+86311,Andres,Peralta,1082370,True,0.1,aaaa@hotmail.com,4742750,desarrollador senior
+441425,Raul,Peralta,2958054,True,0.1,bbbb@hotmail.com,4784806,desarrollador junior
+477527,Raul,Perez,4993552,True,0.1,dddd@hotmail.com,4843752,desarrollador senior
+380411,Ana,Perez,3460498,True,0.1,aaaa@hotmail.com,4866561,arquitecto
+425390,Ana,Urrego,2492313,True,0.1,bbbb@hotmail.com,5006668,desarrollador senior
+95572,Raul,Montoya,2535669,True,0.1,dddd@hotmail.com,4947659,arquitecto
+211031,Manuela,Gonzalez,4608767,True,0.1,cccc@hotmail.com,5051323,desarrollador senior
+293470,Andres,Urrego,4185566,True,0.1,bbbb@hotmail.com,5078027,arquitecto
+386894,Andres,Gonzalez,2249663,True,0.1,aaaa@hotmail.com,4713345,desarrollador senior
+227594,Pablo,Gonzalez,3336345,True,0.1,aaaa@hotmail.com,4836923,arquitecto
+308332,Ana,Urrego,3321426,True,0.1,bbbb@hotmail.com,4851528,desarrollador senior
+206688,Andres,Gutierrez,1855951,True,0.1,bbbb@hotmail.com,4645123,desarrollador senior
+82028,Mauricio,Peralta,1053601,True,0.1,bbbb@hotmail.com,4691717,arquitecto
+488224,Kelly,Montoya,2558842,True,0.1,cccc@hotmail.com,5069330,arquitecto
+485955,Isabel,Gomez,1068276,True,0.1,dddd@hotmail.com,4855349,desarrollador senior
+46125,Raul,Gutierrez,1804277,True,0.1,aaaa@hotmail.com,4622287,desarrollador junior
+349767,Andres,Gomez,1755333,True,0.1,cccc@hotmail.com,4944839,arquitecto
+494960,Manuela,Gomez,1758766,True,0.1,dddd@hotmail.com,4799620,arquitecto
+271190,Andres,Gonzalez,2848987,True,0.1,bbbb@hotmail.com,4604232,arquitecto
+340011,Pablo,Montoya,2344983,True,0.1,dddd@hotmail.com,4765429,desarrollador junior
+10272,Isabel,Peralta,4184531,True,0.1,aaaa@hotmail.com,4770868,desarrollador junior
+69155,Veronica,Gomez,4590222,True,0.1,dddd@hotmail.com,4790115,arquitecto
+23593,Andres,Gutierrez,3716135,True,0.1,aaaa@hotmail.com,4811673,desarrollador junior
+152828,Mauricio,Gomez,2721955,True,0.1,bbbb@hotmail.com,4764081,desarrollador junior
+431619,Ana,Peralta,2756316,True,0.1,dddd@hotmail.com,5078769,arquitecto
+453563,Juan,Gomez,4747849,True,0.1,aaaa@hotmail.com,5024727,desarrollador junior
+262270,Juan,Perez,2393500,True,0.1,dddd@hotmail.com,4915053,arquitecto
+358387,Manuela,Peralta,3012725,True,0.1,dddd@hotmail.com,5054457,arquitecto
+386100,Raul,Gonzalez,3495482,True,0.1,aaaa@hotmail.com,5046838,desarrollador senior
+96843,Manuela,Urrego,3517210,True,0.1,dddd@hotmail.com,4771954,desarrollador junior
+450376,Juan,Peralta,3287040,True,0.1,bbbb@hotmail.com,4765967,desarrollador senior
+458783,Raul,Gutierrez,3609834,True,0.1,bbbb@hotmail.com,5013628,desarrollador senior
+295768,Andres,Montoya,2062840,True,0.1,dddd@hotmail.com,4989228,desarrollador senior
+360133,Raul,Gomez,3521220,True,0.1,bbbb@hotmail.com,4850847,desarrollador senior
+259557,Raul,Gutierrez,2873652,True,0.1,cccc@hotmail.com,4982673,arquitecto
+207790,Raul,Perez,1608057,True,0.1,aaaa@hotmail.com,4982033,arquitecto
+481614,Kelly,Gomez,4538025,True,0.1,dddd@hotmail.com,5003408,arquitecto
+393846,Manuela,Montoya,1427603,True,0.1,cccc@hotmail.com,4993786,desarrollador senior
+123979,Raul,Peralta,4663012,True,0.1,dddd@hotmail.com,5045839,desarrollador senior
+106718,Andres,Perez,1089050,True,0.1,cccc@hotmail.com,4943926,desarrollador junior
+446531,Juan,Gonzalez,4232325,True,0.1,dddd@hotmail.com,4996862,desarrollador junior
+287549,Veronica,Perez,4365775,True,0.1,dddd@hotmail.com,4614763,arquitecto
+268623,Juan,Peralta,1099228,True,0.1,cccc@hotmail.com,4992751,desarrollador junior
+214710,Mauricio,Urrego,3140587,True,0.1,dddd@hotmail.com,4653389,desarrollador junior
+332672,Ana,Perez,4222069,True,0.1,dddd@hotmail.com,4793987,desarrollador junior
+427332,Raul,Gutierrez,4026841,True,0.1,cccc@hotmail.com,4777343,desarrollador senior
+205097,Mauricio,Montoya,4721298,True,0.1,cccc@hotmail.com,4839940,desarrollador junior
+492004,Mauricio,Gomez,4614434,True,0.1,bbbb@hotmail.com,4901386,desarrollador junior
+499692,Veronica,Gutierrez,2348556,True,0.1,dddd@hotmail.com,4764725,desarrollador senior
+168955,Manuela,Peralta,1453891,True,0.1,aaaa@hotmail.com,4946130,desarrollador junior
+348431,Pablo,Gutierrez,1916985,True,0.1,aaaa@hotmail.com,4845994,arquitecto
+358125,Kelly,Gomez,2884813,True,0.1,aaaa@hotmail.com,4688455,arquitecto
+275095,Ana,Peralta,1551116,True,0.1,bbbb@hotmail.com,4836924,arquitecto
+198410,Ana,Gutierrez,4167515,True,0.1,dddd@hotmail.com,4761236,arquitecto
+204884,Ana,Perez,1332044,True,0.1,aaaa@hotmail.com,4906889,desarrollador junior
+466880,Raul,Perez,2262492,True,0.1,bbbb@hotmail.com,4953298,arquitecto
+188158,Raul,Gutierrez,4772531,True,0.1,dddd@hotmail.com,5009055,arquitecto
+264488,Pablo,Montoya,3414177,True,0.1,bbbb@hotmail.com,4850970,desarrollador senior
+419338,Mauricio,Gomez,1157625,True,0.1,bbbb@hotmail.com,4918258,desarrollador senior
+199007,Pablo,Urrego,2533026,True,0.1,aaaa@hotmail.com,4636649,desarrollador junior
+475821,Pablo,Gomez,1050424,True,0.1,cccc@hotmail.com,4927119,arquitecto
+450958,Veronica,Perez,3975589,True,0.1,aaaa@hotmail.com,4911670,desarrollador senior
+301666,Manuela,Gomez,2892495,True,0.1,dddd@hotmail.com,4783770,desarrollador junior
+247988,Raul,Gomez,4424346,True,0.1,dddd@hotmail.com,4802828,desarrollador senior
+421413,Pablo,Gutierrez,1667658,True,0.1,bbbb@hotmail.com,4983294,desarrollador junior
+427112,Juan,Perez,1010560,True,0.1,aaaa@hotmail.com,4635749,desarrollador senior
+134711,Manuela,Gutierrez,3692060,True,0.1,aaaa@hotmail.com,4850503,arquitecto
+287405,Juan,Perez,2567379,True,0.1,bbbb@hotmail.com,4780566,arquitecto
+9621,Andres,Peralta,2244955,True,0.1,dddd@hotmail.com,5041738,arquitecto
+426239,Juan,Urrego,4814278,True,0.1,dddd@hotmail.com,4943577,desarrollador junior
+464602,Manuela,Urrego,2619692,True,0.1,cccc@hotmail.com,5003399,arquitecto
+228667,Andres,Perez,2494543,True,0.1,dddd@hotmail.com,4612930,desarrollador senior
+155528,Kelly,Montoya,3741351,True,0.1,cccc@hotmail.com,4890506,arquitecto
+23113,Manuela,Perez,4307999,True,0.1,bbbb@hotmail.com,4603136,arquitecto
+186873,Andres,Peralta,4230567,True,0.1,aaaa@hotmail.com,4759733,desarrollador senior
+349466,Raul,Montoya,1568110,True,0.1,aaaa@hotmail.com,4675051,desarrollador junior
+277614,Mauricio,Urrego,1227922,True,0.1,bbbb@hotmail.com,4716843,desarrollador junior
+318802,Pablo,Peralta,3776500,True,0.1,dddd@hotmail.com,4796552,desarrollador senior
+113007,Ana,Montoya,2424221,True,0.1,cccc@hotmail.com,5066354,arquitecto
+259237,Raul,Gutierrez,3061800,True,0.1,aaaa@hotmail.com,4616431,arquitecto
+62599,Juan,Gomez,3485151,True,0.1,cccc@hotmail.com,4658541,desarrollador junior
+179884,Manuela,Gomez,3054106,True,0.1,dddd@hotmail.com,4622079,desarrollador senior
+362538,Andres,Perez,1133866,True,0.1,aaaa@hotmail.com,4824395,desarrollador junior
+299071,Juan,Gonzalez,1102905,True,0.1,dddd@hotmail.com,4933374,desarrollador junior
+405170,Juan,Perez,2411268,True,0.1,aaaa@hotmail.com,4874676,desarrollador junior
+102788,Juan,Peralta,2498228,True,0.1,cccc@hotmail.com,4835225,arquitecto
+394498,Manuela,Perez,2551697,True,0.1,aaaa@hotmail.com,4608222,desarrollador junior
+248382,Pablo,Montoya,2716116,True,0.1,aaaa@hotmail.com,4657251,desarrollador junior
+469535,Juan,Montoya,4969735,True,0.1,dddd@hotmail.com,5071116,arquitecto
+14394,Andres,Peralta,2327295,True,0.1,bbbb@hotmail.com,4623375,desarrollador junior
+215120,Isabel,Peralta,1759215,True,0.1,dddd@hotmail.com,4885276,desarrollador junior
+202708,Andres,Gutierrez,3981578,True,0.1,dddd@hotmail.com,4820198,desarrollador senior
+241681,Mauricio,Urrego,1359601,True,0.1,cccc@hotmail.com,4753177,desarrollador senior
+462772,Mauricio,Gonzalez,2804344,True,0.1,cccc@hotmail.com,4911566,arquitecto
+147753,Manuela,Perez,3790973,True,0.1,cccc@hotmail.com,4666699,desarrollador junior
+310665,Mauricio,Gutierrez,2278650,True,0.1,cccc@hotmail.com,4615719,arquitecto
+459070,Mauricio,Gonzalez,3403103,True,0.1,dddd@hotmail.com,4652529,desarrollador senior
+44095,Ana,Peralta,2762023,True,0.1,bbbb@hotmail.com,4782344,arquitecto
+322601,Pablo,Gomez,4319327,True,0.1,bbbb@hotmail.com,4994287,desarrollador junior
+456626,Juan,Gomez,1297342,True,0.1,bbbb@hotmail.com,4851015,desarrollador junior
+392332,Veronica,Gutierrez,2820004,True,0.1,cccc@hotmail.com,4963941,desarrollador junior
+270330,Manuela,Urrego,3435166,True,0.1,dddd@hotmail.com,5025936,arquitecto
+370308,Veronica,Gonzalez,1861181,True,0.1,cccc@hotmail.com,4787943,desarrollador junior
+47075,Manuela,Gomez,3260633,True,0.1,cccc@hotmail.com,4724019,desarrollador junior
+398428,Juan,Gutierrez,1146690,True,0.1,cccc@hotmail.com,4869075,desarrollador junior
+496123,Andres,Gomez,4317100,True,0.1,dddd@hotmail.com,4752654,desarrollador junior
+149789,Mauricio,Gutierrez,4153681,True,0.1,aaaa@hotmail.com,4604973,desarrollador junior
+222557,Ana,Peralta,1561589,True,0.1,cccc@hotmail.com,4649652,desarrollador senior
+412952,Andres,Gutierrez,3594985,True,0.1,aaaa@hotmail.com,4760321,desarrollador junior
+337183,Kelly,Peralta,4416607,True,0.1,bbbb@hotmail.com,4656388,desarrollador junior
+446554,Juan,Gutierrez,3351177,True,0.1,dddd@hotmail.com,5024277,arquitecto
+155915,Andres,Gonzalez,1534791,True,0.1,aaaa@hotmail.com,4726176,desarrollador junior
+112630,Kelly,Gutierrez,4061099,True,0.1,aaaa@hotmail.com,4837682,desarrollador junior
+59943,Veronica,Gutierrez,2921672,True,0.1,cccc@hotmail.com,4716101,desarrollador senior
+349932,Manuela,Gonzalez,4868722,True,0.1,bbbb@hotmail.com,4939678,desarrollador senior
+373735,Veronica,Gonzalez,4004620,True,0.1,dddd@hotmail.com,4704075,arquitecto
+79048,Pablo,Gomez,1245876,True,0.1,aaaa@hotmail.com,4636355,desarrollador junior
+389597,Andres,Montoya,3203701,True,0.1,bbbb@hotmail.com,4701691,arquitecto
+21454,Ana,Gonzalez,3075415,True,0.1,aaaa@hotmail.com,5004787,desarrollador senior
+496885,Isabel,Gomez,1007222,True,0.1,cccc@hotmail.com,4788555,desarrollador senior
+300581,Pablo,Urrego,3721099,True,0.1,dddd@hotmail.com,4893860,desarrollador junior
+356270,Juan,Gutierrez,4740459,True,0.1,cccc@hotmail.com,4850292,desarrollador senior
+226665,Ana,Urrego,1490627,True,0.1,cccc@hotmail.com,4741566,arquitecto
+40472,Mauricio,Montoya,2183616,True,0.1,cccc@hotmail.com,4833071,desarrollador junior
+137618,Pablo,Urrego,1622614,True,0.1,bbbb@hotmail.com,4905746,desarrollador junior
+233371,Raul,Peralta,4765612,True,0.1,cccc@hotmail.com,4770362,desarrollador senior
+329694,Veronica,Gonzalez,2557436,True,0.1,cccc@hotmail.com,4695114,desarrollador senior
+253143,Juan,Montoya,1447961,True,0.1,cccc@hotmail.com,5058014,desarrollador senior
+305753,Ana,Peralta,1683615,True,0.1,cccc@hotmail.com,4621858,arquitecto
+159263,Manuela,Urrego,4199539,True,0.1,bbbb@hotmail.com,4609589,desarrollador senior
+98861,Mauricio,Montoya,2908279,True,0.1,dddd@hotmail.com,4861336,arquitecto
+234203,Veronica,Montoya,1027432,True,0.1,aaaa@hotmail.com,4890734,desarrollador junior
+156354,Kelly,Urrego,1067071,True,0.1,bbbb@hotmail.com,4964301,desarrollador senior
+316623,Juan,Gonzalez,1345557,True,0.1,aaaa@hotmail.com,5002554,desarrollador junior
+306053,Veronica,Gonzalez,2082115,True,0.1,bbbb@hotmail.com,5072318,desarrollador junior
+91520,Pablo,Montoya,1966136,True,0.1,bbbb@hotmail.com,4711103,desarrollador senior
+457592,Raul,Gomez,4001760,True,0.1,bbbb@hotmail.com,4648225,desarrollador junior
+293173,Manuela,Peralta,4790858,True,0.1,aaaa@hotmail.com,4836510,arquitecto
+335046,Raul,Urrego,1481493,True,0.1,bbbb@hotmail.com,4768016,arquitecto
+401332,Andres,Perez,4590277,True,0.1,aaaa@hotmail.com,4756792,arquitecto
+418434,Pablo,Montoya,4535552,True,0.1,dddd@hotmail.com,4922377,arquitecto
+302523,Andres,Peralta,2899795,True,0.1,cccc@hotmail.com,4953645,desarrollador junior
+13287,Juan,Gonzalez,3327810,True,0.1,aaaa@hotmail.com,5001246,desarrollador junior
+194244,Ana,Peralta,2700206,True,0.1,aaaa@hotmail.com,4617307,arquitecto
+452042,Raul,Gutierrez,4339998,True,0.1,aaaa@hotmail.com,5021608,desarrollador junior
+437684,Juan,Montoya,1019596,True,0.1,bbbb@hotmail.com,4966546,desarrollador junior
+206069,Ana,Perez,3006265,True,0.1,aaaa@hotmail.com,4804863,desarrollador junior
+266249,Andres,Gonzalez,4184442,True,0.1,cccc@hotmail.com,4726499,desarrollador senior
+130466,Mauricio,Urrego,2674307,True,0.1,cccc@hotmail.com,4801291,desarrollador junior
+348405,Mauricio,Montoya,4761477,True,0.1,cccc@hotmail.com,4963349,arquitecto
+196142,Raul,Gonzalez,3296552,True,0.1,bbbb@hotmail.com,5081680,desarrollador junior
+229922,Pablo,Peralta,3172786,True,0.1,cccc@hotmail.com,4865023,desarrollador junior
+288158,Kelly,Urrego,1442888,True,0.1,aaaa@hotmail.com,4758825,arquitecto
+362682,Manuela,Urrego,3795213,True,0.1,bbbb@hotmail.com,4801905,desarrollador junior
+229397,Juan,Gonzalez,4677788,True,0.1,dddd@hotmail.com,4695324,arquitecto
+287346,Juan,Gutierrez,1629684,True,0.1,aaaa@hotmail.com,4697952,arquitecto
+252620,Isabel,Gomez,4358368,True,0.1,dddd@hotmail.com,4609551,desarrollador junior
+433902,Veronica,Gutierrez,1646700,True,0.1,cccc@hotmail.com,4604346,desarrollador senior
+3069,Andres,Gutierrez,4263233,True,0.1,dddd@hotmail.com,4998468,desarrollador senior
+389219,Juan,Perez,3299109,True,0.1,cccc@hotmail.com,4658171,desarrollador senior
+253019,Pablo,Gonzalez,3691998,True,0.1,dddd@hotmail.com,4937262,desarrollador senior
+224418,Isabel,Gutierrez,3560445,True,0.1,aaaa@hotmail.com,4782448,arquitecto
+21987,Juan,Montoya,1953104,True,0.1,cccc@hotmail.com,5026212,desarrollador junior
+111002,Raul,Urrego,4005902,True,0.1,dddd@hotmail.com,4633859,arquitecto
+328878,Pablo,Peralta,3293580,True,0.1,bbbb@hotmail.com,4777444,desarrollador senior
+300829,Mauricio,Peralta,4154077,True,0.1,bbbb@hotmail.com,5035489,arquitecto
+187475,Kelly,Peralta,4404986,True,0.1,aaaa@hotmail.com,5014456,arquitecto
+428852,Raul,Urrego,4221042,True,0.1,bbbb@hotmail.com,4702042,desarrollador junior
+292207,Pablo,Gomez,1939886,True,0.1,dddd@hotmail.com,4882863,arquitecto
+287028,Andres,Gutierrez,1904913,True,0.1,bbbb@hotmail.com,4981892,arquitecto
+45008,Kelly,Urrego,4906027,True,0.1,cccc@hotmail.com,4923173,arquitecto
+69375,Pablo,Urrego,3661679,True,0.1,bbbb@hotmail.com,4932760,arquitecto
+256219,Raul,Gutierrez,2726500,True,0.1,aaaa@hotmail.com,4903276,desarrollador junior
+135423,Isabel,Montoya,3041640,True,0.1,dddd@hotmail.com,4807551,desarrollador junior
+402634,Veronica,Urrego,2644755,True,0.1,dddd@hotmail.com,5048497,arquitecto
+384193,Ana,Montoya,4169745,True,0.1,bbbb@hotmail.com,4723046,desarrollador senior
+400141,Andres,Urrego,3772096,True,0.1,aaaa@hotmail.com,4649051,arquitecto
+428830,Isabel,Gomez,4643088,True,0.1,bbbb@hotmail.com,5005635,desarrollador senior
+445321,Isabel,Urrego,4284444,True,0.1,bbbb@hotmail.com,4928333,desarrollador senior
+161440,Kelly,Gonzalez,4833831,True,0.1,aaaa@hotmail.com,4744540,desarrollador senior
+492860,Isabel,Gonzalez,4213165,True,0.1,dddd@hotmail.com,4794988,arquitecto
+402924,Ana,Gonzalez,2223732,True,0.1,cccc@hotmail.com,5008152,desarrollador senior
+324795,Pablo,Perez,1616422,True,0.1,cccc@hotmail.com,4967055,arquitecto
+464490,Pablo,Gonzalez,3936805,True,0.1,cccc@hotmail.com,4729807,desarrollador junior
+136555,Kelly,Gutierrez,1522590,True,0.1,bbbb@hotmail.com,4730372,desarrollador junior
+383835,Juan,Gonzalez,4211055,True,0.1,dddd@hotmail.com,4619096,desarrollador junior
+368185,Juan,Montoya,2826804,True,0.1,cccc@hotmail.com,4757906,desarrollador senior
+465880,Pablo,Gutierrez,3086944,True,0.1,dddd@hotmail.com,4914753,arquitecto
+397375,Andres,Perez,3579125,True,0.1,dddd@hotmail.com,4928839,desarrollador senior
+392737,Kelly,Gomez,4539658,True,0.1,bbbb@hotmail.com,4753881,desarrollador senior
+265267,Ana,Montoya,2425621,True,0.1,aaaa@hotmail.com,4670556,desarrollador junior
+472239,Veronica,Gonzalez,3587328,True,0.1,cccc@hotmail.com,4717505,desarrollador junior
+364216,Raul,Gutierrez,2672902,True,0.1,bbbb@hotmail.com,4698509,desarrollador senior
+269492,Raul,Gonzalez,2926556,True,0.1,aaaa@hotmail.com,5051441,desarrollador junior
+270948,Mauricio,Gonzalez,2680220,True,0.1,dddd@hotmail.com,5008984,arquitecto
+27084,Ana,Urrego,4596916,True,0.1,cccc@hotmail.com,4952876,desarrollador senior
+20137,Isabel,Gomez,2253772,True,0.1,bbbb@hotmail.com,4894063,arquitecto
+45392,Kelly,Gomez,3431659,True,0.1,dddd@hotmail.com,4647103,desarrollador senior
+65303,Kelly,Perez,4051432,True,0.1,aaaa@hotmail.com,4892039,arquitecto
+394591,Ana,Perez,1009644,True,0.1,bbbb@hotmail.com,4739836,arquitecto
+325147,Juan,Urrego,4647254,True,0.1,cccc@hotmail.com,5014149,desarrollador senior
+112265,Raul,Montoya,2365037,True,0.1,dddd@hotmail.com,4726766,desarrollador senior
+51584,Manuela,Urrego,3389360,True,0.1,cccc@hotmail.com,4616393,desarrollador senior
+52553,Raul,Peralta,3910367,True,0.1,cccc@hotmail.com,4625862,desarrollador senior
+413229,Raul,Montoya,1234817,True,0.1,aaaa@hotmail.com,4782829,desarrollador senior
+231928,Manuela,Montoya,1051818,True,0.1,bbbb@hotmail.com,4731787,desarrollador senior
+401842,Isabel,Urrego,4257847,True,0.1,cccc@hotmail.com,4666821,desarrollador senior
+114367,Mauricio,Gutierrez,1257794,True,0.1,aaaa@hotmail.com,4715325,desarrollador senior
+195206,Isabel,Gutierrez,3557884,True,0.1,aaaa@hotmail.com,4642394,desarrollador junior
+142832,Veronica,Gonzalez,3633832,True,0.1,cccc@hotmail.com,4920570,desarrollador senior
+21572,Veronica,Montoya,1126097,True,0.1,aaaa@hotmail.com,5007181,arquitecto
+493375,Juan,Montoya,3410552,True,0.1,dddd@hotmail.com,5059576,arquitecto
+482167,Veronica,Urrego,3078209,True,0.1,dddd@hotmail.com,4685615,arquitecto
+433957,Juan,Montoya,2219779,True,0.1,bbbb@hotmail.com,4610338,arquitecto
+252242,Pablo,Montoya,3142156,True,0.1,bbbb@hotmail.com,4693450,desarrollador senior
+126443,Kelly,Perez,4302235,True,0.1,aaaa@hotmail.com,4685187,desarrollador senior
+367147,Raul,Montoya,1128759,True,0.1,aaaa@hotmail.com,4637719,desarrollador senior
+338774,Kelly,Peralta,3714385,True,0.1,cccc@hotmail.com,4792945,arquitecto
+196976,Veronica,Gomez,1102458,True,0.1,bbbb@hotmail.com,5060301,desarrollador junior
+212328,Veronica,Perez,4898622,True,0.1,dddd@hotmail.com,4828237,desarrollador junior
+280476,Ana,Perez,4395078,True,0.1,dddd@hotmail.com,4617384,arquitecto
+468754,Isabel,Gutierrez,4771886,True,0.1,cccc@hotmail.com,4784102,desarrollador junior
+273217,Isabel,Urrego,4398367,True,0.1,cccc@hotmail.com,4870341,desarrollador senior
+253988,Andres,Urrego,2402883,True,0.1,cccc@hotmail.com,4943130,arquitecto
+139968,Pablo,Urrego,4881754,True,0.1,aaaa@hotmail.com,4900900,desarrollador senior
+414769,Mauricio,Gutierrez,4233012,True,0.1,dddd@hotmail.com,5077170,arquitecto
+219428,Ana,Gonzalez,2646889,True,0.1,aaaa@hotmail.com,5041406,desarrollador junior
+336559,Juan,Gonzalez,4063428,True,0.1,bbbb@hotmail.com,4712791,arquitecto
+123862,Juan,Urrego,3645414,True,0.1,bbbb@hotmail.com,4807641,desarrollador senior
+231785,Isabel,Perez,3531514,True,0.1,dddd@hotmail.com,4915689,arquitecto
+340712,Veronica,Gomez,2278319,True,0.1,aaaa@hotmail.com,4719053,arquitecto
+39636,Veronica,Montoya,4393341,True,0.1,aaaa@hotmail.com,4969308,desarrollador senior
+184297,Pablo,Peralta,2545362,True,0.1,bbbb@hotmail.com,4851996,desarrollador junior
+429161,Veronica,Peralta,4460280,True,0.1,dddd@hotmail.com,4622660,desarrollador senior
+123700,Andres,Montoya,1547243,True,0.1,dddd@hotmail.com,4701720,arquitecto
+61545,Kelly,Gomez,3078052,True,0.1,cccc@hotmail.com,4620798,desarrollador junior
+240432,Mauricio,Gomez,1017498,True,0.1,bbbb@hotmail.com,4955667,desarrollador senior
+330143,Manuela,Gomez,3727312,True,0.1,dddd@hotmail.com,4670978,arquitecto
+17617,Mauricio,Perez,4654951,True,0.1,aaaa@hotmail.com,4800102,arquitecto
+269546,Andres,Montoya,2302055,True,0.1,dddd@hotmail.com,4967369,desarrollador junior
+344268,Raul,Perez,1753546,True,0.1,cccc@hotmail.com,4983105,desarrollador junior
+90234,Raul,Gomez,1537258,True,0.1,bbbb@hotmail.com,4838809,arquitecto
+91352,Isabel,Peralta,3371206,True,0.1,aaaa@hotmail.com,4966065,desarrollador senior
+475120,Ana,Montoya,4608668,True,0.1,cccc@hotmail.com,5054589,arquitecto
+33379,Andres,Urrego,4707207,True,0.1,dddd@hotmail.com,5059278,desarrollador senior
+221566,Pablo,Gonzalez,4620550,True,0.1,bbbb@hotmail.com,4968237,desarrollador senior
+161572,Juan,Peralta,1624241,True,0.1,cccc@hotmail.com,4950342,desarrollador junior
+97871,Pablo,Peralta,4628792,True,0.1,cccc@hotmail.com,5073204,desarrollador senior
+450383,Isabel,Perez,3868659,True,0.1,bbbb@hotmail.com,5054560,desarrollador senior
+338605,Isabel,Gonzalez,1343674,True,0.1,cccc@hotmail.com,4696181,arquitecto
+76538,Kelly,Gonzalez,2300806,True,0.1,cccc@hotmail.com,4640701,desarrollador junior
+356548,Mauricio,Urrego,4033970,True,0.1,cccc@hotmail.com,4622777,arquitecto
+205405,Pablo,Urrego,1826487,True,0.1,aaaa@hotmail.com,4692089,arquitecto
+278783,Kelly,Gutierrez,2421622,True,0.1,dddd@hotmail.com,5041087,desarrollador junior
+178820,Raul,Urrego,2253124,True,0.1,dddd@hotmail.com,4653162,desarrollador junior
+138286,Manuela,Gutierrez,2629850,True,0.1,aaaa@hotmail.com,4852755,arquitecto
+55955,Mauricio,Gonzalez,1000973,True,0.1,dddd@hotmail.com,4716345,desarrollador junior
+217799,Ana,Peralta,2523042,True,0.1,bbbb@hotmail.com,4738847,desarrollador junior
+400175,Raul,Gonzalez,4693383,True,0.1,cccc@hotmail.com,4861053,desarrollador junior
+63928,Mauricio,Montoya,3236321,True,0.1,aaaa@hotmail.com,4914032,desarrollador senior
+34411,Andres,Gonzalez,3098508,True,0.1,aaaa@hotmail.com,4851925,desarrollador junior
+230350,Manuela,Urrego,2806228,True,0.1,dddd@hotmail.com,4905525,desarrollador junior
+420033,Pablo,Peralta,4534199,True,0.1,dddd@hotmail.com,4701421,desarrollador senior
+344013,Juan,Urrego,4304438,True,0.1,cccc@hotmail.com,4693399,desarrollador senior
+93691,Ana,Perez,1486439,True,0.1,cccc@hotmail.com,5060807,arquitecto
+241906,Raul,Peralta,1121357,True,0.1,bbbb@hotmail.com,4991123,desarrollador senior
+484310,Raul,Gutierrez,2224740,True,0.1,cccc@hotmail.com,4719542,desarrollador senior
+279048,Mauricio,Perez,4678490,True,0.1,aaaa@hotmail.com,4719296,desarrollador junior
+295932,Andres,Urrego,2460916,True,0.1,bbbb@hotmail.com,4694205,desarrollador senior
+152715,Ana,Urrego,2318100,True,0.1,dddd@hotmail.com,4804738,arquitecto
+365076,Isabel,Peralta,2600795,True,0.1,bbbb@hotmail.com,5048025,desarrollador senior
+308889,Juan,Peralta,2764989,True,0.1,aaaa@hotmail.com,4948743,desarrollador junior
+425539,Kelly,Montoya,1206565,True,0.1,aaaa@hotmail.com,4965169,desarrollador junior
+316591,Pablo,Urrego,2595846,True,0.1,cccc@hotmail.com,4748404,arquitecto
+189605,Ana,Gutierrez,1700645,True,0.1,cccc@hotmail.com,4609239,desarrollador senior
+71005,Ana,Montoya,2731813,True,0.1,cccc@hotmail.com,4992227,desarrollador senior
+40212,Andres,Peralta,3153426,True,0.1,cccc@hotmail.com,4647249,desarrollador senior
+175053,Pablo,Peralta,4582234,True,0.1,bbbb@hotmail.com,4990003,arquitecto
+1270,Raul,Perez,3794489,True,0.1,dddd@hotmail.com,4678711,desarrollador junior
+331554,Kelly,Montoya,3589027,True,0.1,dddd@hotmail.com,5081280,desarrollador senior
+248541,Raul,Montoya,2404871,True,0.1,dddd@hotmail.com,4936506,desarrollador junior
+424984,Kelly,Peralta,4683012,True,0.1,aaaa@hotmail.com,5008923,desarrollador senior
+453532,Juan,Gomez,2299685,True,0.1,dddd@hotmail.com,4839376,arquitecto
+410431,Juan,Gomez,4061195,True,0.1,cccc@hotmail.com,5037428,desarrollador senior
+310825,Raul,Peralta,1084505,True,0.1,bbbb@hotmail.com,4866687,arquitecto
+355177,Manuela,Gomez,3423991,True,0.1,cccc@hotmail.com,4931120,desarrollador junior
+5518,Ana,Gonzalez,2670413,True,0.1,aaaa@hotmail.com,5050538,desarrollador senior
+167500,Isabel,Urrego,1031726,True,0.1,bbbb@hotmail.com,4989545,arquitecto
+457293,Veronica,Gomez,4218594,True,0.1,dddd@hotmail.com,4603182,desarrollador junior
+401347,Pablo,Perez,1451136,True,0.1,aaaa@hotmail.com,4847124,arquitecto
+41843,Raul,Urrego,3681404,True,0.1,dddd@hotmail.com,4864693,arquitecto
+37658,Andres,Gomez,1547098,True,0.1,cccc@hotmail.com,4638125,desarrollador senior
+340587,Ana,Gonzalez,2187219,True,0.1,dddd@hotmail.com,5023507,arquitecto
+330700,Isabel,Gomez,3906623,True,0.1,bbbb@hotmail.com,4607216,desarrollador senior
+232234,Manuela,Gutierrez,1350433,True,0.1,dddd@hotmail.com,5012676,desarrollador senior
+154209,Andres,Montoya,4249269,True,0.1,bbbb@hotmail.com,4640014,desarrollador senior
+341897,Raul,Montoya,1718881,True,0.1,dddd@hotmail.com,4611667,desarrollador senior
+482812,Isabel,Urrego,2081110,True,0.1,cccc@hotmail.com,5006071,arquitecto
+30394,Isabel,Gutierrez,3126550,True,0.1,aaaa@hotmail.com,4689615,desarrollador junior
+231952,Isabel,Montoya,1595872,True,0.1,cccc@hotmail.com,4836263,desarrollador junior
+409368,Veronica,Perez,2557860,True,0.1,bbbb@hotmail.com,4702306,desarrollador junior
+315881,Isabel,Gutierrez,2567465,True,0.1,bbbb@hotmail.com,5019205,desarrollador senior
+141407,Mauricio,Perez,4183487,True,0.1,cccc@hotmail.com,4698985,desarrollador junior
+146307,Raul,Perez,4892805,True,0.1,dddd@hotmail.com,4737239,desarrollador senior
+488315,Isabel,Gomez,2818793,True,0.1,bbbb@hotmail.com,4836866,desarrollador senior
+89584,Kelly,Gomez,2550308,True,0.1,dddd@hotmail.com,4822341,desarrollador junior
+167172,Isabel,Urrego,4957286,True,0.1,cccc@hotmail.com,4916209,desarrollador junior
+418734,Ana,Montoya,3744129,True,0.1,dddd@hotmail.com,4991505,arquitecto
+390638,Juan,Gutierrez,4434411,True,0.1,cccc@hotmail.com,4810203,arquitecto
+126159,Andres,Gonzalez,2957401,True,0.1,cccc@hotmail.com,4765678,desarrollador junior
+449446,Manuela,Urrego,2148671,True,0.1,bbbb@hotmail.com,4768217,desarrollador junior
+438578,Andres,Gutierrez,1243431,True,0.1,cccc@hotmail.com,4843160,desarrollador senior
+7016,Ana,Montoya,3658061,True,0.1,aaaa@hotmail.com,4964407,desarrollador junior
+175784,Isabel,Montoya,3415951,True,0.1,cccc@hotmail.com,4808834,arquitecto
+83285,Isabel,Perez,3491995,True,0.1,dddd@hotmail.com,5021126,arquitecto
+23283,Raul,Gomez,4621684,True,0.1,cccc@hotmail.com,4819347,desarrollador senior
+375397,Mauricio,Gonzalez,2998245,True,0.1,cccc@hotmail.com,4657823,desarrollador junior
+209615,Raul,Peralta,1786338,True,0.1,dddd@hotmail.com,4960034,desarrollador junior
+466081,Isabel,Gomez,2876180,True,0.1,cccc@hotmail.com,4963756,desarrollador senior
+65061,Juan,Gonzalez,2473380,True,0.1,bbbb@hotmail.com,4853777,desarrollador senior
+301833,Ana,Gomez,1737848,True,0.1,bbbb@hotmail.com,4737559,desarrollador senior
+110893,Mauricio,Gomez,1594692,True,0.1,cccc@hotmail.com,4641896,arquitecto
+285934,Kelly,Perez,3967105,True,0.1,bbbb@hotmail.com,4875161,arquitecto
+394965,Mauricio,Gonzalez,4150374,True,0.1,aaaa@hotmail.com,5074738,arquitecto
+250629,Kelly,Montoya,1365410,True,0.1,bbbb@hotmail.com,4716011,desarrollador junior
+284905,Isabel,Montoya,4418670,True,0.1,bbbb@hotmail.com,4820427,arquitecto
+413268,Kelly,Gutierrez,4681539,True,0.1,bbbb@hotmail.com,4868954,arquitecto
+310216,Ana,Montoya,2688342,True,0.1,dddd@hotmail.com,5080863,arquitecto
+93524,Veronica,Gomez,3729314,True,0.1,cccc@hotmail.com,5045748,desarrollador senior
+424273,Kelly,Peralta,1810802,True,0.1,bbbb@hotmail.com,4718401,desarrollador junior
+375402,Manuela,Gutierrez,4686989,True,0.1,bbbb@hotmail.com,4830746,desarrollador senior
+34856,Ana,Gutierrez,2241318,True,0.1,aaaa@hotmail.com,5019332,desarrollador senior
+494247,Andres,Gomez,2664279,True,0.1,cccc@hotmail.com,4847777,desarrollador junior
+418811,Kelly,Peralta,3532934,True,0.1,cccc@hotmail.com,4815215,arquitecto
+377038,Mauricio,Gomez,3247217,True,0.1,cccc@hotmail.com,4938958,arquitecto
+106917,Juan,Gutierrez,3316435,True,0.1,cccc@hotmail.com,4775375,desarrollador senior
+112784,Mauricio,Gutierrez,3029821,True,0.1,cccc@hotmail.com,4924285,desarrollador junior
+98150,Veronica,Peralta,4205938,True,0.1,bbbb@hotmail.com,5044471,desarrollador junior
+425487,Manuela,Montoya,3942019,True,0.1,aaaa@hotmail.com,5061685,desarrollador senior
+172307,Ana,Gomez,1679403,True,0.1,bbbb@hotmail.com,4978877,desarrollador senior
+97709,Isabel,Gomez,2323710,True,0.1,bbbb@hotmail.com,4744953,desarrollador senior
+389735,Kelly,Peralta,3345523,True,0.1,bbbb@hotmail.com,4809454,arquitecto
+308087,Veronica,Gonzalez,3890875,True,0.1,cccc@hotmail.com,4776988,arquitecto
+118053,Ana,Urrego,3313968,True,0.1,aaaa@hotmail.com,4614884,desarrollador junior
+225188,Veronica,Perez,4025879,True,0.1,bbbb@hotmail.com,4722487,desarrollador senior
+179883,Mauricio,Gutierrez,4904485,True,0.1,bbbb@hotmail.com,4915998,desarrollador junior
+137756,Pablo,Gonzalez,1898399,True,0.1,dddd@hotmail.com,4700002,desarrollador junior
+443773,Kelly,Gomez,2531633,True,0.1,bbbb@hotmail.com,5015403,arquitecto
+393818,Veronica,Perez,4029296,True,0.1,aaaa@hotmail.com,4816186,desarrollador junior
+394785,Ana,Gomez,1594187,True,0.1,aaaa@hotmail.com,4952221,desarrollador senior
+248303,Veronica,Gomez,2067666,True,0.1,aaaa@hotmail.com,5000641,desarrollador junior
+338318,Manuela,Montoya,4108748,True,0.1,aaaa@hotmail.com,4920447,desarrollador senior
+182081,Mauricio,Urrego,2930628,True,0.1,cccc@hotmail.com,4683837,desarrollador junior
+11682,Ana,Gomez,2035717,True,0.1,bbbb@hotmail.com,4956915,desarrollador senior
+269752,Raul,Gomez,4742107,True,0.1,cccc@hotmail.com,4739301,arquitecto
+455086,Pablo,Gonzalez,1362215,True,0.1,bbbb@hotmail.com,4670768,desarrollador junior
+55818,Ana,Gutierrez,3564451,True,0.1,bbbb@hotmail.com,4945120,desarrollador junior
+22403,Kelly,Gomez,2100586,True,0.1,dddd@hotmail.com,4816958,desarrollador senior
+174782,Ana,Gonzalez,1887091,True,0.1,dddd@hotmail.com,4766280,desarrollador senior
+160693,Isabel,Gomez,1774048,True,0.1,dddd@hotmail.com,4915104,arquitecto
+257820,Mauricio,Perez,3653552,True,0.1,cccc@hotmail.com,5032456,desarrollador senior
+429533,Kelly,Gomez,2591377,True,0.1,dddd@hotmail.com,4749640,arquitecto
+179138,Raul,Gomez,1707414,True,0.1,bbbb@hotmail.com,4717799,desarrollador junior
+9189,Ana,Perez,4256136,True,0.1,dddd@hotmail.com,4675481,desarrollador senior
+103842,Juan,Perez,1070566,True,0.1,dddd@hotmail.com,4954189,desarrollador junior
+474316,Veronica,Urrego,2563593,True,0.1,aaaa@hotmail.com,4798225,desarrollador junior
+423295,Raul,Gutierrez,1973983,True,0.1,dddd@hotmail.com,4725681,desarrollador junior
+187547,Andres,Peralta,3927592,True,0.1,cccc@hotmail.com,4893296,desarrollador senior
+72591,Manuela,Perez,1813997,True,0.1,cccc@hotmail.com,5016880,desarrollador junior
+313994,Kelly,Gonzalez,3867070,True,0.1,dddd@hotmail.com,4803254,desarrollador senior
+499591,Veronica,Gonzalez,2366181,True,0.1,cccc@hotmail.com,4736577,desarrollador junior
+157813,Juan,Gonzalez,2429396,True,0.1,cccc@hotmail.com,5029858,desarrollador junior
+168703,Juan,Gutierrez,3493999,True,0.1,bbbb@hotmail.com,4771854,arquitecto
+466970,Manuela,Gutierrez,4562112,True,0.1,aaaa@hotmail.com,4938852,desarrollador junior
+78816,Raul,Perez,4112217,True,0.1,cccc@hotmail.com,5033198,arquitecto
+52564,Juan,Montoya,4266514,True,0.1,bbbb@hotmail.com,5006082,arquitecto
+45848,Ana,Gonzalez,2065726,True,0.1,bbbb@hotmail.com,4757006,desarrollador junior
+427131,Ana,Urrego,2049101,True,0.1,dddd@hotmail.com,4649332,desarrollador junior
+419483,Manuela,Peralta,2730602,True,0.1,dddd@hotmail.com,5044764,arquitecto
+56441,Mauricio,Peralta,1464791,True,0.1,cccc@hotmail.com,4622757,desarrollador junior
+103948,Veronica,Montoya,1995987,True,0.1,dddd@hotmail.com,4629399,arquitecto
+116951,Kelly,Perez,1455556,True,0.1,aaaa@hotmail.com,4927738,arquitecto
+449103,Raul,Gonzalez,2814621,True,0.1,bbbb@hotmail.com,4963226,desarrollador junior
+74791,Isabel,Montoya,4753698,True,0.1,bbbb@hotmail.com,4644923,desarrollador junior
+274233,Isabel,Urrego,1856698,True,0.1,bbbb@hotmail.com,4756437,desarrollador senior
+360937,Manuela,Montoya,4089286,True,0.1,dddd@hotmail.com,4870948,arquitecto
+191847,Manuela,Montoya,3622905,True,0.1,aaaa@hotmail.com,4892374,desarrollador junior
+439484,Pablo,Perez,1977021,True,0.1,bbbb@hotmail.com,4621564,desarrollador senior
+107560,Juan,Montoya,2493710,True,0.1,bbbb@hotmail.com,5058426,desarrollador junior
+46257,Isabel,Urrego,4458452,True,0.1,cccc@hotmail.com,4644798,arquitecto
+323866,Manuela,Urrego,1119518,True,0.1,dddd@hotmail.com,4971753,desarrollador senior
+419419,Pablo,Perez,3728615,True,0.1,dddd@hotmail.com,4740927,desarrollador junior
+205477,Juan,Montoya,3338366,True,0.1,cccc@hotmail.com,4600415,arquitecto
+141201,Ana,Peralta,4232003,True,0.1,dddd@hotmail.com,4681263,desarrollador junior
+209919,Pablo,Gonzalez,4034376,True,0.1,cccc@hotmail.com,4630331,desarrollador senior
+114031,Kelly,Gomez,2659035,True,0.1,dddd@hotmail.com,4619934,desarrollador senior
+300397,Raul,Gonzalez,3692598,True,0.1,dddd@hotmail.com,4756690,arquitecto
+230019,Mauricio,Gutierrez,4316206,True,0.1,aaaa@hotmail.com,4773478,desarrollador junior
+144140,Andres,Gutierrez,1177382,True,0.1,aaaa@hotmail.com,5021840,desarrollador senior
+260047,Isabel,Perez,3171695,True,0.1,aaaa@hotmail.com,5026809,desarrollador junior
+162691,Isabel,Gutierrez,4380374,True,0.1,dddd@hotmail.com,4797371,desarrollador senior
+12158,Raul,Peralta,1322525,True,0.1,cccc@hotmail.com,4686709,desarrollador junior
+26837,Manuela,Montoya,1028388,True,0.1,aaaa@hotmail.com,4848152,desarrollador senior
+258904,Mauricio,Gonzalez,2979770,True,0.1,dddd@hotmail.com,4625689,desarrollador junior
+101563,Raul,Gutierrez,1049931,True,0.1,bbbb@hotmail.com,4751234,arquitecto
+147343,Kelly,Gomez,3003884,True,0.1,aaaa@hotmail.com,4901078,arquitecto
+275448,Ana,Perez,1396564,True,0.1,aaaa@hotmail.com,4795029,desarrollador junior
+116149,Raul,Perez,3976149,True,0.1,bbbb@hotmail.com,4938859,desarrollador senior
+430299,Juan,Urrego,4834974,True,0.1,aaaa@hotmail.com,4876669,desarrollador senior
+353157,Raul,Peralta,3188816,True,0.1,dddd@hotmail.com,4654061,desarrollador junior
+175139,Kelly,Gomez,3339881,True,0.1,aaaa@hotmail.com,4760326,desarrollador senior
+336292,Pablo,Gonzalez,2789902,True,0.1,dddd@hotmail.com,4843773,arquitecto
+478918,Isabel,Urrego,4623533,True,0.1,bbbb@hotmail.com,4885925,arquitecto
+285750,Kelly,Gutierrez,4166686,True,0.1,dddd@hotmail.com,4611033,arquitecto
+182741,Isabel,Perez,3082751,True,0.1,aaaa@hotmail.com,4650639,desarrollador junior
+67217,Juan,Gutierrez,3088499,True,0.1,cccc@hotmail.com,4954584,desarrollador junior
+269184,Raul,Perez,2825080,True,0.1,dddd@hotmail.com,4696584,arquitecto
+298108,Manuela,Gomez,3845704,True,0.1,aaaa@hotmail.com,5079073,desarrollador senior
+166956,Mauricio,Peralta,3939307,True,0.1,dddd@hotmail.com,4867194,desarrollador senior
+115307,Ana,Perez,1263996,True,0.1,cccc@hotmail.com,4994273,arquitecto
+185630,Raul,Urrego,4155304,True,0.1,cccc@hotmail.com,5007902,desarrollador senior
+173348,Manuela,Montoya,3004365,True,0.1,bbbb@hotmail.com,4828979,arquitecto
+409148,Manuela,Gutierrez,2797429,True,0.1,cccc@hotmail.com,4610347,desarrollador junior
+486402,Kelly,Gonzalez,3352729,True,0.1,dddd@hotmail.com,4686921,arquitecto
+3972,Kelly,Gomez,3882037,True,0.1,cccc@hotmail.com,4858380,desarrollador junior
+452654,Veronica,Gomez,2406245,True,0.1,cccc@hotmail.com,4702941,desarrollador senior
+210707,Mauricio,Gutierrez,3553462,True,0.1,bbbb@hotmail.com,4728359,arquitecto
+119803,Raul,Gonzalez,3726237,True,0.1,cccc@hotmail.com,4808697,desarrollador junior
+148408,Juan,Gonzalez,3476766,True,0.1,bbbb@hotmail.com,4945507,desarrollador junior
+104878,Kelly,Montoya,2041090,True,0.1,cccc@hotmail.com,4888261,desarrollador senior
+61753,Mauricio,Perez,3452069,True,0.1,cccc@hotmail.com,4950765,arquitecto
+233906,Kelly,Gomez,4514268,True,0.1,cccc@hotmail.com,4948137,desarrollador senior
+64617,Pablo,Gomez,4201429,True,0.1,cccc@hotmail.com,4898424,desarrollador junior
+181536,Manuela,Gonzalez,2316161,True,0.1,aaaa@hotmail.com,4604119,desarrollador senior
+421809,Isabel,Gomez,2286045,True,0.1,bbbb@hotmail.com,4909923,arquitecto
+56467,Pablo,Urrego,3777872,True,0.1,bbbb@hotmail.com,4837804,arquitecto
+141262,Kelly,Gutierrez,3224007,True,0.1,bbbb@hotmail.com,4718155,arquitecto
+270583,Veronica,Urrego,2854622,True,0.1,cccc@hotmail.com,4700201,desarrollador senior
+60064,Isabel,Urrego,2023939,True,0.1,dddd@hotmail.com,5025394,arquitecto
+183003,Pablo,Peralta,1407103,True,0.1,aaaa@hotmail.com,5037079,desarrollador junior
+431402,Isabel,Gonzalez,2699816,True,0.1,bbbb@hotmail.com,4920903,desarrollador junior
+478044,Isabel,Montoya,3722476,True,0.1,cccc@hotmail.com,4674159,desarrollador junior
+248043,Raul,Peralta,2562424,True,0.1,bbbb@hotmail.com,5073020,desarrollador senior
+283586,Manuela,Montoya,2821445,True,0.1,aaaa@hotmail.com,4844163,desarrollador junior
+391136,Pablo,Gonzalez,1281588,True,0.1,cccc@hotmail.com,4827377,desarrollador senior
+153702,Kelly,Urrego,4441231,True,0.1,aaaa@hotmail.com,4781636,desarrollador senior
+281483,Veronica,Montoya,4909212,True,0.1,dddd@hotmail.com,4835360,desarrollador junior
+486101,Mauricio,Perez,1463505,True,0.1,bbbb@hotmail.com,4783020,desarrollador junior
+4594,Isabel,Gutierrez,3424204,True,0.1,bbbb@hotmail.com,4789398,arquitecto
+233872,Andres,Gomez,2394704,True,0.1,aaaa@hotmail.com,5057925,desarrollador senior
+171405,Mauricio,Gonzalez,4813388,True,0.1,dddd@hotmail.com,4663621,desarrollador junior
+191005,Mauricio,Urrego,1320379,True,0.1,bbbb@hotmail.com,4602729,arquitecto
+220168,Kelly,Gutierrez,3998852,True,0.1,cccc@hotmail.com,4642493,desarrollador senior
+464754,Pablo,Perez,2073199,True,0.1,dddd@hotmail.com,4923979,desarrollador junior
+413926,Ana,Gomez,4501954,True,0.1,dddd@hotmail.com,4884160,desarrollador junior
+407480,Juan,Urrego,2135637,True,0.1,bbbb@hotmail.com,4789507,desarrollador junior
+230388,Pablo,Gutierrez,1490256,True,0.1,dddd@hotmail.com,4745484,desarrollador senior
+366793,Raul,Gonzalez,1273106,True,0.1,aaaa@hotmail.com,4695366,arquitecto
+201229,Veronica,Gonzalez,1193639,True,0.1,bbbb@hotmail.com,4914202,desarrollador junior
+250371,Ana,Urrego,4402197,True,0.1,dddd@hotmail.com,4876160,desarrollador senior
+58424,Veronica,Perez,3447072,True,0.1,aaaa@hotmail.com,4745636,desarrollador senior
+349251,Raul,Gutierrez,3602504,True,0.1,bbbb@hotmail.com,5070483,desarrollador junior
+69967,Manuela,Perez,4308066,True,0.1,bbbb@hotmail.com,4901061,arquitecto
+353315,Ana,Urrego,2216014,True,0.1,aaaa@hotmail.com,4672389,desarrollador junior
+351695,Veronica,Perez,4715842,True,0.1,aaaa@hotmail.com,5068514,desarrollador senior
+312931,Kelly,Peralta,2387127,True,0.1,aaaa@hotmail.com,5072916,arquitecto
+451041,Juan,Gonzalez,1050716,True,0.1,cccc@hotmail.com,4665024,arquitecto
+418003,Manuela,Peralta,3784049,True,0.1,cccc@hotmail.com,4831905,arquitecto
+176756,Isabel,Perez,4557480,True,0.1,cccc@hotmail.com,5072826,desarrollador junior
+215936,Andres,Gomez,4879884,True,0.1,aaaa@hotmail.com,5032124,arquitecto
+111122,Andres,Peralta,2477287,True,0.1,aaaa@hotmail.com,4847872,desarrollador senior
+491597,Mauricio,Perez,1571103,True,0.1,dddd@hotmail.com,4655133,desarrollador senior
+203231,Veronica,Gonzalez,1415299,True,0.1,aaaa@hotmail.com,5009935,desarrollador senior
+288184,Pablo,Gutierrez,1691308,True,0.1,bbbb@hotmail.com,5075208,desarrollador senior
+246738,Manuela,Peralta,1492194,True,0.1,aaaa@hotmail.com,4866779,arquitecto
+379714,Manuela,Montoya,2673102,True,0.1,dddd@hotmail.com,4953499,arquitecto
+80657,Veronica,Gomez,3531916,True,0.1,cccc@hotmail.com,4817367,desarrollador senior
+6780,Raul,Gutierrez,3007972,True,0.1,aaaa@hotmail.com,4656983,desarrollador junior
+136721,Manuela,Gomez,2408120,True,0.1,aaaa@hotmail.com,4718747,arquitecto
+393505,Juan,Gomez,4701567,True,0.1,bbbb@hotmail.com,4622139,desarrollador junior
+311344,Raul,Perez,3488435,True,0.1,bbbb@hotmail.com,5008262,desarrollador junior
+199516,Veronica,Gonzalez,2630080,True,0.1,cccc@hotmail.com,4881100,desarrollador junior
+236921,Pablo,Montoya,4292212,True,0.1,cccc@hotmail.com,4945953,desarrollador senior
+406161,Ana,Gomez,4694695,True,0.1,cccc@hotmail.com,4941442,desarrollador junior
+167638,Andres,Perez,2361248,True,0.1,bbbb@hotmail.com,4642947,desarrollador senior
+394960,Ana,Gutierrez,1409715,True,0.1,cccc@hotmail.com,5020167,arquitecto
+128264,Mauricio,Gomez,4723649,True,0.1,aaaa@hotmail.com,4668758,desarrollador senior
+142533,Raul,Urrego,2974267,True,0.1,aaaa@hotmail.com,4702270,arquitecto
+270802,Ana,Gomez,4010900,True,0.1,dddd@hotmail.com,5013410,arquitecto
+15711,Isabel,Urrego,3959626,True,0.1,bbbb@hotmail.com,4683439,arquitecto
+169192,Mauricio,Gomez,1285484,True,0.1,dddd@hotmail.com,4643336,desarrollador senior
+238246,Juan,Perez,1439738,True,0.1,bbbb@hotmail.com,4847805,desarrollador junior
+2963,Pablo,Urrego,2327977,True,0.1,aaaa@hotmail.com,4849519,desarrollador senior
+43723,Kelly,Montoya,4909981,True,0.1,dddd@hotmail.com,5060969,desarrollador senior
+121266,Manuela,Montoya,1799044,True,0.1,aaaa@hotmail.com,4724031,desarrollador senior
+289376,Ana,Gutierrez,1964938,True,0.1,bbbb@hotmail.com,4797148,arquitecto
+407360,Juan,Perez,2342345,True,0.1,aaaa@hotmail.com,5071604,desarrollador senior
+117999,Juan,Gonzalez,3496996,True,0.1,bbbb@hotmail.com,4771624,arquitecto
+412224,Isabel,Peralta,4031056,True,0.1,bbbb@hotmail.com,4675517,desarrollador junior
+251885,Ana,Gomez,3458314,True,0.1,dddd@hotmail.com,4940331,desarrollador junior
+225511,Andres,Gomez,4913531,True,0.1,bbbb@hotmail.com,5008282,arquitecto
+369366,Andres,Gomez,4070695,True,0.1,cccc@hotmail.com,4786390,arquitecto
+359538,Manuela,Montoya,1088894,True,0.1,cccc@hotmail.com,5026529,desarrollador junior
+62164,Juan,Gomez,2085928,True,0.1,dddd@hotmail.com,4693629,desarrollador junior
+299882,Andres,Peralta,1751122,True,0.1,aaaa@hotmail.com,4636955,desarrollador senior
+283690,Kelly,Gutierrez,1120467,True,0.1,aaaa@hotmail.com,4781973,desarrollador senior
+354361,Mauricio,Montoya,2959286,True,0.1,cccc@hotmail.com,4852118,arquitecto
+304405,Juan,Perez,2278229,True,0.1,aaaa@hotmail.com,4803550,desarrollador senior
+461504,Ana,Montoya,4314015,True,0.1,aaaa@hotmail.com,4677269,desarrollador senior
+159366,Veronica,Gutierrez,2796653,True,0.1,bbbb@hotmail.com,4611570,desarrollador junior
+158692,Andres,Urrego,4953382,True,0.1,dddd@hotmail.com,5038033,desarrollador senior
+250665,Mauricio,Gomez,4730644,True,0.1,dddd@hotmail.com,4634888,desarrollador senior
+81138,Isabel,Gomez,2914953,True,0.1,bbbb@hotmail.com,4880120,arquitecto
+324404,Ana,Gutierrez,4695215,True,0.1,aaaa@hotmail.com,4835105,arquitecto
+490921,Mauricio,Perez,2533813,True,0.1,aaaa@hotmail.com,4698555,desarrollador junior
+494447,Isabel,Gutierrez,2881627,True,0.1,bbbb@hotmail.com,4787464,arquitecto
+132971,Ana,Gomez,4979157,True,0.1,dddd@hotmail.com,4797540,desarrollador junior
+353870,Juan,Montoya,1647619,True,0.1,cccc@hotmail.com,4629690,arquitecto
+7697,Kelly,Montoya,2072191,True,0.1,bbbb@hotmail.com,4722120,desarrollador senior
+257763,Isabel,Urrego,2970047,True,0.1,aaaa@hotmail.com,4733543,desarrollador senior
+50387,Mauricio,Urrego,1355829,True,0.1,bbbb@hotmail.com,4993655,arquitecto
+75855,Mauricio,Perez,3255643,True,0.1,cccc@hotmail.com,4607473,desarrollador junior
+419047,Juan,Peralta,4791360,True,0.1,bbbb@hotmail.com,4739347,desarrollador junior
+118472,Kelly,Gomez,2384721,True,0.1,bbbb@hotmail.com,5027925,desarrollador senior
+407090,Isabel,Peralta,4460588,True,0.1,cccc@hotmail.com,4675515,desarrollador junior
+338827,Isabel,Urrego,4131899,True,0.1,cccc@hotmail.com,4681196,desarrollador junior
+425484,Manuela,Gonzalez,1469282,True,0.1,dddd@hotmail.com,4785480,desarrollador junior
+207662,Kelly,Gomez,4558871,True,0.1,cccc@hotmail.com,4933775,arquitecto
+240402,Raul,Urrego,3786743,True,0.1,aaaa@hotmail.com,4945111,arquitecto
+58539,Raul,Gomez,4541444,True,0.1,bbbb@hotmail.com,4872754,desarrollador senior
+338229,Raul,Gomez,1577268,True,0.1,dddd@hotmail.com,4754532,arquitecto
+491569,Kelly,Perez,2084458,True,0.1,dddd@hotmail.com,5050359,arquitecto
+97328,Pablo,Gomez,3961518,True,0.1,cccc@hotmail.com,4789806,arquitecto
+344241,Mauricio,Urrego,2785078,True,0.1,aaaa@hotmail.com,4987709,desarrollador senior
+206378,Juan,Gonzalez,4984765,True,0.1,bbbb@hotmail.com,4679733,desarrollador senior
+114594,Raul,Montoya,2092218,True,0.1,cccc@hotmail.com,4704174,arquitecto
+286422,Juan,Gutierrez,1245877,True,0.1,dddd@hotmail.com,4886609,arquitecto
+155997,Isabel,Montoya,4022953,True,0.1,cccc@hotmail.com,4662722,desarrollador junior
+289440,Isabel,Peralta,1421767,True,0.1,dddd@hotmail.com,4958643,arquitecto
+201156,Veronica,Perez,3608403,True,0.1,cccc@hotmail.com,4872754,desarrollador junior
+365481,Raul,Gutierrez,4740205,True,0.1,dddd@hotmail.com,4649981,arquitecto
+63426,Ana,Montoya,4008014,True,0.1,aaaa@hotmail.com,4760044,desarrollador senior
+463936,Andres,Montoya,2488213,True,0.1,bbbb@hotmail.com,4774612,desarrollador junior
+137671,Juan,Perez,3183538,True,0.1,bbbb@hotmail.com,4939905,desarrollador junior
+172101,Andres,Gutierrez,1200426,True,0.1,dddd@hotmail.com,5062571,arquitecto
+468844,Pablo,Peralta,4240814,True,0.1,aaaa@hotmail.com,5038616,desarrollador junior
+306219,Pablo,Gonzalez,4683255,True,0.1,dddd@hotmail.com,4863619,desarrollador senior
+54662,Isabel,Perez,1515866,True,0.1,bbbb@hotmail.com,4614983,arquitecto
+42859,Kelly,Peralta,2358237,True,0.1,cccc@hotmail.com,4970944,desarrollador junior
+181260,Ana,Gomez,2148931,True,0.1,bbbb@hotmail.com,4886548,desarrollador senior
+372715,Raul,Gomez,1969176,True,0.1,aaaa@hotmail.com,4751090,desarrollador senior
+53279,Mauricio,Perez,4598218,True,0.1,cccc@hotmail.com,4635360,arquitecto
+484233,Andres,Gomez,3708281,True,0.1,cccc@hotmail.com,4880333,desarrollador senior
+381155,Juan,Urrego,3934715,True,0.1,aaaa@hotmail.com,4892047,desarrollador senior
+123311,Mauricio,Gutierrez,1396338,True,0.1,dddd@hotmail.com,4889486,desarrollador junior
+415132,Ana,Urrego,2581062,True,0.1,aaaa@hotmail.com,4887376,arquitecto
+329335,Mauricio,Urrego,2264066,True,0.1,dddd@hotmail.com,4743448,desarrollador junior
+86229,Juan,Urrego,2836495,True,0.1,bbbb@hotmail.com,4606730,desarrollador senior
+58428,Andres,Gomez,4689801,True,0.1,dddd@hotmail.com,5011797,desarrollador senior
+313147,Andres,Urrego,3911004,True,0.1,aaaa@hotmail.com,4973116,desarrollador senior
+398983,Manuela,Perez,3236658,True,0.1,bbbb@hotmail.com,5038623,desarrollador senior
+351921,Andres,Peralta,4156769,True,0.1,cccc@hotmail.com,4989825,desarrollador senior
+456963,Veronica,Peralta,3954226,True,0.1,bbbb@hotmail.com,5020517,desarrollador junior
+17285,Mauricio,Montoya,1379224,True,0.1,cccc@hotmail.com,4890464,arquitecto
+294208,Raul,Perez,4907245,True,0.1,cccc@hotmail.com,5045914,desarrollador senior
+411711,Manuela,Urrego,3279615,True,0.1,aaaa@hotmail.com,4749117,desarrollador senior
+34250,Pablo,Peralta,2665324,True,0.1,dddd@hotmail.com,5015061,arquitecto
+226122,Ana,Gonzalez,3385898,True,0.1,aaaa@hotmail.com,5020412,desarrollador senior
+436801,Pablo,Gomez,1017073,True,0.1,cccc@hotmail.com,4651498,desarrollador junior
+461753,Manuela,Perez,1502519,True,0.1,bbbb@hotmail.com,4673767,desarrollador senior
+478940,Juan,Gutierrez,2459968,True,0.1,dddd@hotmail.com,4835672,desarrollador junior
+330945,Raul,Urrego,3929728,True,0.1,cccc@hotmail.com,4758309,desarrollador senior
+476849,Isabel,Gomez,2779752,True,0.1,cccc@hotmail.com,4787045,desarrollador senior
+27835,Mauricio,Gutierrez,4755890,True,0.1,dddd@hotmail.com,4995575,arquitecto
+123123,Kelly,Gutierrez,2893792,True,0.1,aaaa@hotmail.com,4880079,arquitecto
+349374,Pablo,Montoya,4758607,True,0.1,dddd@hotmail.com,5028293,desarrollador junior
+190386,Mauricio,Perez,3635632,True,0.1,bbbb@hotmail.com,4709431,arquitecto
+364865,Mauricio,Urrego,4279735,True,0.1,cccc@hotmail.com,5054501,desarrollador senior
+236652,Ana,Gutierrez,4624452,True,0.1,bbbb@hotmail.com,4677764,arquitecto
+469565,Mauricio,Peralta,1368195,True,0.1,bbbb@hotmail.com,4664669,desarrollador junior
+34005,Raul,Urrego,4644593,True,0.1,dddd@hotmail.com,5030678,desarrollador junior
+440616,Raul,Gutierrez,2091613,True,0.1,bbbb@hotmail.com,4757317,desarrollador junior
+30877,Andres,Peralta,4553309,True,0.1,dddd@hotmail.com,4981154,desarrollador junior
+146937,Juan,Gutierrez,1549960,True,0.1,cccc@hotmail.com,4623576,desarrollador junior
+325721,Kelly,Montoya,4716259,True,0.1,dddd@hotmail.com,5039523,arquitecto
+366613,Kelly,Gonzalez,3866832,True,0.1,bbbb@hotmail.com,4973352,desarrollador junior
+118061,Manuela,Perez,1594508,True,0.1,aaaa@hotmail.com,4602652,arquitecto
+226970,Manuela,Gutierrez,1000985,True,0.1,cccc@hotmail.com,4652562,arquitecto
+493704,Raul,Perez,1090328,True,0.1,bbbb@hotmail.com,4933820,desarrollador senior
+235725,Ana,Peralta,2044375,True,0.1,dddd@hotmail.com,4647095,desarrollador senior
+87992,Mauricio,Perez,2153120,True,0.1,bbbb@hotmail.com,4818246,desarrollador senior
+95930,Mauricio,Montoya,4408439,True,0.1,dddd@hotmail.com,4968959,arquitecto
+130654,Andres,Perez,4759825,True,0.1,bbbb@hotmail.com,4697103,arquitecto
+26674,Manuela,Gutierrez,1559416,True,0.1,cccc@hotmail.com,5039717,desarrollador junior
+277747,Raul,Perez,2455326,True,0.1,bbbb@hotmail.com,4643377,arquitecto
+60793,Isabel,Gomez,4194841,True,0.1,bbbb@hotmail.com,4718176,desarrollador junior
+156919,Mauricio,Gomez,4076678,True,0.1,bbbb@hotmail.com,4962934,arquitecto
+154069,Juan,Peralta,1255395,True,0.1,aaaa@hotmail.com,4610596,desarrollador senior
+201729,Veronica,Gonzalez,4493438,True,0.1,cccc@hotmail.com,4798074,arquitecto
+84016,Raul,Gonzalez,4741853,True,0.1,bbbb@hotmail.com,4862881,desarrollador senior
+14676,Andres,Gomez,4549915,True,0.1,bbbb@hotmail.com,5029323,arquitecto
+320108,Juan,Perez,3327451,True,0.1,dddd@hotmail.com,4731822,arquitecto
+477098,Raul,Urrego,2111559,True,0.1,dddd@hotmail.com,4867265,desarrollador junior
+312393,Veronica,Gonzalez,3652533,True,0.1,cccc@hotmail.com,4882728,desarrollador junior
+498530,Mauricio,Gonzalez,3314541,True,0.1,bbbb@hotmail.com,4884886,desarrollador senior
+286583,Kelly,Peralta,2542789,True,0.1,bbbb@hotmail.com,4794623,arquitecto
+169038,Ana,Perez,1855034,True,0.1,cccc@hotmail.com,5043502,arquitecto
+285241,Veronica,Montoya,3263499,True,0.1,dddd@hotmail.com,4963337,desarrollador junior
+68913,Ana,Gutierrez,2883205,True,0.1,bbbb@hotmail.com,4727250,desarrollador senior
+21569,Manuela,Urrego,1820053,True,0.1,bbbb@hotmail.com,4690226,desarrollador junior
+410493,Raul,Gutierrez,1282071,True,0.1,bbbb@hotmail.com,4704443,desarrollador junior
+307536,Kelly,Gutierrez,3941848,True,0.1,bbbb@hotmail.com,4745242,desarrollador senior
+443687,Raul,Gonzalez,2178182,True,0.1,dddd@hotmail.com,4699382,desarrollador junior
+464706,Juan,Peralta,2582676,True,0.1,dddd@hotmail.com,4982713,desarrollador senior
+57960,Mauricio,Peralta,2645367,True,0.1,dddd@hotmail.com,4798612,arquitecto
+174680,Raul,Gonzalez,2397189,True,0.1,aaaa@hotmail.com,4636831,desarrollador junior
+316957,Mauricio,Gomez,1075456,True,0.1,cccc@hotmail.com,5073933,desarrollador junior
+76836,Kelly,Gonzalez,3871035,True,0.1,cccc@hotmail.com,4859913,arquitecto
+284617,Pablo,Peralta,1756590,True,0.1,bbbb@hotmail.com,4800097,arquitecto
+391059,Isabel,Gomez,2829826,True,0.1,cccc@hotmail.com,4948436,desarrollador senior
+63095,Andres,Urrego,2815128,True,0.1,dddd@hotmail.com,5050981,arquitecto
+288837,Mauricio,Gomez,2003015,True,0.1,dddd@hotmail.com,4652985,desarrollador junior
+254420,Pablo,Perez,1870215,True,0.1,aaaa@hotmail.com,4726474,desarrollador junior
+233834,Isabel,Gomez,4459446,True,0.1,bbbb@hotmail.com,4699439,desarrollador senior
+133084,Veronica,Gomez,4763003,True,0.1,dddd@hotmail.com,4816968,arquitecto
+376547,Isabel,Montoya,3645129,True,0.1,aaaa@hotmail.com,4828155,desarrollador junior
+45208,Isabel,Montoya,4360082,True,0.1,dddd@hotmail.com,4698542,desarrollador junior
+433812,Mauricio,Gomez,4922691,True,0.1,aaaa@hotmail.com,4912562,arquitecto
+250229,Kelly,Gutierrez,2258533,True,0.1,bbbb@hotmail.com,4666617,arquitecto
+24090,Kelly,Gonzalez,2940282,True,0.1,dddd@hotmail.com,4927522,arquitecto
+377257,Mauricio,Peralta,2859220,True,0.1,bbbb@hotmail.com,4700721,desarrollador junior
+332968,Veronica,Gutierrez,1473087,True,0.1,bbbb@hotmail.com,4634193,desarrollador senior
+216665,Mauricio,Montoya,3790876,True,0.1,bbbb@hotmail.com,4762420,arquitecto
+144327,Kelly,Montoya,1701842,True,0.1,cccc@hotmail.com,4636226,desarrollador junior
+70093,Raul,Perez,4368933,True,0.1,dddd@hotmail.com,4995295,arquitecto
+5822,Raul,Peralta,1204821,True,0.1,aaaa@hotmail.com,5042754,desarrollador junior
+438830,Manuela,Peralta,3912465,True,0.1,aaaa@hotmail.com,4663936,arquitecto
+499031,Kelly,Gonzalez,3186264,True,0.1,dddd@hotmail.com,4719699,desarrollador senior
+125441,Pablo,Gonzalez,2882058,True,0.1,bbbb@hotmail.com,4887764,desarrollador senior
+291041,Andres,Montoya,1616329,True,0.1,cccc@hotmail.com,4960805,desarrollador junior
+39444,Juan,Montoya,3508962,True,0.1,bbbb@hotmail.com,4868983,desarrollador junior
+261274,Kelly,Urrego,4011378,True,0.1,bbbb@hotmail.com,4881944,desarrollador senior
+201081,Andres,Perez,4274028,True,0.1,dddd@hotmail.com,4698338,arquitecto
+425396,Isabel,Gonzalez,3023494,True,0.1,bbbb@hotmail.com,4675071,arquitecto
+217740,Isabel,Gomez,3902818,True,0.1,bbbb@hotmail.com,4799433,arquitecto
+445340,Andres,Gutierrez,1124581,True,0.1,cccc@hotmail.com,4988166,desarrollador senior
+138923,Kelly,Perez,4442771,True,0.1,dddd@hotmail.com,5022248,arquitecto
+172859,Andres,Gutierrez,3149137,True,0.1,bbbb@hotmail.com,4903260,desarrollador junior
+495957,Mauricio,Urrego,3358199,True,0.1,bbbb@hotmail.com,4704292,desarrollador junior
+429624,Manuela,Gomez,4059380,True,0.1,cccc@hotmail.com,4754072,arquitecto
+343396,Kelly,Gonzalez,4341698,True,0.1,cccc@hotmail.com,4737599,arquitecto
+384541,Kelly,Gonzalez,2446815,True,0.1,dddd@hotmail.com,5032575,arquitecto
+92862,Isabel,Urrego,4730649,True,0.1,dddd@hotmail.com,4889237,arquitecto
+207057,Ana,Perez,2182307,True,0.1,bbbb@hotmail.com,4683167,arquitecto
+129810,Raul,Gonzalez,3698335,True,0.1,aaaa@hotmail.com,4636960,desarrollador senior
+65736,Raul,Perez,4166477,True,0.1,aaaa@hotmail.com,4672030,desarrollador senior
+12609,Raul,Peralta,2662098,True,0.1,cccc@hotmail.com,5078882,desarrollador senior
+126058,Pablo,Perez,1552501,True,0.1,dddd@hotmail.com,5053904,desarrollador senior
+189598,Raul,Montoya,1401528,True,0.1,bbbb@hotmail.com,4606188,desarrollador junior
+411012,Andres,Gutierrez,3209564,True,0.1,dddd@hotmail.com,4989072,desarrollador junior
+494790,Manuela,Gutierrez,3962050,True,0.1,dddd@hotmail.com,4623365,desarrollador junior
+204417,Andres,Gutierrez,2036027,True,0.1,cccc@hotmail.com,4942123,desarrollador senior
+376006,Isabel,Montoya,1208756,True,0.1,cccc@hotmail.com,4687291,desarrollador junior
+32034,Ana,Perez,4028880,True,0.1,dddd@hotmail.com,4822349,desarrollador senior
+403533,Ana,Peralta,2157070,True,0.1,cccc@hotmail.com,4986933,desarrollador junior
+325988,Ana,Gutierrez,3681906,True,0.1,aaaa@hotmail.com,4807639,desarrollador junior
+307186,Isabel,Gomez,1026354,True,0.1,cccc@hotmail.com,4608622,desarrollador junior
+352374,Andres,Montoya,2976686,True,0.1,aaaa@hotmail.com,4894900,arquitecto
+493131,Manuela,Peralta,1672145,True,0.1,bbbb@hotmail.com,4736947,desarrollador senior
+363090,Pablo,Montoya,2842389,True,0.1,bbbb@hotmail.com,4681071,desarrollador senior
+321528,Isabel,Gomez,3535636,True,0.1,dddd@hotmail.com,5054798,desarrollador junior
+472592,Mauricio,Gutierrez,2598514,True,0.1,dddd@hotmail.com,4905481,arquitecto
+483653,Veronica,Urrego,3082093,True,0.1,bbbb@hotmail.com,4792799,arquitecto
+372291,Ana,Gutierrez,3278080,True,0.1,cccc@hotmail.com,4638751,desarrollador junior
+40783,Pablo,Gutierrez,2698698,True,0.1,bbbb@hotmail.com,4606713,desarrollador junior
+334835,Raul,Peralta,4199384,True,0.1,bbbb@hotmail.com,4667105,desarrollador junior
+59248,Mauricio,Urrego,4965270,True,0.1,cccc@hotmail.com,4729410,arquitecto
+215584,Mauricio,Gomez,4949991,True,0.1,cccc@hotmail.com,5007266,desarrollador junior
+241645,Ana,Gonzalez,1478634,True,0.1,cccc@hotmail.com,4673548,desarrollador senior
+218267,Raul,Peralta,3297676,True,0.1,aaaa@hotmail.com,4668452,desarrollador junior
+204163,Veronica,Perez,2343364,True,0.1,cccc@hotmail.com,4622895,desarrollador senior
+226973,Juan,Gonzalez,1790233,True,0.1,aaaa@hotmail.com,4623690,arquitecto
+184473,Pablo,Gomez,4152564,True,0.1,dddd@hotmail.com,4820008,desarrollador senior
+177441,Ana,Peralta,1416754,True,0.1,cccc@hotmail.com,4854463,desarrollador senior
+426847,Veronica,Gonzalez,2358016,True,0.1,dddd@hotmail.com,4690643,desarrollador senior
+52430,Ana,Gutierrez,3250595,True,0.1,bbbb@hotmail.com,4907947,desarrollador senior
+193534,Veronica,Peralta,3412214,True,0.1,bbbb@hotmail.com,5079500,arquitecto
+143406,Kelly,Gonzalez,3449948,True,0.1,bbbb@hotmail.com,4767298,arquitecto
+361822,Mauricio,Gonzalez,4836991,True,0.1,aaaa@hotmail.com,4956636,desarrollador junior
+237690,Ana,Perez,3654237,True,0.1,cccc@hotmail.com,4710306,arquitecto
+181506,Mauricio,Peralta,3996929,True,0.1,aaaa@hotmail.com,4726119,desarrollador senior
+200252,Pablo,Urrego,1502765,True,0.1,aaaa@hotmail.com,5075215,arquitecto
+284432,Juan,Gomez,2411798,True,0.1,dddd@hotmail.com,4973426,desarrollador senior
+472209,Veronica,Montoya,2160262,True,0.1,aaaa@hotmail.com,4647870,desarrollador junior
+452133,Veronica,Montoya,1691515,True,0.1,cccc@hotmail.com,4909162,desarrollador junior
+363891,Ana,Perez,2346967,True,0.1,aaaa@hotmail.com,4923145,desarrollador junior
+285123,Andres,Perez,1000956,True,0.1,cccc@hotmail.com,4720417,arquitecto
+306130,Mauricio,Peralta,1283317,True,0.1,dddd@hotmail.com,4612829,desarrollador junior
+64296,Mauricio,Urrego,3197685,True,0.1,aaaa@hotmail.com,4852627,arquitecto
+330008,Veronica,Peralta,2189767,True,0.1,aaaa@hotmail.com,4889975,arquitecto
+467706,Andres,Perez,1997713,True,0.1,cccc@hotmail.com,4905420,desarrollador junior
+359307,Ana,Montoya,1166190,True,0.1,aaaa@hotmail.com,4959887,arquitecto
+4955,Pablo,Gutierrez,4265295,True,0.1,dddd@hotmail.com,4826220,desarrollador senior
+364967,Kelly,Montoya,3694446,True,0.1,cccc@hotmail.com,5013943,desarrollador senior
+185492,Juan,Perez,4730392,True,0.1,bbbb@hotmail.com,4910287,arquitecto
+184384,Mauricio,Peralta,4640205,True,0.1,dddd@hotmail.com,4950756,arquitecto
+23210,Veronica,Urrego,4335220,True,0.1,cccc@hotmail.com,4993404,arquitecto
+85441,Veronica,Perez,1191352,True,0.1,dddd@hotmail.com,4991344,desarrollador junior
+481722,Manuela,Gonzalez,2912311,True,0.1,cccc@hotmail.com,4629774,desarrollador senior
+344078,Kelly,Gonzalez,1544968,True,0.1,cccc@hotmail.com,5006980,desarrollador senior
+258671,Ana,Gutierrez,2270326,True,0.1,cccc@hotmail.com,4880225,desarrollador senior
+324794,Pablo,Gutierrez,3367424,True,0.1,cccc@hotmail.com,4922194,desarrollador junior
+185170,Veronica,Gonzalez,1462242,True,0.1,aaaa@hotmail.com,4944628,desarrollador junior
+491043,Raul,Peralta,1127400,True,0.1,cccc@hotmail.com,4701064,arquitecto
+209294,Kelly,Montoya,3614596,True,0.1,dddd@hotmail.com,4749804,desarrollador junior
+357378,Juan,Peralta,3054387,True,0.1,dddd@hotmail.com,4954807,desarrollador junior
+470020,Veronica,Gomez,3767432,True,0.1,dddd@hotmail.com,4624546,arquitecto
+354570,Raul,Perez,2750010,True,0.1,aaaa@hotmail.com,4747717,arquitecto
+144220,Mauricio,Perez,4380877,True,0.1,cccc@hotmail.com,4694286,desarrollador junior
+444465,Andres,Gutierrez,3444185,True,0.1,bbbb@hotmail.com,4947540,desarrollador junior
+159868,Manuela,Perez,4169465,True,0.1,aaaa@hotmail.com,4604702,desarrollador senior
+471870,Ana,Urrego,3652097,True,0.1,bbbb@hotmail.com,4636021,desarrollador junior
+490068,Kelly,Montoya,1250544,True,0.1,aaaa@hotmail.com,4794322,desarrollador senior
+174998,Raul,Urrego,2896252,True,0.1,dddd@hotmail.com,4831415,desarrollador senior
+11027,Raul,Perez,3201421,True,0.1,cccc@hotmail.com,4906486,desarrollador junior
+160777,Manuela,Gonzalez,2729855,True,0.1,aaaa@hotmail.com,5043989,desarrollador junior
+121793,Kelly,Gomez,2744342,True,0.1,dddd@hotmail.com,4805471,arquitecto
+53086,Kelly,Gutierrez,4681423,True,0.1,dddd@hotmail.com,4839801,desarrollador senior
+142502,Ana,Perez,2409107,True,0.1,aaaa@hotmail.com,4834936,desarrollador senior
+149353,Andres,Perez,1781818,True,0.1,dddd@hotmail.com,4735076,arquitecto
+354513,Isabel,Gonzalez,4115665,True,0.1,dddd@hotmail.com,5018715,arquitecto
+202219,Manuela,Gomez,3135787,True,0.1,aaaa@hotmail.com,5023735,desarrollador senior
+469405,Manuela,Gomez,3971182,True,0.1,aaaa@hotmail.com,4846731,desarrollador senior
+238207,Veronica,Gomez,3789815,True,0.1,bbbb@hotmail.com,4859658,arquitecto
+393436,Andres,Gomez,4108422,True,0.1,aaaa@hotmail.com,4607406,desarrollador senior
+400274,Kelly,Gomez,2385956,True,0.1,cccc@hotmail.com,4856366,desarrollador senior
+43740,Isabel,Gutierrez,2908667,True,0.1,aaaa@hotmail.com,4721393,desarrollador senior
+232130,Pablo,Gutierrez,4542006,True,0.1,bbbb@hotmail.com,4770933,arquitecto
+368562,Pablo,Gonzalez,1969903,True,0.1,aaaa@hotmail.com,5048767,arquitecto
+336620,Juan,Montoya,4410599,True,0.1,aaaa@hotmail.com,4617101,desarrollador junior
+463724,Ana,Peralta,4983118,True,0.1,bbbb@hotmail.com,4654512,desarrollador junior
+160204,Isabel,Urrego,3579490,True,0.1,cccc@hotmail.com,5048402,desarrollador junior
+270382,Juan,Gutierrez,3051745,True,0.1,cccc@hotmail.com,5064158,arquitecto
+462694,Andres,Gutierrez,2761179,True,0.1,aaaa@hotmail.com,4752419,arquitecto
+22061,Mauricio,Gutierrez,2032534,True,0.1,cccc@hotmail.com,4750245,arquitecto
+102727,Juan,Gonzalez,1666466,True,0.1,bbbb@hotmail.com,5000462,desarrollador junior
+126756,Andres,Urrego,3910051,True,0.1,dddd@hotmail.com,4979332,desarrollador senior
+169339,Pablo,Peralta,1760686,True,0.1,aaaa@hotmail.com,4657434,desarrollador senior
+108,Veronica,Peralta,4604209,True,0.1,aaaa@hotmail.com,4874053,desarrollador junior
+214539,Pablo,Gonzalez,1719010,True,0.1,dddd@hotmail.com,4969499,desarrollador senior
+326862,Ana,Perez,4066737,True,0.1,dddd@hotmail.com,4848911,arquitecto
+134047,Raul,Peralta,4922233,True,0.1,dddd@hotmail.com,4833205,arquitecto
+121484,Raul,Gutierrez,2344999,True,0.1,aaaa@hotmail.com,4925436,desarrollador senior
+412207,Isabel,Peralta,3935026,True,0.1,aaaa@hotmail.com,4686520,arquitecto
+168192,Pablo,Peralta,2148047,True,0.1,dddd@hotmail.com,5024910,desarrollador senior
+222903,Mauricio,Peralta,1480071,True,0.1,dddd@hotmail.com,4734623,desarrollador senior
+472195,Ana,Gutierrez,2197425,True,0.1,aaaa@hotmail.com,4768826,desarrollador junior
+38982,Andres,Gonzalez,4397540,True,0.1,cccc@hotmail.com,4857570,desarrollador junior
+51782,Juan,Gomez,1028370,True,0.1,cccc@hotmail.com,4851029,desarrollador senior
+461561,Pablo,Urrego,2697551,True,0.1,dddd@hotmail.com,4634507,desarrollador senior
+498665,Ana,Perez,1866010,True,0.1,dddd@hotmail.com,4865013,desarrollador senior
+151776,Isabel,Gomez,4596527,True,0.1,dddd@hotmail.com,4706365,desarrollador junior
+72150,Juan,Urrego,4191224,True,0.1,cccc@hotmail.com,4714701,desarrollador junior
+443265,Veronica,Gutierrez,1346739,True,0.1,cccc@hotmail.com,5007258,arquitecto
+149774,Juan,Gonzalez,4198025,True,0.1,dddd@hotmail.com,4724024,desarrollador junior
+487701,Isabel,Peralta,1278959,True,0.1,bbbb@hotmail.com,4725851,desarrollador senior
+175344,Isabel,Gomez,3271631,True,0.1,bbbb@hotmail.com,4742602,desarrollador junior
+398499,Kelly,Urrego,3223338,True,0.1,bbbb@hotmail.com,4629097,arquitecto
+68916,Kelly,Gonzalez,4298147,True,0.1,dddd@hotmail.com,4980205,arquitecto
+1221,Ana,Perez,4212581,True,0.1,bbbb@hotmail.com,4737774,arquitecto
+26439,Isabel,Gutierrez,4888329,True,0.1,cccc@hotmail.com,4746234,arquitecto
+146072,Pablo,Urrego,1607633,True,0.1,cccc@hotmail.com,5042613,desarrollador senior
+482322,Juan,Gonzalez,2546270,True,0.1,aaaa@hotmail.com,4844979,arquitecto
+146842,Andres,Perez,1197887,True,0.1,dddd@hotmail.com,4858273,arquitecto
+228907,Raul,Gonzalez,3123465,True,0.1,dddd@hotmail.com,4842006,desarrollador junior
+44397,Andres,Peralta,4165674,True,0.1,bbbb@hotmail.com,4849333,arquitecto
+398090,Pablo,Gomez,3339514,True,0.1,dddd@hotmail.com,4849227,desarrollador senior
+16804,Kelly,Montoya,1625154,True,0.1,aaaa@hotmail.com,4748113,desarrollador senior
+488111,Raul,Gomez,3902265,True,0.1,bbbb@hotmail.com,5047057,arquitecto
+296294,Veronica,Gonzalez,3279281,True,0.1,dddd@hotmail.com,4819404,desarrollador junior
+450192,Isabel,Urrego,3427223,True,0.1,aaaa@hotmail.com,4690951,desarrollador senior
+363171,Veronica,Montoya,1665639,True,0.1,dddd@hotmail.com,4816889,desarrollador junior
+137565,Isabel,Urrego,3230146,True,0.1,aaaa@hotmail.com,4993134,arquitecto
+413869,Isabel,Perez,3877814,True,0.1,dddd@hotmail.com,4984967,desarrollador senior
+145572,Ana,Urrego,3904459,True,0.1,aaaa@hotmail.com,4758210,desarrollador senior
+359693,Veronica,Gomez,1428035,True,0.1,dddd@hotmail.com,4750086,arquitecto
+400111,Manuela,Urrego,3372987,True,0.1,bbbb@hotmail.com,5022832,desarrollador junior
+261159,Isabel,Gonzalez,3203936,True,0.1,bbbb@hotmail.com,4857930,arquitecto
+225611,Kelly,Gonzalez,1719957,True,0.1,bbbb@hotmail.com,4691716,arquitecto
+915,Juan,Urrego,2315805,True,0.1,aaaa@hotmail.com,5022809,desarrollador senior
+357529,Andres,Montoya,2116489,True,0.1,aaaa@hotmail.com,4678530,desarrollador senior
+380127,Juan,Gonzalez,2761273,True,0.1,aaaa@hotmail.com,4905117,desarrollador junior
+402371,Ana,Gomez,1187782,True,0.1,bbbb@hotmail.com,4636567,arquitecto
+188904,Isabel,Urrego,1717805,True,0.1,cccc@hotmail.com,5081968,arquitecto
+39124,Manuela,Gomez,3932480,True,0.1,dddd@hotmail.com,4749096,desarrollador senior
+328838,Pablo,Gutierrez,1729398,True,0.1,cccc@hotmail.com,4974232,desarrollador junior
+482051,Mauricio,Urrego,1196106,True,0.1,bbbb@hotmail.com,4767260,desarrollador junior
+175998,Juan,Gomez,1777992,True,0.1,aaaa@hotmail.com,4829348,arquitecto
+374115,Isabel,Gomez,4022652,True,0.1,bbbb@hotmail.com,4637831,arquitecto
+258214,Veronica,Gutierrez,4668029,True,0.1,dddd@hotmail.com,4629379,desarrollador senior
+448971,Juan,Gutierrez,2275024,True,0.1,aaaa@hotmail.com,4745798,desarrollador senior
+256519,Veronica,Urrego,1755961,True,0.1,bbbb@hotmail.com,4965776,arquitecto
+68555,Isabel,Gutierrez,2667270,True,0.1,bbbb@hotmail.com,4671881,desarrollador senior
+313623,Kelly,Perez,4197165,True,0.1,aaaa@hotmail.com,4799084,arquitecto
+413937,Kelly,Gutierrez,3659566,True,0.1,aaaa@hotmail.com,4946182,arquitecto
+169554,Juan,Gutierrez,3570137,True,0.1,cccc@hotmail.com,4918647,arquitecto
+190306,Raul,Urrego,3794043,True,0.1,cccc@hotmail.com,5031736,desarrollador senior
+259098,Andres,Gonzalez,3250247,True,0.1,cccc@hotmail.com,4956481,desarrollador senior
+403275,Veronica,Perez,2631587,True,0.1,bbbb@hotmail.com,4789609,arquitecto
+77945,Ana,Gutierrez,3571423,True,0.1,aaaa@hotmail.com,4680258,desarrollador senior
+270293,Isabel,Peralta,2464891,True,0.1,dddd@hotmail.com,5047317,arquitecto
+9703,Manuela,Gomez,1513607,True,0.1,cccc@hotmail.com,4916638,desarrollador senior
+312588,Veronica,Gonzalez,3171424,True,0.1,bbbb@hotmail.com,4609998,arquitecto
+478991,Andres,Urrego,2424020,True,0.1,aaaa@hotmail.com,4941819,desarrollador senior
+263751,Isabel,Perez,1512745,True,0.1,aaaa@hotmail.com,4929645,desarrollador junior
+29751,Juan,Urrego,3036019,True,0.1,cccc@hotmail.com,4961124,desarrollador junior
+52297,Ana,Montoya,3392667,True,0.1,dddd@hotmail.com,4770847,arquitecto
+247120,Veronica,Perez,4270634,True,0.1,cccc@hotmail.com,4634111,desarrollador senior
+375433,Kelly,Perez,1661778,True,0.1,dddd@hotmail.com,5048521,arquitecto
+250001,Pablo,Peralta,1656456,True,0.1,bbbb@hotmail.com,4777152,arquitecto
+181370,Juan,Gutierrez,1946419,True,0.1,bbbb@hotmail.com,4808737,arquitecto
+485312,Kelly,Urrego,2548283,True,0.1,dddd@hotmail.com,4999929,desarrollador senior
+128280,Manuela,Perez,3630792,True,0.1,cccc@hotmail.com,4720241,desarrollador junior
+226563,Manuela,Perez,3058787,True,0.1,aaaa@hotmail.com,4854198,desarrollador senior
+438822,Raul,Peralta,4910832,True,0.1,bbbb@hotmail.com,4971633,desarrollador senior
+71951,Kelly,Gutierrez,4422347,True,0.1,cccc@hotmail.com,4800233,arquitecto
+330821,Kelly,Gutierrez,1224382,True,0.1,bbbb@hotmail.com,4618707,desarrollador junior
+359203,Andres,Urrego,4419041,True,0.1,bbbb@hotmail.com,4846234,arquitecto
+125930,Andres,Montoya,4136328,True,0.1,dddd@hotmail.com,4734930,desarrollador junior
+335376,Kelly,Gonzalez,3521938,True,0.1,aaaa@hotmail.com,4932327,desarrollador senior
+151372,Mauricio,Peralta,4993148,True,0.1,dddd@hotmail.com,5040823,desarrollador senior
+436601,Kelly,Peralta,3178869,True,0.1,dddd@hotmail.com,4870177,desarrollador senior
+27267,Juan,Gutierrez,1391720,True,0.1,cccc@hotmail.com,4788917,arquitecto
+456546,Mauricio,Urrego,4695346,True,0.1,bbbb@hotmail.com,4930218,desarrollador junior
+83368,Juan,Gutierrez,4655687,True,0.1,aaaa@hotmail.com,4951827,arquitecto
+300334,Ana,Perez,1589020,True,0.1,cccc@hotmail.com,4694736,arquitecto
+311547,Veronica,Gutierrez,3136822,True,0.1,dddd@hotmail.com,4981398,desarrollador senior
+173197,Isabel,Peralta,1715331,True,0.1,dddd@hotmail.com,4944404,desarrollador senior
+131407,Juan,Gomez,1165984,True,0.1,dddd@hotmail.com,5082279,arquitecto
+175806,Raul,Gutierrez,3366653,True,0.1,bbbb@hotmail.com,4610050,arquitecto
+390687,Andres,Gonzalez,2354003,True,0.1,bbbb@hotmail.com,4718910,arquitecto
+363646,Isabel,Gomez,4824367,True,0.1,aaaa@hotmail.com,4647327,desarrollador junior
+490082,Manuela,Gonzalez,2694008,True,0.1,cccc@hotmail.com,4724637,desarrollador senior
+28671,Kelly,Gonzalez,4077748,True,0.1,aaaa@hotmail.com,5020344,arquitecto
+213287,Andres,Perez,1369848,True,0.1,aaaa@hotmail.com,4944705,desarrollador junior
+72945,Manuela,Gonzalez,4340342,True,0.1,aaaa@hotmail.com,4739985,desarrollador junior
+271204,Pablo,Peralta,4970171,True,0.1,bbbb@hotmail.com,4887667,desarrollador junior
+473584,Juan,Montoya,1215848,True,0.1,cccc@hotmail.com,4719087,desarrollador senior
+397022,Veronica,Montoya,2488615,True,0.1,dddd@hotmail.com,5061442,desarrollador senior
+167412,Mauricio,Gutierrez,2504036,True,0.1,aaaa@hotmail.com,4872386,desarrollador junior
+341734,Pablo,Perez,4911811,True,0.1,cccc@hotmail.com,4914049,desarrollador junior
+33611,Pablo,Montoya,1663413,True,0.1,dddd@hotmail.com,4926379,desarrollador junior
+351750,Mauricio,Urrego,2803763,True,0.1,aaaa@hotmail.com,4986036,desarrollador senior
+250796,Ana,Gonzalez,1225334,True,0.1,dddd@hotmail.com,4740348,arquitecto
+238011,Andres,Urrego,2050181,True,0.1,cccc@hotmail.com,4816325,desarrollador junior
+450053,Juan,Perez,3718360,True,0.1,dddd@hotmail.com,4797631,desarrollador senior
+176045,Kelly,Gomez,1162617,True,0.1,aaaa@hotmail.com,4799831,desarrollador senior
+442872,Andres,Gutierrez,3962550,True,0.1,aaaa@hotmail.com,4724869,arquitecto
+199217,Pablo,Gutierrez,2157981,True,0.1,dddd@hotmail.com,4708089,arquitecto
+479430,Juan,Gonzalez,4139961,True,0.1,cccc@hotmail.com,4647365,desarrollador junior
+72077,Manuela,Montoya,2578618,True,0.1,bbbb@hotmail.com,4759289,arquitecto
+18425,Raul,Gomez,1956360,True,0.1,bbbb@hotmail.com,4651179,arquitecto
+14112,Isabel,Gutierrez,4244144,True,0.1,bbbb@hotmail.com,4816774,desarrollador junior
+118524,Veronica,Gonzalez,3210654,True,0.1,dddd@hotmail.com,4770184,desarrollador senior
+260046,Kelly,Urrego,1900721,True,0.1,aaaa@hotmail.com,4971931,desarrollador senior
+462096,Veronica,Gonzalez,3791304,True,0.1,dddd@hotmail.com,4942468,desarrollador senior
+477741,Veronica,Gutierrez,1589775,True,0.1,aaaa@hotmail.com,4837970,desarrollador senior
+137216,Juan,Gomez,3354080,True,0.1,aaaa@hotmail.com,4888646,desarrollador senior
+466319,Isabel,Gutierrez,3328213,True,0.1,cccc@hotmail.com,4600865,desarrollador senior
+227370,Juan,Gonzalez,4007078,True,0.1,cccc@hotmail.com,4665146,desarrollador senior
+313318,Manuela,Perez,4963885,True,0.1,aaaa@hotmail.com,4636162,desarrollador junior
+172720,Andres,Gomez,3328003,True,0.1,aaaa@hotmail.com,4874165,arquitecto
+294211,Pablo,Gonzalez,4224368,True,0.1,cccc@hotmail.com,4920403,desarrollador senior
+148308,Raul,Montoya,3327706,True,0.1,cccc@hotmail.com,4995383,desarrollador senior
+174315,Mauricio,Gonzalez,2193579,True,0.1,bbbb@hotmail.com,4900027,arquitecto
+376584,Andres,Perez,1391505,True,0.1,cccc@hotmail.com,4630720,arquitecto
+118062,Mauricio,Urrego,1545506,True,0.1,cccc@hotmail.com,4813678,desarrollador junior
+479595,Juan,Gutierrez,3511450,True,0.1,dddd@hotmail.com,4924863,arquitecto
+473581,Juan,Gonzalez,1370058,True,0.1,bbbb@hotmail.com,4742008,arquitecto
+274197,Manuela,Gomez,4097929,True,0.1,bbbb@hotmail.com,4814553,desarrollador senior
+189096,Pablo,Gutierrez,1163691,True,0.1,aaaa@hotmail.com,4823291,desarrollador junior
+223704,Veronica,Montoya,2807682,True,0.1,cccc@hotmail.com,4630196,desarrollador junior
+125217,Andres,Gomez,1331086,True,0.1,bbbb@hotmail.com,4683604,arquitecto
+434515,Andres,Peralta,2920285,True,0.1,cccc@hotmail.com,4620838,desarrollador junior
+241393,Manuela,Urrego,4471208,True,0.1,bbbb@hotmail.com,4828299,desarrollador senior
+31480,Manuela,Gonzalez,3026505,True,0.1,dddd@hotmail.com,4637079,desarrollador senior
+332222,Manuela,Urrego,2657175,True,0.1,cccc@hotmail.com,4758709,desarrollador senior
+46098,Raul,Peralta,1905587,True,0.1,dddd@hotmail.com,5061443,desarrollador senior
+168807,Veronica,Gomez,3806960,True,0.1,dddd@hotmail.com,4717443,desarrollador senior
+437420,Ana,Gonzalez,2399316,True,0.1,bbbb@hotmail.com,5016313,desarrollador senior
+53993,Manuela,Perez,1211738,True,0.1,cccc@hotmail.com,4783474,arquitecto
+134481,Juan,Urrego,2432057,True,0.1,bbbb@hotmail.com,4827994,arquitecto
+185576,Juan,Peralta,1912997,True,0.1,aaaa@hotmail.com,4821578,desarrollador junior
+419223,Isabel,Gonzalez,4634415,True,0.1,aaaa@hotmail.com,4872203,arquitecto
+400067,Mauricio,Gomez,3030213,True,0.1,bbbb@hotmail.com,4959331,desarrollador junior
+17551,Raul,Perez,3961493,True,0.1,dddd@hotmail.com,4603235,desarrollador senior
+418716,Raul,Peralta,4875791,True,0.1,dddd@hotmail.com,5009797,desarrollador junior
+110906,Isabel,Urrego,1629909,True,0.1,dddd@hotmail.com,4745989,desarrollador senior
+380936,Andres,Montoya,1708335,True,0.1,cccc@hotmail.com,5003363,desarrollador senior
+303075,Kelly,Perez,2963971,True,0.1,dddd@hotmail.com,4998013,arquitecto
+480764,Andres,Gomez,4252260,True,0.1,cccc@hotmail.com,4746676,desarrollador senior
+440722,Pablo,Gomez,2698990,True,0.1,dddd@hotmail.com,4656343,desarrollador senior
+485263,Isabel,Gonzalez,3285157,True,0.1,aaaa@hotmail.com,4882577,arquitecto
+168410,Manuela,Perez,1638370,True,0.1,cccc@hotmail.com,4892764,desarrollador senior
+281337,Veronica,Peralta,3309236,True,0.1,aaaa@hotmail.com,4931931,desarrollador junior
+197088,Mauricio,Gomez,1640698,True,0.1,bbbb@hotmail.com,4920083,arquitecto
+368335,Raul,Perez,2342015,True,0.1,bbbb@hotmail.com,4809578,desarrollador senior
+80848,Manuela,Perez,1463685,True,0.1,cccc@hotmail.com,4691440,arquitecto
+386628,Andres,Gutierrez,1553229,True,0.1,dddd@hotmail.com,5051895,desarrollador senior
+326175,Isabel,Gomez,3111316,True,0.1,dddd@hotmail.com,4918033,desarrollador senior
+49087,Kelly,Peralta,3775073,True,0.1,bbbb@hotmail.com,4707216,desarrollador senior
+293416,Isabel,Gomez,1680152,True,0.1,aaaa@hotmail.com,4848244,arquitecto
+250340,Andres,Urrego,1812945,True,0.1,bbbb@hotmail.com,4859204,desarrollador junior
+66458,Raul,Gutierrez,2040128,True,0.1,cccc@hotmail.com,4967089,desarrollador senior
+96373,Ana,Perez,4934671,True,0.1,cccc@hotmail.com,4929425,arquitecto
+96793,Mauricio,Perez,4344952,True,0.1,bbbb@hotmail.com,4779829,arquitecto
+253800,Ana,Urrego,1096116,True,0.1,aaaa@hotmail.com,4826627,arquitecto
+497916,Ana,Gonzalez,2024493,True,0.1,cccc@hotmail.com,4778723,desarrollador senior
+280697,Pablo,Gonzalez,3839763,True,0.1,dddd@hotmail.com,4738841,desarrollador senior
+272564,Ana,Gutierrez,2935219,True,0.1,dddd@hotmail.com,4708906,desarrollador senior
+90770,Juan,Montoya,4573705,True,0.1,cccc@hotmail.com,4704915,arquitecto
+163859,Juan,Perez,2718121,True,0.1,aaaa@hotmail.com,5071573,arquitecto
+202606,Juan,Peralta,4726377,True,0.1,cccc@hotmail.com,5062624,desarrollador senior
+499936,Pablo,Gonzalez,2986417,True,0.1,aaaa@hotmail.com,4899254,arquitecto
+57219,Kelly,Peralta,4989341,True,0.1,cccc@hotmail.com,4971214,desarrollador senior
+397217,Isabel,Gomez,4375419,True,0.1,dddd@hotmail.com,4940796,desarrollador senior
+126110,Andres,Perez,1673556,True,0.1,cccc@hotmail.com,4944998,desarrollador senior
+310191,Andres,Gonzalez,1345326,True,0.1,dddd@hotmail.com,4793773,arquitecto
+414559,Raul,Gutierrez,1519193,True,0.1,cccc@hotmail.com,5047589,arquitecto
+380732,Manuela,Montoya,1875219,True,0.1,aaaa@hotmail.com,4759179,desarrollador senior
+71204,Ana,Montoya,3321361,True,0.1,dddd@hotmail.com,4679808,arquitecto
+175802,Raul,Urrego,2331965,True,0.1,dddd@hotmail.com,4621141,desarrollador senior
+101067,Raul,Gutierrez,4200029,True,0.1,bbbb@hotmail.com,4616982,desarrollador junior
+88620,Mauricio,Perez,1196934,True,0.1,bbbb@hotmail.com,5012483,arquitecto
+26018,Veronica,Montoya,4136007,True,0.1,dddd@hotmail.com,5044497,desarrollador senior
+34844,Raul,Gomez,2069348,True,0.1,aaaa@hotmail.com,5031552,desarrollador senior
+478844,Veronica,Urrego,4950292,True,0.1,cccc@hotmail.com,4675856,desarrollador junior
+402687,Juan,Montoya,4350051,True,0.1,aaaa@hotmail.com,5050279,desarrollador junior
+407721,Mauricio,Gutierrez,1177553,True,0.1,aaaa@hotmail.com,4811101,desarrollador junior
+420819,Raul,Gonzalez,1684638,True,0.1,dddd@hotmail.com,4967731,arquitecto
+73787,Veronica,Gomez,2140651,True,0.1,dddd@hotmail.com,5072260,arquitecto
+495798,Ana,Urrego,3993060,True,0.1,cccc@hotmail.com,4943650,arquitecto
+102765,Juan,Gutierrez,1374890,True,0.1,bbbb@hotmail.com,4819462,desarrollador senior
+47123,Pablo,Gomez,1960203,True,0.1,aaaa@hotmail.com,4699669,arquitecto
+115074,Kelly,Gutierrez,2302559,True,0.1,aaaa@hotmail.com,4875745,desarrollador junior
+141142,Raul,Perez,4028833,True,0.1,cccc@hotmail.com,5078701,arquitecto
+420394,Veronica,Gutierrez,3152690,True,0.1,aaaa@hotmail.com,4925414,arquitecto
+23122,Isabel,Gonzalez,4382861,True,0.1,dddd@hotmail.com,4995712,arquitecto
+319138,Mauricio,Montoya,3669082,True,0.1,dddd@hotmail.com,4996072,desarrollador junior
+62167,Raul,Peralta,2347761,True,0.1,bbbb@hotmail.com,5002554,desarrollador junior
+43257,Pablo,Gomez,3644345,True,0.1,bbbb@hotmail.com,4779311,desarrollador junior
+145828,Andres,Perez,3602815,True,0.1,aaaa@hotmail.com,4940673,arquitecto
+134754,Raul,Peralta,4053034,True,0.1,dddd@hotmail.com,4686364,desarrollador junior
+374000,Raul,Gonzalez,4993574,True,0.1,bbbb@hotmail.com,4640861,arquitecto
+98822,Andres,Montoya,2739693,True,0.1,bbbb@hotmail.com,4781673,arquitecto
+484928,Mauricio,Gonzalez,3904070,True,0.1,cccc@hotmail.com,4610772,desarrollador junior
+153878,Veronica,Montoya,2500940,True,0.1,dddd@hotmail.com,5018636,arquitecto
+476714,Juan,Gutierrez,2414690,True,0.1,bbbb@hotmail.com,5018842,arquitecto
+465804,Juan,Gutierrez,2614371,True,0.1,aaaa@hotmail.com,4926965,desarrollador senior
+415543,Pablo,Urrego,3883367,True,0.1,aaaa@hotmail.com,4688964,arquitecto
+373349,Isabel,Gonzalez,4199191,True,0.1,cccc@hotmail.com,4709883,desarrollador junior
+238762,Mauricio,Peralta,3770668,True,0.1,aaaa@hotmail.com,5009175,arquitecto
+24200,Manuela,Gutierrez,1725550,True,0.1,aaaa@hotmail.com,4791830,desarrollador junior
+328756,Isabel,Montoya,1827065,True,0.1,aaaa@hotmail.com,4792347,desarrollador senior
+183663,Veronica,Perez,2110695,True,0.1,dddd@hotmail.com,4920651,desarrollador junior
+96269,Pablo,Montoya,2585834,True,0.1,cccc@hotmail.com,4609516,arquitecto
+18112,Kelly,Peralta,2787451,True,0.1,cccc@hotmail.com,5035346,desarrollador senior
+429151,Juan,Perez,4020556,True,0.1,bbbb@hotmail.com,5014468,arquitecto
+442825,Pablo,Gonzalez,2161293,True,0.1,bbbb@hotmail.com,4732639,desarrollador junior
+12874,Pablo,Montoya,1208241,True,0.1,aaaa@hotmail.com,4689161,arquitecto
+261251,Manuela,Perez,3940190,True,0.1,cccc@hotmail.com,4868618,desarrollador junior
+27942,Juan,Peralta,4039294,True,0.1,aaaa@hotmail.com,4860469,arquitecto
+100014,Kelly,Urrego,1682441,True,0.1,cccc@hotmail.com,4971739,arquitecto
+241030,Kelly,Gutierrez,1737832,True,0.1,dddd@hotmail.com,4993172,arquitecto
+336239,Ana,Montoya,1009976,True,0.1,bbbb@hotmail.com,4670266,desarrollador junior
+76389,Ana,Montoya,1669612,True,0.1,dddd@hotmail.com,4962601,desarrollador senior
+260746,Juan,Peralta,4619423,True,0.1,aaaa@hotmail.com,4739208,arquitecto
+201921,Mauricio,Perez,3421129,True,0.1,aaaa@hotmail.com,4770335,desarrollador junior
+175986,Isabel,Montoya,2124128,True,0.1,aaaa@hotmail.com,4795249,desarrollador senior
+243642,Andres,Urrego,2605367,True,0.1,dddd@hotmail.com,5045607,desarrollador senior
+1302,Manuela,Gonzalez,2703146,True,0.1,dddd@hotmail.com,4618594,desarrollador junior
+491317,Veronica,Gomez,1888014,True,0.1,aaaa@hotmail.com,4909922,arquitecto
+306382,Manuela,Gonzalez,2919006,True,0.1,bbbb@hotmail.com,4656557,desarrollador junior
+235494,Kelly,Gonzalez,4861048,True,0.1,dddd@hotmail.com,4847527,desarrollador junior
+242595,Isabel,Urrego,3740478,True,0.1,bbbb@hotmail.com,4843521,arquitecto
+153779,Manuela,Peralta,4577695,True,0.1,dddd@hotmail.com,4920041,desarrollador senior
+255723,Raul,Gomez,1509376,True,0.1,dddd@hotmail.com,4943130,desarrollador senior
+132263,Mauricio,Gutierrez,1815905,True,0.1,aaaa@hotmail.com,4686856,arquitecto
+476013,Juan,Gomez,4171917,True,0.1,aaaa@hotmail.com,4783062,desarrollador junior
+160602,Raul,Urrego,1317098,True,0.1,bbbb@hotmail.com,5035821,desarrollador junior
+110190,Ana,Gonzalez,4940007,True,0.1,aaaa@hotmail.com,4691220,arquitecto
+239523,Ana,Gomez,2562978,True,0.1,aaaa@hotmail.com,4926915,desarrollador senior
+353043,Isabel,Peralta,4497478,True,0.1,cccc@hotmail.com,4836070,arquitecto
+323011,Juan,Urrego,3914051,True,0.1,dddd@hotmail.com,4735200,arquitecto
+362708,Ana,Urrego,1622883,True,0.1,dddd@hotmail.com,4694264,arquitecto
+187153,Andres,Perez,1534303,True,0.1,aaaa@hotmail.com,4729166,desarrollador senior
+482772,Veronica,Montoya,2549196,True,0.1,cccc@hotmail.com,4664214,arquitecto
+451408,Raul,Urrego,4962617,True,0.1,aaaa@hotmail.com,4654894,desarrollador junior
+146072,Kelly,Gomez,2403434,True,0.1,cccc@hotmail.com,5068414,desarrollador junior
+154614,Andres,Perez,3167837,True,0.1,bbbb@hotmail.com,4629283,arquitecto
+290393,Pablo,Gomez,1427431,True,0.1,bbbb@hotmail.com,4729131,desarrollador senior
+244669,Kelly,Urrego,1624958,True,0.1,bbbb@hotmail.com,4925830,desarrollador senior
+98890,Kelly,Gomez,2213581,True,0.1,bbbb@hotmail.com,4986147,arquitecto
+231716,Mauricio,Urrego,4795043,True,0.1,aaaa@hotmail.com,4717299,desarrollador senior
+338966,Isabel,Urrego,2279782,True,0.1,bbbb@hotmail.com,4627141,desarrollador senior
+164640,Ana,Montoya,1810860,True,0.1,cccc@hotmail.com,4811226,desarrollador junior
+227691,Manuela,Gutierrez,1895371,True,0.1,aaaa@hotmail.com,4665239,desarrollador junior
+175678,Isabel,Peralta,1589335,True,0.1,cccc@hotmail.com,4640386,desarrollador junior
+136136,Isabel,Peralta,1744470,True,0.1,bbbb@hotmail.com,4897674,arquitecto
+140385,Juan,Gutierrez,3588038,True,0.1,cccc@hotmail.com,4749956,desarrollador junior
+482993,Isabel,Urrego,2573726,True,0.1,aaaa@hotmail.com,4806063,desarrollador junior
+79160,Raul,Montoya,3229200,True,0.1,dddd@hotmail.com,4858139,desarrollador junior
+207146,Kelly,Peralta,4624604,True,0.1,bbbb@hotmail.com,4773450,desarrollador senior
+138976,Veronica,Gomez,1067675,True,0.1,bbbb@hotmail.com,4640178,desarrollador senior
+476061,Andres,Peralta,3228929,True,0.1,cccc@hotmail.com,4903895,desarrollador junior
+33185,Pablo,Perez,2502040,True,0.1,aaaa@hotmail.com,4834605,desarrollador senior
+33732,Manuela,Gutierrez,2856186,True,0.1,cccc@hotmail.com,5030290,arquitecto
+412873,Juan,Peralta,3820889,True,0.1,bbbb@hotmail.com,4786161,desarrollador junior
+253057,Juan,Gomez,3710757,True,0.1,bbbb@hotmail.com,4811229,desarrollador senior
+417298,Mauricio,Montoya,3413109,True,0.1,cccc@hotmail.com,4845891,arquitecto
+424662,Andres,Perez,1489022,True,0.1,cccc@hotmail.com,4664346,desarrollador junior
+381245,Isabel,Montoya,1047875,True,0.1,dddd@hotmail.com,4720011,desarrollador junior
+73757,Manuela,Gomez,3633239,True,0.1,cccc@hotmail.com,4966810,desarrollador junior
+118845,Pablo,Montoya,1493875,True,0.1,dddd@hotmail.com,4671676,arquitecto
+496924,Ana,Gonzalez,4768867,True,0.1,dddd@hotmail.com,4654710,desarrollador senior
+209262,Mauricio,Gonzalez,3714001,True,0.1,dddd@hotmail.com,4836632,desarrollador senior
+271610,Isabel,Gutierrez,4237358,True,0.1,aaaa@hotmail.com,4605355,arquitecto
+302949,Veronica,Peralta,1200418,True,0.1,bbbb@hotmail.com,4605072,desarrollador senior
+254126,Kelly,Gonzalez,4630533,True,0.1,bbbb@hotmail.com,4967539,desarrollador junior
+207313,Veronica,Gutierrez,3529344,True,0.1,dddd@hotmail.com,4662244,arquitecto
+300899,Juan,Urrego,4554352,True,0.1,dddd@hotmail.com,4671490,desarrollador senior
+56129,Kelly,Gomez,4959263,True,0.1,dddd@hotmail.com,5032346,arquitecto
+475065,Juan,Peralta,3979266,True,0.1,aaaa@hotmail.com,4860751,desarrollador junior
+369197,Isabel,Gutierrez,4283643,True,0.1,dddd@hotmail.com,5056960,arquitecto
+132195,Veronica,Montoya,1204765,True,0.1,bbbb@hotmail.com,4899979,arquitecto
+99101,Andres,Gomez,3948677,True,0.1,bbbb@hotmail.com,4757112,desarrollador junior
+277266,Manuela,Urrego,2325039,True,0.1,bbbb@hotmail.com,4763528,desarrollador junior
+426626,Mauricio,Urrego,3853626,True,0.1,aaaa@hotmail.com,5048712,desarrollador senior
+341424,Raul,Perez,1400505,True,0.1,dddd@hotmail.com,4900673,desarrollador senior
+431938,Veronica,Perez,3594945,True,0.1,bbbb@hotmail.com,4607512,desarrollador junior
+225674,Pablo,Urrego,3948935,True,0.1,dddd@hotmail.com,4989505,desarrollador junior
+458726,Veronica,Perez,1093448,True,0.1,aaaa@hotmail.com,4656531,desarrollador senior
+489618,Juan,Perez,3742140,True,0.1,aaaa@hotmail.com,5056020,arquitecto
+409368,Mauricio,Peralta,3219026,True,0.1,cccc@hotmail.com,4690459,arquitecto
+370553,Isabel,Gutierrez,3174465,True,0.1,bbbb@hotmail.com,4704075,desarrollador junior
+425209,Isabel,Perez,1014216,True,0.1,cccc@hotmail.com,4715547,arquitecto
+207968,Ana,Urrego,1137636,True,0.1,cccc@hotmail.com,5018097,arquitecto
+74537,Manuela,Perez,4382415,True,0.1,bbbb@hotmail.com,4744769,arquitecto
+103283,Veronica,Gutierrez,3340712,True,0.1,dddd@hotmail.com,4678698,desarrollador junior
+406635,Kelly,Peralta,3430353,True,0.1,dddd@hotmail.com,4688494,arquitecto
+274899,Pablo,Peralta,1187213,True,0.1,dddd@hotmail.com,5045390,desarrollador senior
+401999,Veronica,Perez,2705180,True,0.1,bbbb@hotmail.com,4607559,desarrollador senior
+443040,Mauricio,Perez,3118839,True,0.1,aaaa@hotmail.com,5020528,desarrollador senior
+239627,Kelly,Gutierrez,4834144,True,0.1,cccc@hotmail.com,4766205,desarrollador junior
+286965,Kelly,Gonzalez,4086611,True,0.1,bbbb@hotmail.com,4690043,arquitecto
+245284,Kelly,Urrego,2088031,True,0.1,dddd@hotmail.com,4817580,desarrollador senior
+317795,Pablo,Perez,3000343,True,0.1,cccc@hotmail.com,4857277,desarrollador senior
+151419,Andres,Urrego,1213086,True,0.1,aaaa@hotmail.com,4626728,desarrollador junior
+239494,Manuela,Gonzalez,2812373,True,0.1,aaaa@hotmail.com,4789714,desarrollador senior
+292387,Juan,Gomez,1759318,True,0.1,bbbb@hotmail.com,5037203,desarrollador junior
+86563,Ana,Montoya,2523222,True,0.1,dddd@hotmail.com,4598996,desarrollador junior
+272027,Andres,Perez,4633520,True,0.1,bbbb@hotmail.com,4908762,desarrollador junior
+485318,Andres,Gomez,3344952,True,0.1,bbbb@hotmail.com,4801322,arquitecto
+30183,Manuela,Gomez,4003771,True,0.1,bbbb@hotmail.com,4735099,desarrollador junior
+112879,Veronica,Peralta,3103360,True,0.1,cccc@hotmail.com,4726703,desarrollador senior
+102118,Pablo,Gonzalez,3700126,True,0.1,cccc@hotmail.com,4858299,desarrollador senior
+398491,Raul,Urrego,2634563,True,0.1,cccc@hotmail.com,5033428,desarrollador senior
+256411,Veronica,Gutierrez,4286065,True,0.1,bbbb@hotmail.com,4777936,desarrollador junior
+330120,Manuela,Gutierrez,2624646,True,0.1,aaaa@hotmail.com,4798304,desarrollador junior
+109102,Raul,Montoya,2637694,True,0.1,cccc@hotmail.com,4877988,desarrollador senior
+128958,Mauricio,Gonzalez,1319790,True,0.1,aaaa@hotmail.com,4608341,desarrollador senior
+212092,Ana,Peralta,3524750,True,0.1,aaaa@hotmail.com,4809456,arquitecto
+455540,Mauricio,Urrego,1939081,True,0.1,cccc@hotmail.com,4726690,arquitecto
+491433,Kelly,Urrego,1849352,True,0.1,dddd@hotmail.com,4852700,arquitecto
+82999,Ana,Gonzalez,2344753,True,0.1,aaaa@hotmail.com,4756258,desarrollador junior
+273600,Veronica,Montoya,4969195,True,0.1,bbbb@hotmail.com,4608301,arquitecto
+342254,Andres,Montoya,4841871,True,0.1,bbbb@hotmail.com,5077851,desarrollador junior
+27464,Juan,Perez,4797798,True,0.1,cccc@hotmail.com,4947693,desarrollador junior
+458696,Ana,Gutierrez,2790462,True,0.1,cccc@hotmail.com,4722504,desarrollador senior
+248233,Kelly,Gutierrez,4104824,True,0.1,aaaa@hotmail.com,4983889,desarrollador senior
+111839,Ana,Gomez,2978589,True,0.1,aaaa@hotmail.com,4955915,arquitecto
+282441,Isabel,Gutierrez,1470945,True,0.1,dddd@hotmail.com,5081603,desarrollador junior
+31104,Pablo,Gonzalez,3007902,True,0.1,aaaa@hotmail.com,4932036,arquitecto
+263885,Mauricio,Montoya,3733217,True,0.1,cccc@hotmail.com,4989255,desarrollador senior
+166924,Veronica,Urrego,1091160,True,0.1,dddd@hotmail.com,5031731,desarrollador junior
+14246,Andres,Gutierrez,4187287,True,0.1,aaaa@hotmail.com,4882171,desarrollador senior
+425410,Pablo,Gutierrez,1033202,True,0.1,dddd@hotmail.com,5010218,desarrollador senior
+409848,Pablo,Gonzalez,3754180,True,0.1,bbbb@hotmail.com,4685054,arquitecto
+32046,Veronica,Peralta,1386139,True,0.1,cccc@hotmail.com,4941571,arquitecto
+175112,Pablo,Urrego,3295131,True,0.1,aaaa@hotmail.com,4772743,desarrollador senior
+434463,Kelly,Urrego,4594290,True,0.1,cccc@hotmail.com,4930088,desarrollador junior
+59242,Pablo,Gutierrez,1543852,True,0.1,bbbb@hotmail.com,5047349,arquitecto
+38069,Mauricio,Montoya,3954668,True,0.1,aaaa@hotmail.com,4781990,desarrollador junior
+99413,Kelly,Peralta,3006011,True,0.1,dddd@hotmail.com,4974911,desarrollador junior
+405731,Manuela,Gomez,2274814,True,0.1,bbbb@hotmail.com,4960249,desarrollador senior
+195516,Andres,Montoya,4297141,True,0.1,aaaa@hotmail.com,4757291,desarrollador junior
+117595,Manuela,Gonzalez,2882052,True,0.1,bbbb@hotmail.com,4612633,arquitecto
+387242,Andres,Montoya,1678656,True,0.1,bbbb@hotmail.com,4893964,desarrollador senior
+161335,Raul,Gomez,3167103,True,0.1,dddd@hotmail.com,4879624,desarrollador junior
+103262,Juan,Gonzalez,3616374,True,0.1,dddd@hotmail.com,4745568,desarrollador junior
+321795,Ana,Montoya,2954574,True,0.1,dddd@hotmail.com,4671810,arquitecto
+3431,Kelly,Gutierrez,1912819,True,0.1,aaaa@hotmail.com,4648669,desarrollador senior
+481954,Andres,Gonzalez,4073420,True,0.1,cccc@hotmail.com,4620938,desarrollador senior
+131369,Ana,Gonzalez,4920238,True,0.1,bbbb@hotmail.com,4693268,arquitecto
+315447,Raul,Peralta,4283938,True,0.1,cccc@hotmail.com,4923735,desarrollador senior
+55457,Mauricio,Peralta,4246829,True,0.1,cccc@hotmail.com,4630696,desarrollador junior
+429022,Pablo,Urrego,3697444,True,0.1,bbbb@hotmail.com,4842455,desarrollador junior
+2789,Pablo,Peralta,4683263,True,0.1,bbbb@hotmail.com,4737015,arquitecto
+216571,Ana,Gomez,2422098,True,0.1,aaaa@hotmail.com,5036930,desarrollador junior
+174179,Isabel,Perez,3593919,True,0.1,bbbb@hotmail.com,4606493,desarrollador senior
+436238,Pablo,Gomez,1062480,True,0.1,cccc@hotmail.com,4928577,desarrollador junior
+77262,Mauricio,Perez,2845287,True,0.1,dddd@hotmail.com,4833430,desarrollador junior
+450343,Ana,Gomez,4749728,True,0.1,aaaa@hotmail.com,4729628,desarrollador senior
+159430,Andres,Perez,3791636,True,0.1,dddd@hotmail.com,4661337,arquitecto
+262082,Raul,Urrego,2805654,True,0.1,dddd@hotmail.com,4934130,desarrollador junior
+133360,Manuela,Montoya,1740567,True,0.1,dddd@hotmail.com,4766613,desarrollador senior
+103641,Isabel,Gomez,1852908,True,0.1,cccc@hotmail.com,4740251,arquitecto
+257344,Isabel,Montoya,4258981,True,0.1,cccc@hotmail.com,4614123,desarrollador junior
+9376,Mauricio,Gutierrez,4221730,True,0.1,bbbb@hotmail.com,5064062,arquitecto
+285072,Veronica,Montoya,3303260,True,0.1,aaaa@hotmail.com,4774694,arquitecto
+45426,Isabel,Montoya,2641127,True,0.1,aaaa@hotmail.com,4796608,desarrollador junior
+168628,Isabel,Gomez,3695836,True,0.1,bbbb@hotmail.com,4818781,desarrollador junior
+305848,Veronica,Gonzalez,2047537,True,0.1,cccc@hotmail.com,4735009,arquitecto
+382179,Ana,Gonzalez,2508771,True,0.1,aaaa@hotmail.com,4678322,desarrollador senior
+325338,Juan,Peralta,2749972,True,0.1,dddd@hotmail.com,5030086,desarrollador junior
+126395,Ana,Peralta,2258302,True,0.1,bbbb@hotmail.com,4615528,desarrollador senior
+345229,Veronica,Perez,2916676,True,0.1,cccc@hotmail.com,5063680,desarrollador junior
+202480,Raul,Peralta,1454809,True,0.1,cccc@hotmail.com,4983204,desarrollador junior
+374006,Manuela,Gonzalez,4719912,True,0.1,aaaa@hotmail.com,4798231,desarrollador junior
+108818,Isabel,Gutierrez,3984748,True,0.1,dddd@hotmail.com,4976345,arquitecto
+352708,Mauricio,Gutierrez,3137553,True,0.1,bbbb@hotmail.com,4801236,desarrollador junior
+237539,Pablo,Gutierrez,3915359,True,0.1,dddd@hotmail.com,4966712,desarrollador junior
+435382,Kelly,Montoya,3801808,True,0.1,bbbb@hotmail.com,4898157,desarrollador junior
+257654,Pablo,Peralta,2670885,True,0.1,cccc@hotmail.com,4901073,arquitecto
+193451,Isabel,Urrego,4124888,True,0.1,aaaa@hotmail.com,4795996,desarrollador junior
+286468,Isabel,Urrego,4961698,True,0.1,dddd@hotmail.com,5043841,arquitecto
+258459,Kelly,Montoya,1176915,True,0.1,aaaa@hotmail.com,4822561,desarrollador senior
+298339,Raul,Gonzalez,2285885,True,0.1,bbbb@hotmail.com,4803135,desarrollador senior
+94042,Andres,Gomez,3179378,True,0.1,aaaa@hotmail.com,4627962,arquitecto
+373909,Ana,Gomez,2684141,True,0.1,dddd@hotmail.com,4749705,arquitecto
+143591,Pablo,Peralta,4062639,True,0.1,cccc@hotmail.com,4677195,desarrollador senior
+180517,Juan,Perez,1912931,True,0.1,bbbb@hotmail.com,4996792,desarrollador senior
+199150,Juan,Gomez,1591809,True,0.1,cccc@hotmail.com,4925629,desarrollador senior
+144542,Pablo,Gonzalez,1384968,True,0.1,cccc@hotmail.com,4980926,desarrollador senior
+409496,Ana,Perez,3362683,True,0.1,bbbb@hotmail.com,4894244,desarrollador senior
+350627,Ana,Montoya,1360463,True,0.1,aaaa@hotmail.com,4797933,arquitecto
+359103,Juan,Gutierrez,4208837,True,0.1,bbbb@hotmail.com,4718377,arquitecto
+52476,Juan,Gonzalez,1145302,True,0.1,aaaa@hotmail.com,4861288,desarrollador senior
+339108,Juan,Gutierrez,2772399,True,0.1,cccc@hotmail.com,4722368,desarrollador senior
+90797,Raul,Gutierrez,1919537,True,0.1,aaaa@hotmail.com,4963838,desarrollador junior
+261311,Andres,Urrego,1214806,True,0.1,dddd@hotmail.com,4895750,desarrollador junior
+325236,Ana,Gutierrez,1720619,True,0.1,bbbb@hotmail.com,4894293,desarrollador junior
+470522,Veronica,Peralta,2043354,True,0.1,aaaa@hotmail.com,4815733,arquitecto
+414730,Ana,Peralta,2679769,True,0.1,bbbb@hotmail.com,5000763,desarrollador senior
+193488,Mauricio,Peralta,3206946,True,0.1,dddd@hotmail.com,4710972,arquitecto
+6330,Pablo,Perez,3559778,True,0.1,cccc@hotmail.com,5054403,arquitecto
+54089,Ana,Gomez,4621927,True,0.1,bbbb@hotmail.com,4795159,desarrollador senior
+18384,Raul,Gomez,2780036,True,0.1,bbbb@hotmail.com,4920850,arquitecto
+257308,Pablo,Montoya,2044202,True,0.1,dddd@hotmail.com,4773505,arquitecto
+430316,Raul,Montoya,4753579,True,0.1,cccc@hotmail.com,5008882,desarrollador senior
+116329,Ana,Montoya,3758651,True,0.1,dddd@hotmail.com,4977847,desarrollador junior
+295092,Andres,Gomez,3352568,True,0.1,aaaa@hotmail.com,4917200,desarrollador junior
+73240,Raul,Gonzalez,1158845,True,0.1,aaaa@hotmail.com,4701790,desarrollador junior
+203565,Ana,Urrego,4813302,True,0.1,cccc@hotmail.com,4726075,desarrollador senior
+362686,Juan,Gutierrez,4080690,True,0.1,dddd@hotmail.com,4705524,desarrollador junior
+334328,Manuela,Gonzalez,1176068,True,0.1,dddd@hotmail.com,4962122,desarrollador senior
+331332,Isabel,Perez,1055974,True,0.1,cccc@hotmail.com,4845594,arquitecto
+318522,Raul,Peralta,3773834,True,0.1,cccc@hotmail.com,5017215,arquitecto
+192703,Isabel,Perez,2760392,True,0.1,dddd@hotmail.com,4982979,arquitecto
+90200,Mauricio,Perez,1289533,True,0.1,aaaa@hotmail.com,5032901,desarrollador junior
+435111,Kelly,Montoya,3245952,True,0.1,aaaa@hotmail.com,4986091,desarrollador junior
+470441,Isabel,Urrego,4354406,True,0.1,cccc@hotmail.com,5047181,desarrollador junior
+145640,Isabel,Peralta,1612138,True,0.1,aaaa@hotmail.com,4697079,arquitecto
+493136,Isabel,Peralta,4938245,True,0.1,aaaa@hotmail.com,4959701,desarrollador junior
+212211,Pablo,Gonzalez,1582421,True,0.1,dddd@hotmail.com,4774339,desarrollador junior
+335186,Isabel,Gomez,2032907,True,0.1,cccc@hotmail.com,4967292,arquitecto
+462673,Pablo,Perez,4957509,True,0.1,aaaa@hotmail.com,4932459,desarrollador junior
+338805,Raul,Urrego,2431039,True,0.1,cccc@hotmail.com,4930243,arquitecto
+218261,Veronica,Perez,1899414,True,0.1,aaaa@hotmail.com,4790869,desarrollador senior
+298111,Mauricio,Gonzalez,4407904,True,0.1,aaaa@hotmail.com,4765449,desarrollador junior
+68194,Raul,Gonzalez,2236177,True,0.1,dddd@hotmail.com,5064743,arquitecto
+484462,Mauricio,Gutierrez,2023426,True,0.1,bbbb@hotmail.com,4775401,arquitecto
+76592,Manuela,Montoya,2324560,True,0.1,dddd@hotmail.com,5001322,arquitecto
+477331,Veronica,Gutierrez,4156724,True,0.1,bbbb@hotmail.com,4749769,desarrollador senior
+453832,Kelly,Montoya,3280814,True,0.1,aaaa@hotmail.com,4845862,desarrollador senior
+53826,Raul,Montoya,2414829,True,0.1,cccc@hotmail.com,4796565,desarrollador senior
+47143,Pablo,Perez,4612135,True,0.1,cccc@hotmail.com,4992460,desarrollador senior
+400581,Andres,Gomez,4743366,True,0.1,dddd@hotmail.com,5023582,desarrollador senior
+101750,Mauricio,Gomez,2881043,True,0.1,dddd@hotmail.com,4699559,arquitecto
+76077,Isabel,Gomez,3483690,True,0.1,bbbb@hotmail.com,4624145,arquitecto
+459715,Juan,Gutierrez,2122176,True,0.1,bbbb@hotmail.com,4622118,arquitecto
+259795,Mauricio,Montoya,4838295,True,0.1,aaaa@hotmail.com,4890321,desarrollador junior
+111565,Pablo,Perez,4795930,True,0.1,aaaa@hotmail.com,4609657,desarrollador senior
+201899,Raul,Gomez,3191150,True,0.1,cccc@hotmail.com,4767122,arquitecto
+270975,Ana,Peralta,3428783,True,0.1,cccc@hotmail.com,4829185,arquitecto
+380214,Raul,Gonzalez,1427809,True,0.1,bbbb@hotmail.com,4980696,arquitecto
+135495,Raul,Montoya,4198293,True,0.1,dddd@hotmail.com,4889349,desarrollador junior
+283970,Veronica,Perez,1480555,True,0.1,dddd@hotmail.com,4968651,desarrollador junior
+404558,Isabel,Gutierrez,3296379,True,0.1,bbbb@hotmail.com,4628657,desarrollador senior
+244195,Ana,Perez,2995846,True,0.1,dddd@hotmail.com,5006473,arquitecto
+37662,Isabel,Perez,4359114,True,0.1,aaaa@hotmail.com,5081912,desarrollador junior
+117089,Mauricio,Urrego,4696317,True,0.1,dddd@hotmail.com,4677885,desarrollador junior
+33151,Manuela,Gonzalez,4333135,True,0.1,aaaa@hotmail.com,4976330,desarrollador senior
+145290,Mauricio,Peralta,3142934,True,0.1,aaaa@hotmail.com,4788399,arquitecto
+39243,Manuela,Peralta,2294520,True,0.1,dddd@hotmail.com,4991741,arquitecto
+211275,Veronica,Gomez,1801580,True,0.1,aaaa@hotmail.com,4690680,arquitecto
+453612,Juan,Perez,1260855,True,0.1,bbbb@hotmail.com,4910301,desarrollador junior
+57649,Manuela,Gutierrez,4437990,True,0.1,dddd@hotmail.com,4973324,desarrollador senior
+129717,Isabel,Perez,3254049,True,0.1,aaaa@hotmail.com,4946444,desarrollador senior
+473074,Andres,Montoya,4972596,True,0.1,bbbb@hotmail.com,4622175,desarrollador junior
+477166,Isabel,Gomez,1716248,True,0.1,cccc@hotmail.com,4761079,desarrollador junior
+108851,Ana,Gomez,1347282,True,0.1,aaaa@hotmail.com,4930351,desarrollador junior
+450116,Manuela,Gutierrez,2909800,True,0.1,aaaa@hotmail.com,4738363,desarrollador junior
+227603,Pablo,Gonzalez,1997547,True,0.1,dddd@hotmail.com,4961865,desarrollador senior
+443058,Manuela,Urrego,1101001,True,0.1,cccc@hotmail.com,5016641,desarrollador senior
+56405,Pablo,Gomez,4331889,True,0.1,bbbb@hotmail.com,4705471,desarrollador senior
+102990,Raul,Gutierrez,2773216,True,0.1,aaaa@hotmail.com,4983157,desarrollador senior
+242830,Juan,Peralta,1701617,True,0.1,bbbb@hotmail.com,4634575,arquitecto
+278967,Manuela,Perez,4662982,True,0.1,cccc@hotmail.com,5045620,desarrollador junior
+32972,Mauricio,Peralta,2089942,True,0.1,bbbb@hotmail.com,4683782,desarrollador senior
+164456,Pablo,Gomez,1761709,True,0.1,bbbb@hotmail.com,4968417,arquitecto
+330490,Veronica,Perez,3647596,True,0.1,bbbb@hotmail.com,5001324,arquitecto
+274334,Mauricio,Urrego,4596397,True,0.1,aaaa@hotmail.com,4703191,desarrollador junior
+361213,Mauricio,Peralta,3179278,True,0.1,bbbb@hotmail.com,4853294,arquitecto
+6661,Raul,Montoya,4211724,True,0.1,aaaa@hotmail.com,4744765,desarrollador junior
+257838,Ana,Gutierrez,2653405,True,0.1,aaaa@hotmail.com,4745516,arquitecto
+296465,Mauricio,Peralta,1432641,True,0.1,cccc@hotmail.com,4875821,desarrollador senior
+207487,Ana,Urrego,4762245,True,0.1,bbbb@hotmail.com,4868487,arquitecto
+328786,Ana,Gomez,3580003,True,0.1,dddd@hotmail.com,4824167,arquitecto
+218198,Andres,Urrego,1659519,True,0.1,bbbb@hotmail.com,5018850,desarrollador senior
+134311,Raul,Gomez,3008508,True,0.1,aaaa@hotmail.com,4980259,desarrollador senior
+227919,Veronica,Perez,3971133,True,0.1,bbbb@hotmail.com,4985730,desarrollador junior
+12453,Veronica,Urrego,1594942,True,0.1,dddd@hotmail.com,4642904,arquitecto
+142200,Veronica,Gomez,1070974,True,0.1,aaaa@hotmail.com,4941438,desarrollador senior
+45320,Raul,Perez,4998580,True,0.1,bbbb@hotmail.com,5015824,desarrollador senior
+448251,Veronica,Gomez,4770665,True,0.1,dddd@hotmail.com,4878979,arquitecto
+413827,Pablo,Gutierrez,3936584,True,0.1,dddd@hotmail.com,5000585,desarrollador senior
+261015,Veronica,Gonzalez,1638026,True,0.1,bbbb@hotmail.com,4648099,desarrollador junior
+477794,Veronica,Montoya,3075003,True,0.1,dddd@hotmail.com,5062444,desarrollador senior
+416427,Veronica,Gutierrez,3801447,True,0.1,cccc@hotmail.com,4896304,arquitecto
+96594,Andres,Gonzalez,4804517,True,0.1,aaaa@hotmail.com,4888633,desarrollador junior
+107684,Isabel,Urrego,4014749,True,0.1,cccc@hotmail.com,4621854,arquitecto
+125653,Raul,Gonzalez,2026840,True,0.1,cccc@hotmail.com,4865531,desarrollador senior
+195157,Pablo,Gutierrez,1837168,True,0.1,cccc@hotmail.com,4627284,desarrollador senior
+258442,Andres,Peralta,4809124,True,0.1,dddd@hotmail.com,5011993,desarrollador junior
+234718,Ana,Gomez,3712457,True,0.1,aaaa@hotmail.com,4901042,desarrollador senior
+470327,Mauricio,Peralta,4212982,True,0.1,bbbb@hotmail.com,4623647,arquitecto
+491972,Raul,Perez,4204223,True,0.1,dddd@hotmail.com,4691396,arquitecto
+429994,Ana,Gomez,3453795,True,0.1,aaaa@hotmail.com,4627176,desarrollador senior
+255721,Andres,Perez,2875300,True,0.1,dddd@hotmail.com,4804436,desarrollador junior
+340816,Kelly,Gonzalez,1520124,True,0.1,dddd@hotmail.com,4619711,desarrollador junior
+440221,Veronica,Perez,3556161,True,0.1,bbbb@hotmail.com,4663154,desarrollador senior
+258945,Raul,Perez,4147034,True,0.1,bbbb@hotmail.com,4601383,desarrollador senior
+312519,Juan,Montoya,1570107,True,0.1,bbbb@hotmail.com,4869919,arquitecto
+216725,Isabel,Peralta,1799806,True,0.1,dddd@hotmail.com,4733477,desarrollador junior
+232760,Veronica,Montoya,1745399,True,0.1,aaaa@hotmail.com,4940339,desarrollador junior
+55605,Andres,Gonzalez,1441586,True,0.1,dddd@hotmail.com,5024444,desarrollador senior
+181577,Kelly,Peralta,2779657,True,0.1,dddd@hotmail.com,4873370,desarrollador junior
+221276,Andres,Gonzalez,3840411,True,0.1,bbbb@hotmail.com,4690237,arquitecto
+289747,Kelly,Gonzalez,1443073,True,0.1,cccc@hotmail.com,4918001,arquitecto
+143935,Pablo,Gonzalez,1417078,True,0.1,bbbb@hotmail.com,4762721,desarrollador junior
+409384,Veronica,Urrego,2803747,True,0.1,dddd@hotmail.com,4809095,desarrollador senior
+264895,Veronica,Montoya,4718178,True,0.1,dddd@hotmail.com,4654991,arquitecto
+203902,Kelly,Montoya,1872854,True,0.1,bbbb@hotmail.com,4674846,desarrollador senior
+427616,Isabel,Gutierrez,2731403,True,0.1,dddd@hotmail.com,4793520,desarrollador junior
+272324,Veronica,Gomez,4089369,True,0.1,aaaa@hotmail.com,4843683,desarrollador junior
+492860,Veronica,Peralta,4405456,True,0.1,aaaa@hotmail.com,5038263,desarrollador junior
+353884,Kelly,Urrego,1824104,True,0.1,bbbb@hotmail.com,5068788,desarrollador senior
+299234,Juan,Peralta,2131765,True,0.1,aaaa@hotmail.com,5071215,desarrollador senior
+326199,Ana,Urrego,3059960,True,0.1,bbbb@hotmail.com,5048710,arquitecto
+3221,Veronica,Gonzalez,2155867,True,0.1,dddd@hotmail.com,4654863,desarrollador senior
+22240,Veronica,Gomez,3940017,True,0.1,bbbb@hotmail.com,4886099,desarrollador junior
+430442,Andres,Montoya,2682996,True,0.1,cccc@hotmail.com,4938937,arquitecto
+473910,Pablo,Montoya,3293167,True,0.1,cccc@hotmail.com,4712169,desarrollador senior
+88400,Raul,Gonzalez,4686477,True,0.1,bbbb@hotmail.com,4863654,arquitecto
+461639,Ana,Gutierrez,2914054,True,0.1,bbbb@hotmail.com,4726549,arquitecto
+382919,Manuela,Montoya,1139100,True,0.1,aaaa@hotmail.com,5023841,desarrollador junior
+320233,Veronica,Gomez,4346159,True,0.1,aaaa@hotmail.com,4649546,desarrollador junior
+153053,Juan,Peralta,4391100,True,0.1,aaaa@hotmail.com,4996681,desarrollador senior
+369174,Veronica,Perez,3172014,True,0.1,aaaa@hotmail.com,4621578,desarrollador junior
+448266,Isabel,Urrego,4067988,True,0.1,aaaa@hotmail.com,4772775,desarrollador senior
+456421,Juan,Gutierrez,1023499,True,0.1,aaaa@hotmail.com,4836261,arquitecto
+70958,Manuela,Peralta,3229083,True,0.1,cccc@hotmail.com,5059195,arquitecto
+456901,Manuela,Gonzalez,3684774,True,0.1,cccc@hotmail.com,4741361,desarrollador junior
+69432,Raul,Montoya,4946935,True,0.1,aaaa@hotmail.com,5021210,desarrollador junior
+180435,Veronica,Gomez,1979643,True,0.1,bbbb@hotmail.com,5061999,arquitecto
+368820,Isabel,Montoya,3597235,True,0.1,cccc@hotmail.com,4939023,desarrollador senior
+64124,Isabel,Peralta,4323316,True,0.1,dddd@hotmail.com,4613456,desarrollador junior
+45511,Ana,Gonzalez,1296344,True,0.1,cccc@hotmail.com,4622763,arquitecto
+406622,Andres,Gomez,3370234,True,0.1,dddd@hotmail.com,4890888,desarrollador junior
+336847,Raul,Peralta,1343997,True,0.1,bbbb@hotmail.com,4718092,desarrollador senior
+75253,Ana,Urrego,4595918,True,0.1,aaaa@hotmail.com,5039431,desarrollador senior
+128383,Veronica,Perez,4295088,True,0.1,cccc@hotmail.com,4861765,desarrollador junior
+174594,Ana,Urrego,1819892,True,0.1,dddd@hotmail.com,4743947,desarrollador senior
+64457,Kelly,Gomez,2766264,True,0.1,aaaa@hotmail.com,4995472,desarrollador senior
+18455,Ana,Urrego,2667028,True,0.1,bbbb@hotmail.com,4932675,desarrollador senior
+253884,Isabel,Perez,2254595,True,0.1,bbbb@hotmail.com,5076436,desarrollador junior
+315752,Mauricio,Gutierrez,2492762,True,0.1,aaaa@hotmail.com,4978870,desarrollador senior
+302032,Pablo,Gomez,2873213,True,0.1,cccc@hotmail.com,4655057,desarrollador senior
+341347,Raul,Montoya,4552870,True,0.1,bbbb@hotmail.com,4801535,arquitecto
+218231,Pablo,Gutierrez,4748645,True,0.1,bbbb@hotmail.com,4920974,arquitecto
+481893,Raul,Perez,4023720,True,0.1,dddd@hotmail.com,5046228,arquitecto
+496997,Veronica,Peralta,2174594,True,0.1,aaaa@hotmail.com,4643859,desarrollador junior
+264126,Mauricio,Peralta,2720162,True,0.1,bbbb@hotmail.com,4767934,desarrollador senior
+137282,Juan,Montoya,3643437,True,0.1,dddd@hotmail.com,5029188,desarrollador senior
+351591,Manuela,Gomez,4518165,True,0.1,cccc@hotmail.com,4985931,desarrollador junior
+51580,Raul,Peralta,3268314,True,0.1,cccc@hotmail.com,5050638,arquitecto
+400617,Juan,Urrego,3091104,True,0.1,aaaa@hotmail.com,4964411,arquitecto
+151241,Veronica,Peralta,4221934,True,0.1,dddd@hotmail.com,4792565,desarrollador senior
+138550,Andres,Urrego,3226072,True,0.1,dddd@hotmail.com,4612829,desarrollador senior
+291563,Manuela,Gutierrez,3225481,True,0.1,dddd@hotmail.com,4709322,arquitecto
+84011,Kelly,Montoya,1765375,True,0.1,dddd@hotmail.com,4920119,desarrollador junior
+255606,Andres,Gonzalez,3009591,True,0.1,dddd@hotmail.com,4915352,arquitecto
+345844,Pablo,Perez,3831263,True,0.1,aaaa@hotmail.com,4800970,desarrollador senior
+3987,Mauricio,Urrego,1177196,True,0.1,dddd@hotmail.com,4953886,desarrollador junior
+349301,Andres,Peralta,2718453,True,0.1,bbbb@hotmail.com,4690384,arquitecto
+70482,Pablo,Peralta,3675104,True,0.1,dddd@hotmail.com,4601684,arquitecto
+243415,Kelly,Montoya,2511148,True,0.1,bbbb@hotmail.com,4825744,desarrollador junior
+299320,Raul,Peralta,1087075,True,0.1,aaaa@hotmail.com,5041466,desarrollador junior
+254816,Kelly,Montoya,2801813,True,0.1,dddd@hotmail.com,4631981,desarrollador senior
+238267,Juan,Urrego,1755513,True,0.1,cccc@hotmail.com,4850879,arquitecto
+118993,Andres,Urrego,4006307,True,0.1,dddd@hotmail.com,4613565,arquitecto
+139628,Andres,Montoya,2317814,True,0.1,aaaa@hotmail.com,4678843,desarrollador junior
+471270,Veronica,Urrego,3570978,True,0.1,cccc@hotmail.com,4715513,desarrollador senior
+171050,Manuela,Montoya,3408226,True,0.1,dddd@hotmail.com,4919622,arquitecto
+471713,Veronica,Gonzalez,2304646,True,0.1,bbbb@hotmail.com,4821861,desarrollador junior
+81154,Mauricio,Gutierrez,2222607,True,0.1,cccc@hotmail.com,4788751,arquitecto
+5364,Manuela,Urrego,2023683,True,0.1,cccc@hotmail.com,4967919,arquitecto
+360099,Andres,Gomez,2448617,True,0.1,bbbb@hotmail.com,4950962,desarrollador senior
+342244,Andres,Perez,4052154,True,0.1,bbbb@hotmail.com,4613220,arquitecto
+263027,Isabel,Perez,4846958,True,0.1,aaaa@hotmail.com,4792888,desarrollador junior
+236169,Pablo,Gonzalez,2534537,True,0.1,aaaa@hotmail.com,4955141,desarrollador senior
+6161,Andres,Urrego,3189475,True,0.1,dddd@hotmail.com,4648365,desarrollador junior
+156388,Raul,Gutierrez,2429724,True,0.1,aaaa@hotmail.com,4607662,arquitecto
+400034,Manuela,Perez,4081780,True,0.1,dddd@hotmail.com,4830133,desarrollador senior
+486201,Kelly,Urrego,1758684,True,0.1,bbbb@hotmail.com,4714002,desarrollador junior
+73146,Mauricio,Montoya,4461282,True,0.1,cccc@hotmail.com,4988588,desarrollador senior
+98560,Andres,Gonzalez,2511211,True,0.1,cccc@hotmail.com,4682951,desarrollador junior
+122254,Raul,Gonzalez,1364912,True,0.1,cccc@hotmail.com,4976593,desarrollador junior
+156759,Mauricio,Gutierrez,2852117,True,0.1,dddd@hotmail.com,4953009,desarrollador senior
+347549,Ana,Peralta,3839451,True,0.1,bbbb@hotmail.com,4662861,desarrollador senior
+163113,Mauricio,Montoya,4763551,True,0.1,aaaa@hotmail.com,4865210,desarrollador junior
+359589,Kelly,Gutierrez,4400127,True,0.1,aaaa@hotmail.com,5076043,desarrollador junior
+109725,Kelly,Urrego,3229033,True,0.1,cccc@hotmail.com,4994831,desarrollador senior
+359662,Pablo,Gomez,1148738,True,0.1,bbbb@hotmail.com,5065877,arquitecto
+469797,Juan,Urrego,1372861,True,0.1,dddd@hotmail.com,4632462,desarrollador senior
+43168,Ana,Gutierrez,1126636,True,0.1,aaaa@hotmail.com,4828475,arquitecto
+193353,Juan,Montoya,4951006,True,0.1,aaaa@hotmail.com,4783544,arquitecto
+315207,Veronica,Gonzalez,3277129,True,0.1,cccc@hotmail.com,5059020,desarrollador senior
+139865,Juan,Perez,2617550,True,0.1,cccc@hotmail.com,4605679,arquitecto
+473495,Veronica,Gutierrez,2219470,True,0.1,aaaa@hotmail.com,4640234,arquitecto
+354439,Mauricio,Gonzalez,3050185,True,0.1,cccc@hotmail.com,4614767,arquitecto
+306063,Mauricio,Perez,4878979,True,0.1,dddd@hotmail.com,4970421,arquitecto
+155751,Isabel,Gomez,3135624,True,0.1,bbbb@hotmail.com,4608329,desarrollador senior
+93291,Andres,Perez,4430401,True,0.1,dddd@hotmail.com,4871295,arquitecto
+383607,Raul,Gutierrez,1337903,True,0.1,aaaa@hotmail.com,4739008,desarrollador senior
+127293,Andres,Gomez,4691781,True,0.1,aaaa@hotmail.com,4730351,desarrollador junior
+427191,Andres,Gomez,3244597,True,0.1,dddd@hotmail.com,4774094,desarrollador senior
+40406,Isabel,Gutierrez,4852114,True,0.1,dddd@hotmail.com,4814104,arquitecto
+45243,Ana,Peralta,3770459,True,0.1,cccc@hotmail.com,4945847,desarrollador junior
+393303,Juan,Peralta,3376469,True,0.1,dddd@hotmail.com,4761673,desarrollador junior
+400376,Manuela,Gutierrez,3703061,True,0.1,aaaa@hotmail.com,4858964,arquitecto
+49303,Veronica,Gutierrez,3266147,True,0.1,aaaa@hotmail.com,5029612,desarrollador junior
+234380,Raul,Gutierrez,1483826,True,0.1,bbbb@hotmail.com,4827581,arquitecto
+242063,Ana,Perez,3595279,True,0.1,bbbb@hotmail.com,4791583,desarrollador junior
+257145,Pablo,Perez,3992130,True,0.1,cccc@hotmail.com,4765269,arquitecto
+436380,Andres,Gomez,4664265,True,0.1,bbbb@hotmail.com,4909335,arquitecto
+199545,Juan,Montoya,1446684,True,0.1,bbbb@hotmail.com,5053101,arquitecto
+311912,Mauricio,Gutierrez,4339858,True,0.1,cccc@hotmail.com,4713261,desarrollador junior
+307764,Veronica,Urrego,1230658,True,0.1,bbbb@hotmail.com,4831666,desarrollador senior
+370435,Raul,Montoya,4560402,True,0.1,bbbb@hotmail.com,4812097,desarrollador junior
+276709,Veronica,Gutierrez,2547590,True,0.1,aaaa@hotmail.com,4887830,desarrollador junior
+177446,Ana,Gomez,2936379,True,0.1,dddd@hotmail.com,4662168,arquitecto
+343968,Pablo,Gutierrez,1531020,True,0.1,dddd@hotmail.com,4788377,arquitecto
+369304,Juan,Gonzalez,1611656,True,0.1,bbbb@hotmail.com,4932729,desarrollador junior
+363788,Kelly,Peralta,1859778,True,0.1,dddd@hotmail.com,4701518,arquitecto
+34749,Mauricio,Gomez,2551027,True,0.1,aaaa@hotmail.com,4718561,arquitecto
+267793,Pablo,Perez,2792653,True,0.1,cccc@hotmail.com,4825447,desarrollador junior
+39090,Mauricio,Gutierrez,1349600,True,0.1,bbbb@hotmail.com,4891529,arquitecto
+209227,Ana,Perez,4384211,True,0.1,cccc@hotmail.com,4822027,desarrollador junior
+415217,Kelly,Urrego,2252542,True,0.1,cccc@hotmail.com,4609358,arquitecto
+214993,Juan,Urrego,3583363,True,0.1,cccc@hotmail.com,5055898,desarrollador senior
+238363,Juan,Urrego,1783871,True,0.1,aaaa@hotmail.com,4659781,desarrollador junior
+300625,Andres,Gutierrez,4213697,True,0.1,dddd@hotmail.com,4698480,desarrollador junior
+151626,Raul,Gonzalez,1949961,True,0.1,cccc@hotmail.com,4911090,arquitecto
+311014,Pablo,Urrego,4466706,True,0.1,dddd@hotmail.com,4848475,desarrollador senior
+133002,Pablo,Montoya,4558678,True,0.1,dddd@hotmail.com,4812101,desarrollador junior
+484704,Kelly,Peralta,1757746,True,0.1,dddd@hotmail.com,4681026,desarrollador junior
+191811,Juan,Gomez,2346445,True,0.1,dddd@hotmail.com,4820571,desarrollador junior
+177559,Ana,Gomez,2162420,True,0.1,bbbb@hotmail.com,4693338,arquitecto
+411983,Ana,Gomez,4500727,True,0.1,dddd@hotmail.com,4855118,desarrollador junior
+299680,Raul,Peralta,2542959,True,0.1,cccc@hotmail.com,5031826,desarrollador junior
+165224,Mauricio,Peralta,1336571,True,0.1,aaaa@hotmail.com,4655493,desarrollador junior
+105894,Manuela,Urrego,3079148,True,0.1,dddd@hotmail.com,4860241,desarrollador senior
+365898,Pablo,Gomez,1402800,True,0.1,cccc@hotmail.com,4957530,arquitecto
+282322,Andres,Gomez,4663290,True,0.1,bbbb@hotmail.com,4721866,desarrollador senior
+213625,Juan,Gutierrez,3002678,True,0.1,bbbb@hotmail.com,5052991,desarrollador senior
+328501,Pablo,Gonzalez,4719291,True,0.1,cccc@hotmail.com,5063217,desarrollador junior
+178462,Manuela,Peralta,3671462,True,0.1,dddd@hotmail.com,4682372,desarrollador senior
+113679,Kelly,Urrego,4856873,True,0.1,cccc@hotmail.com,4725658,desarrollador junior
+54350,Pablo,Gomez,4020999,True,0.1,dddd@hotmail.com,4941618,arquitecto
+150504,Pablo,Gutierrez,3884950,True,0.1,bbbb@hotmail.com,4671202,desarrollador junior
+469242,Kelly,Perez,2151380,True,0.1,aaaa@hotmail.com,5016811,arquitecto
+241411,Raul,Urrego,2586861,True,0.1,aaaa@hotmail.com,4887532,desarrollador senior
+377655,Veronica,Urrego,3767341,True,0.1,aaaa@hotmail.com,4865083,arquitecto
+428363,Raul,Montoya,2736426,True,0.1,bbbb@hotmail.com,4782149,desarrollador senior
+171698,Manuela,Gonzalez,3256072,True,0.1,cccc@hotmail.com,5077094,arquitecto
+267115,Kelly,Urrego,4186392,True,0.1,aaaa@hotmail.com,4637588,arquitecto
+309636,Mauricio,Peralta,1524344,True,0.1,aaaa@hotmail.com,4895742,desarrollador senior
+456426,Veronica,Montoya,4598445,True,0.1,dddd@hotmail.com,4797183,arquitecto
+128898,Manuela,Gomez,3452564,True,0.1,dddd@hotmail.com,4895896,desarrollador senior
+170798,Juan,Perez,3806424,True,0.1,dddd@hotmail.com,4660347,desarrollador senior
+186676,Raul,Gomez,4016168,True,0.1,bbbb@hotmail.com,4840977,desarrollador junior
+142045,Mauricio,Gonzalez,1881205,True,0.1,dddd@hotmail.com,4931815,arquitecto
+459620,Pablo,Montoya,4587181,True,0.1,cccc@hotmail.com,4726283,desarrollador junior
+448945,Ana,Gonzalez,1921455,True,0.1,bbbb@hotmail.com,5024207,desarrollador junior
+136091,Pablo,Gomez,3276802,True,0.1,bbbb@hotmail.com,4669847,desarrollador junior
+59365,Kelly,Gutierrez,1805844,True,0.1,aaaa@hotmail.com,4779291,arquitecto
+383977,Juan,Montoya,1544228,True,0.1,bbbb@hotmail.com,4914390,desarrollador junior
+455626,Ana,Montoya,2848557,True,0.1,dddd@hotmail.com,4824854,arquitecto
+108690,Isabel,Gomez,4527106,True,0.1,dddd@hotmail.com,4844990,desarrollador senior
+63792,Pablo,Gonzalez,3178608,True,0.1,dddd@hotmail.com,4887619,desarrollador junior
+413685,Isabel,Urrego,2377821,True,0.1,bbbb@hotmail.com,4664608,desarrollador senior
+293981,Manuela,Gutierrez,2404503,True,0.1,cccc@hotmail.com,4655390,desarrollador junior
+418496,Pablo,Gomez,2534788,True,0.1,bbbb@hotmail.com,4687858,desarrollador senior
+354296,Manuela,Gutierrez,4793083,True,0.1,dddd@hotmail.com,4931510,desarrollador junior
+81011,Ana,Gomez,3065676,True,0.1,dddd@hotmail.com,4674467,desarrollador junior
+200089,Mauricio,Peralta,4285653,True,0.1,aaaa@hotmail.com,5052305,arquitecto
+118863,Juan,Urrego,1595994,True,0.1,cccc@hotmail.com,5079559,arquitecto
+212061,Raul,Peralta,1459973,True,0.1,aaaa@hotmail.com,4735666,desarrollador senior
+349014,Isabel,Perez,4653284,True,0.1,dddd@hotmail.com,4856340,desarrollador senior
+11157,Kelly,Gutierrez,1175992,True,0.1,cccc@hotmail.com,5059120,arquitecto
+399061,Manuela,Perez,4044754,True,0.1,bbbb@hotmail.com,5027029,desarrollador junior
+17833,Manuela,Gonzalez,3904525,True,0.1,aaaa@hotmail.com,4736687,desarrollador senior
+388399,Ana,Montoya,1903119,True,0.1,aaaa@hotmail.com,4683151,arquitecto
+167958,Veronica,Gutierrez,4816011,True,0.1,aaaa@hotmail.com,4903591,arquitecto
+53643,Manuela,Gomez,1138024,True,0.1,aaaa@hotmail.com,4760507,desarrollador junior
+202392,Raul,Perez,2742771,True,0.1,cccc@hotmail.com,4800678,desarrollador junior
+401553,Raul,Montoya,3787384,True,0.1,dddd@hotmail.com,5037439,arquitecto
+244315,Pablo,Perez,3260442,True,0.1,bbbb@hotmail.com,4939481,desarrollador senior
+422621,Raul,Peralta,2597965,True,0.1,cccc@hotmail.com,4861342,arquitecto
+317169,Pablo,Urrego,4831941,True,0.1,cccc@hotmail.com,4763538,desarrollador junior
+23523,Kelly,Gonzalez,1383987,True,0.1,dddd@hotmail.com,4963551,desarrollador junior
+438105,Pablo,Gutierrez,1753518,True,0.1,bbbb@hotmail.com,5017553,arquitecto
+373764,Isabel,Montoya,1350293,True,0.1,bbbb@hotmail.com,4897928,desarrollador junior
+304460,Veronica,Urrego,2186121,True,0.1,aaaa@hotmail.com,5056307,arquitecto
+162215,Isabel,Montoya,2903284,True,0.1,aaaa@hotmail.com,5003780,arquitecto
+68317,Ana,Perez,3620038,True,0.1,bbbb@hotmail.com,4629071,arquitecto
+52775,Mauricio,Montoya,4740057,True,0.1,cccc@hotmail.com,4862691,arquitecto
+149518,Pablo,Peralta,4079564,True,0.1,bbbb@hotmail.com,4748392,desarrollador senior
+214426,Kelly,Peralta,2735441,True,0.1,aaaa@hotmail.com,4815018,desarrollador junior
+203527,Kelly,Urrego,3674078,True,0.1,bbbb@hotmail.com,4643597,desarrollador junior
+209136,Manuela,Gomez,2437737,True,0.1,bbbb@hotmail.com,4910068,arquitecto
+105729,Mauricio,Gonzalez,4619408,True,0.1,bbbb@hotmail.com,5021587,desarrollador senior
+248774,Juan,Urrego,3926440,True,0.1,cccc@hotmail.com,5016732,desarrollador senior
+268424,Veronica,Urrego,2936653,True,0.1,aaaa@hotmail.com,4603193,arquitecto
+113946,Pablo,Gutierrez,3280115,True,0.1,bbbb@hotmail.com,5030384,desarrollador junior
+331364,Raul,Gutierrez,2786451,True,0.1,aaaa@hotmail.com,4730138,desarrollador junior
+87044,Pablo,Gomez,1775208,True,0.1,dddd@hotmail.com,5041826,arquitecto
+162156,Andres,Perez,1130661,True,0.1,bbbb@hotmail.com,4892195,desarrollador junior
+68130,Kelly,Peralta,2191947,True,0.1,dddd@hotmail.com,4959680,arquitecto
+86781,Ana,Gonzalez,2840841,True,0.1,dddd@hotmail.com,4685219,desarrollador junior
+236108,Mauricio,Perez,3771465,True,0.1,dddd@hotmail.com,5068606,desarrollador junior
+348379,Ana,Perez,3596981,True,0.1,bbbb@hotmail.com,5038046,desarrollador senior
+219233,Veronica,Gomez,3839229,True,0.1,dddd@hotmail.com,4712523,desarrollador junior
+310686,Andres,Perez,1790807,True,0.1,dddd@hotmail.com,4786574,desarrollador junior
+274415,Raul,Gomez,2250010,True,0.1,aaaa@hotmail.com,4869880,arquitecto
+121666,Juan,Perez,1309638,True,0.1,dddd@hotmail.com,4816243,desarrollador senior
+194829,Kelly,Gonzalez,3818375,True,0.1,cccc@hotmail.com,5068058,desarrollador senior
+175776,Raul,Gonzalez,3498963,True,0.1,bbbb@hotmail.com,5029294,arquitecto
+207747,Mauricio,Gutierrez,1003001,True,0.1,dddd@hotmail.com,4815328,desarrollador senior
+267594,Isabel,Gomez,2699678,True,0.1,dddd@hotmail.com,4637760,desarrollador senior
+57434,Mauricio,Gutierrez,2915140,True,0.1,aaaa@hotmail.com,5063321,desarrollador senior
+117534,Ana,Gomez,1122607,True,0.1,aaaa@hotmail.com,4832226,arquitecto
+451435,Kelly,Peralta,2350634,True,0.1,dddd@hotmail.com,4962951,arquitecto
+255371,Manuela,Gonzalez,1864606,True,0.1,aaaa@hotmail.com,4700612,desarrollador senior
+437973,Kelly,Gonzalez,1325369,True,0.1,bbbb@hotmail.com,4732128,desarrollador senior
+259073,Veronica,Perez,1587345,True,0.1,cccc@hotmail.com,4933877,desarrollador senior
+303711,Isabel,Gomez,1187847,True,0.1,aaaa@hotmail.com,4722740,arquitecto
+153690,Pablo,Gonzalez,3921354,True,0.1,dddd@hotmail.com,4973589,desarrollador junior
+415352,Pablo,Gutierrez,2998949,True,0.1,dddd@hotmail.com,5065435,desarrollador senior
+135287,Manuela,Perez,2136817,True,0.1,bbbb@hotmail.com,4889658,desarrollador senior
+456622,Pablo,Urrego,1735950,True,0.1,bbbb@hotmail.com,4885066,arquitecto
+130304,Manuela,Gutierrez,2091675,True,0.1,aaaa@hotmail.com,4969257,desarrollador junior
+193853,Veronica,Montoya,2941949,True,0.1,cccc@hotmail.com,4852145,desarrollador junior
+484868,Kelly,Perez,2952888,True,0.1,dddd@hotmail.com,4991547,desarrollador senior
+115999,Mauricio,Montoya,4179168,True,0.1,aaaa@hotmail.com,4931570,desarrollador senior
+319124,Manuela,Peralta,2687544,True,0.1,dddd@hotmail.com,4673224,desarrollador senior
+456628,Andres,Gonzalez,3792428,True,0.1,bbbb@hotmail.com,4664816,arquitecto
+132931,Manuela,Gutierrez,1301150,True,0.1,bbbb@hotmail.com,4803154,arquitecto
+490044,Juan,Gutierrez,2447134,True,0.1,aaaa@hotmail.com,4711778,desarrollador senior
+74454,Raul,Peralta,4667648,True,0.1,dddd@hotmail.com,4780324,desarrollador senior
+40994,Ana,Perez,4845504,True,0.1,bbbb@hotmail.com,4816475,arquitecto
+459762,Juan,Perez,4846117,True,0.1,cccc@hotmail.com,4953313,arquitecto
+491923,Raul,Montoya,1698942,True,0.1,cccc@hotmail.com,4601245,arquitecto
+120601,Manuela,Montoya,1541207,True,0.1,cccc@hotmail.com,4931359,desarrollador senior
+302547,Manuela,Gutierrez,2008557,True,0.1,cccc@hotmail.com,4711725,arquitecto
+94816,Pablo,Peralta,2988221,True,0.1,cccc@hotmail.com,4881956,arquitecto
+416009,Veronica,Montoya,4454135,True,0.1,dddd@hotmail.com,4729207,desarrollador junior
+176667,Ana,Montoya,3884042,True,0.1,bbbb@hotmail.com,4703310,desarrollador junior
+4744,Veronica,Gonzalez,2372725,True,0.1,dddd@hotmail.com,4974517,desarrollador junior
+453327,Veronica,Urrego,1060429,True,0.1,bbbb@hotmail.com,4698704,desarrollador junior
+160232,Kelly,Peralta,4869193,True,0.1,dddd@hotmail.com,4655938,arquitecto
+161602,Veronica,Gomez,2090974,True,0.1,bbbb@hotmail.com,4733450,desarrollador senior
+108825,Pablo,Perez,2831804,True,0.1,cccc@hotmail.com,5074123,arquitecto
+315313,Veronica,Montoya,4194938,True,0.1,dddd@hotmail.com,4932840,desarrollador junior
+125858,Raul,Perez,4324824,True,0.1,dddd@hotmail.com,4700823,desarrollador junior
+131619,Ana,Gutierrez,3979375,True,0.1,dddd@hotmail.com,4899103,arquitecto
+97272,Manuela,Gutierrez,4773589,True,0.1,cccc@hotmail.com,4692143,desarrollador senior
+211715,Raul,Gonzalez,3303383,True,0.1,dddd@hotmail.com,4917431,desarrollador senior
+64434,Kelly,Gutierrez,1664783,True,0.1,dddd@hotmail.com,4731688,desarrollador senior
+250260,Ana,Peralta,1834504,True,0.1,aaaa@hotmail.com,4976201,desarrollador junior
+417500,Juan,Peralta,4569290,True,0.1,cccc@hotmail.com,4617916,arquitecto
+147042,Pablo,Gutierrez,4019730,True,0.1,cccc@hotmail.com,4640713,desarrollador senior
+490506,Pablo,Perez,1714613,True,0.1,dddd@hotmail.com,4652651,arquitecto
+38982,Juan,Gutierrez,3820446,True,0.1,dddd@hotmail.com,4849392,desarrollador senior
+14172,Veronica,Peralta,1180279,True,0.1,cccc@hotmail.com,4770656,arquitecto
+333132,Manuela,Gomez,1851899,True,0.1,bbbb@hotmail.com,4840075,arquitecto
+336495,Ana,Peralta,3814685,True,0.1,bbbb@hotmail.com,4671245,desarrollador junior
+482024,Juan,Gomez,1477564,True,0.1,cccc@hotmail.com,5061455,desarrollador senior
+208937,Kelly,Montoya,1698454,True,0.1,dddd@hotmail.com,4692430,desarrollador senior
+198116,Veronica,Peralta,2430541,True,0.1,bbbb@hotmail.com,4656480,desarrollador junior
+100431,Andres,Perez,1190381,True,0.1,cccc@hotmail.com,4904026,desarrollador junior
+277637,Pablo,Urrego,1235033,True,0.1,cccc@hotmail.com,4706869,desarrollador senior
+37451,Raul,Perez,1656932,True,0.1,bbbb@hotmail.com,5022734,desarrollador junior
+38267,Isabel,Perez,4023627,True,0.1,cccc@hotmail.com,4601083,arquitecto
+6515,Kelly,Peralta,1686777,True,0.1,cccc@hotmail.com,5059924,arquitecto
+256293,Manuela,Gonzalez,2459796,True,0.1,bbbb@hotmail.com,4827943,desarrollador senior
+382033,Manuela,Peralta,4621876,True,0.1,bbbb@hotmail.com,4715990,arquitecto
+403154,Juan,Gomez,3126411,True,0.1,cccc@hotmail.com,4612062,desarrollador junior
+110096,Raul,Montoya,4125374,True,0.1,aaaa@hotmail.com,4654878,desarrollador junior
+350816,Juan,Perez,4144477,True,0.1,bbbb@hotmail.com,4794395,desarrollador senior
+65306,Raul,Gutierrez,2356558,True,0.1,aaaa@hotmail.com,4913902,desarrollador senior
+25566,Juan,Gutierrez,4949440,True,0.1,bbbb@hotmail.com,4658196,desarrollador senior
+139561,Juan,Gomez,4592490,True,0.1,dddd@hotmail.com,5028015,arquitecto
+491492,Raul,Gonzalez,1228942,True,0.1,bbbb@hotmail.com,5034223,desarrollador junior
+176042,Manuela,Gomez,4850831,True,0.1,bbbb@hotmail.com,4674151,arquitecto
+113100,Veronica,Perez,2111607,True,0.1,dddd@hotmail.com,4902053,desarrollador junior
+244934,Andres,Gutierrez,4415251,True,0.1,bbbb@hotmail.com,4961835,desarrollador senior
+243753,Veronica,Gutierrez,1121664,True,0.1,aaaa@hotmail.com,5073568,desarrollador senior
+93640,Pablo,Gomez,1070602,True,0.1,cccc@hotmail.com,4835200,arquitecto
+365126,Raul,Gomez,3479642,True,0.1,cccc@hotmail.com,4729649,desarrollador junior
+401866,Isabel,Peralta,3994982,True,0.1,bbbb@hotmail.com,4686574,desarrollador senior
+172211,Manuela,Gomez,3099947,True,0.1,bbbb@hotmail.com,4810941,desarrollador senior
+254288,Raul,Urrego,1630772,True,0.1,dddd@hotmail.com,4788194,desarrollador junior
+61287,Juan,Urrego,4524075,True,0.1,cccc@hotmail.com,4918203,desarrollador senior
+346264,Veronica,Urrego,4511096,True,0.1,aaaa@hotmail.com,4708421,desarrollador junior
+49635,Manuela,Perez,3302698,True,0.1,cccc@hotmail.com,4614790,desarrollador junior
+347186,Pablo,Urrego,1456687,True,0.1,cccc@hotmail.com,4691678,desarrollador senior
+395279,Veronica,Gonzalez,3636409,True,0.1,cccc@hotmail.com,4984381,arquitecto
+250231,Mauricio,Peralta,2531085,True,0.1,cccc@hotmail.com,4827054,desarrollador senior
+281730,Veronica,Gutierrez,2715710,True,0.1,bbbb@hotmail.com,4807326,desarrollador junior
+481951,Andres,Montoya,2181549,True,0.1,bbbb@hotmail.com,5076068,arquitecto
+138303,Pablo,Gutierrez,1866082,True,0.1,bbbb@hotmail.com,4864213,arquitecto
+332350,Ana,Gonzalez,3340685,True,0.1,bbbb@hotmail.com,4625402,desarrollador junior
+39577,Manuela,Gonzalez,4072844,True,0.1,bbbb@hotmail.com,4973246,arquitecto
+107763,Kelly,Peralta,1111604,True,0.1,aaaa@hotmail.com,4646260,desarrollador senior
+439307,Raul,Peralta,2239768,True,0.1,cccc@hotmail.com,4627011,arquitecto
+3410,Veronica,Gomez,3190176,True,0.1,aaaa@hotmail.com,4817748,arquitecto
+179374,Raul,Perez,3405425,True,0.1,cccc@hotmail.com,4970524,arquitecto
+304563,Andres,Gonzalez,3258075,True,0.1,bbbb@hotmail.com,4804719,arquitecto
+484931,Isabel,Urrego,4784363,True,0.1,bbbb@hotmail.com,4954866,desarrollador junior
+206716,Manuela,Gutierrez,4281398,True,0.1,bbbb@hotmail.com,4739594,desarrollador senior
+130374,Kelly,Urrego,1327443,True,0.1,dddd@hotmail.com,4992585,arquitecto
+186387,Ana,Peralta,2721127,True,0.1,bbbb@hotmail.com,4670913,desarrollador junior
+47423,Kelly,Gomez,2712942,True,0.1,aaaa@hotmail.com,4870560,desarrollador junior
+225521,Raul,Montoya,3303493,True,0.1,aaaa@hotmail.com,4632039,desarrollador senior
+315838,Kelly,Gomez,4782719,True,0.1,aaaa@hotmail.com,5053315,arquitecto
+441797,Veronica,Urrego,3760762,True,0.1,dddd@hotmail.com,4834424,desarrollador senior
+216207,Pablo,Gomez,2701327,True,0.1,aaaa@hotmail.com,4787044,desarrollador junior
+202466,Isabel,Gutierrez,1613659,True,0.1,aaaa@hotmail.com,4811566,desarrollador senior
+188568,Juan,Peralta,4438347,True,0.1,cccc@hotmail.com,4808724,desarrollador junior
+280390,Manuela,Perez,2064590,True,0.1,cccc@hotmail.com,4689074,desarrollador senior
+223089,Pablo,Peralta,2692162,True,0.1,dddd@hotmail.com,4756767,desarrollador junior
+306652,Isabel,Gutierrez,2060912,True,0.1,dddd@hotmail.com,4853129,arquitecto
+369944,Juan,Gomez,4175061,True,0.1,aaaa@hotmail.com,4891158,desarrollador senior
+95063,Mauricio,Gonzalez,1072945,True,0.1,cccc@hotmail.com,4793843,desarrollador junior
+24630,Kelly,Perez,1907455,True,0.1,bbbb@hotmail.com,4944674,desarrollador senior
+284357,Pablo,Gomez,4978588,True,0.1,cccc@hotmail.com,4797290,desarrollador senior
+248504,Pablo,Urrego,4235811,True,0.1,bbbb@hotmail.com,4893256,arquitecto
+77920,Isabel,Gomez,2282010,True,0.1,cccc@hotmail.com,4698381,desarrollador senior
+446323,Isabel,Urrego,3992958,True,0.1,bbbb@hotmail.com,4685939,arquitecto
+28286,Ana,Peralta,2818770,True,0.1,bbbb@hotmail.com,4776758,arquitecto
+219453,Mauricio,Gonzalez,1926930,True,0.1,bbbb@hotmail.com,4835913,desarrollador senior
+213404,Manuela,Gomez,4262049,True,0.1,aaaa@hotmail.com,4637192,desarrollador junior
+477802,Juan,Gutierrez,1037032,True,0.1,cccc@hotmail.com,4853669,desarrollador senior
+9694,Andres,Montoya,2603180,True,0.1,dddd@hotmail.com,4607376,desarrollador senior
+448244,Veronica,Gomez,4087792,True,0.1,aaaa@hotmail.com,4996509,desarrollador junior
+128997,Andres,Perez,3631318,True,0.1,aaaa@hotmail.com,4798646,desarrollador junior
+42221,Andres,Gutierrez,4251603,True,0.1,cccc@hotmail.com,4705844,arquitecto
+480612,Pablo,Montoya,2653607,True,0.1,bbbb@hotmail.com,5050661,arquitecto
+139600,Ana,Urrego,1601237,True,0.1,cccc@hotmail.com,4682519,desarrollador senior
+219262,Mauricio,Gonzalez,4554014,True,0.1,aaaa@hotmail.com,4878230,arquitecto
+194082,Mauricio,Gonzalez,1675982,True,0.1,cccc@hotmail.com,4968109,arquitecto
+59450,Juan,Gomez,4511619,True,0.1,bbbb@hotmail.com,4869676,arquitecto
+111046,Mauricio,Gutierrez,2332119,True,0.1,cccc@hotmail.com,4736549,desarrollador junior
+213546,Juan,Urrego,1215886,True,0.1,cccc@hotmail.com,4831110,arquitecto
+278782,Juan,Urrego,2716986,True,0.1,bbbb@hotmail.com,5026805,desarrollador senior
+413898,Isabel,Gutierrez,4606538,True,0.1,bbbb@hotmail.com,4653879,desarrollador junior
+401271,Juan,Gonzalez,4441167,True,0.1,dddd@hotmail.com,4863252,desarrollador senior
+235880,Isabel,Montoya,4434285,True,0.1,bbbb@hotmail.com,4933375,desarrollador junior
+36984,Manuela,Perez,3467298,True,0.1,cccc@hotmail.com,4859892,desarrollador senior
+259874,Juan,Peralta,1259537,True,0.1,cccc@hotmail.com,4903297,desarrollador junior
+146566,Ana,Gomez,3467123,True,0.1,aaaa@hotmail.com,4937479,arquitecto
+199606,Andres,Urrego,2058715,True,0.1,dddd@hotmail.com,4602373,desarrollador senior
+206828,Kelly,Peralta,4956871,True,0.1,dddd@hotmail.com,4879320,arquitecto
+423045,Kelly,Montoya,1889050,True,0.1,bbbb@hotmail.com,4990047,arquitecto
+379588,Pablo,Gutierrez,2839191,True,0.1,aaaa@hotmail.com,4675265,desarrollador senior
+360839,Juan,Montoya,3866101,True,0.1,aaaa@hotmail.com,4627725,desarrollador senior
+20287,Juan,Gutierrez,2568571,True,0.1,bbbb@hotmail.com,5059724,desarrollador junior
+307650,Ana,Montoya,1989014,True,0.1,aaaa@hotmail.com,5028215,desarrollador junior
+350947,Andres,Perez,2407918,True,0.1,cccc@hotmail.com,4755400,desarrollador senior
+477846,Pablo,Perez,3249147,True,0.1,aaaa@hotmail.com,4600241,arquitecto
+221752,Ana,Peralta,4233339,True,0.1,bbbb@hotmail.com,4737470,desarrollador junior
+351051,Andres,Montoya,2912133,True,0.1,cccc@hotmail.com,5064059,desarrollador senior
+191005,Raul,Gutierrez,4464451,True,0.1,aaaa@hotmail.com,4970704,desarrollador senior
+290625,Ana,Gomez,4626957,True,0.1,aaaa@hotmail.com,4617240,desarrollador senior
+489187,Juan,Gutierrez,1849022,True,0.1,dddd@hotmail.com,5020939,desarrollador junior
+421442,Raul,Gomez,2028959,True,0.1,cccc@hotmail.com,4967536,desarrollador junior
+415706,Mauricio,Gomez,1968494,True,0.1,cccc@hotmail.com,4663235,desarrollador senior
+6429,Veronica,Montoya,3106550,True,0.1,dddd@hotmail.com,4907499,desarrollador junior
+382675,Mauricio,Urrego,3762705,True,0.1,aaaa@hotmail.com,4848703,arquitecto
+30371,Ana,Gutierrez,3891580,True,0.1,aaaa@hotmail.com,4828969,desarrollador senior
+88441,Veronica,Gonzalez,4878959,True,0.1,bbbb@hotmail.com,5046188,desarrollador junior
+459141,Kelly,Montoya,1804187,True,0.1,cccc@hotmail.com,4753903,desarrollador junior
+172538,Ana,Gomez,1225258,True,0.1,cccc@hotmail.com,4958334,desarrollador senior
+231314,Manuela,Gutierrez,2502042,True,0.1,aaaa@hotmail.com,4797397,desarrollador senior
+415520,Pablo,Peralta,3386002,True,0.1,cccc@hotmail.com,4925775,desarrollador junior
+86584,Ana,Perez,1418070,True,0.1,dddd@hotmail.com,4950521,desarrollador senior
+50825,Juan,Urrego,2321187,True,0.1,bbbb@hotmail.com,5054723,desarrollador senior
+371690,Andres,Montoya,1380415,True,0.1,bbbb@hotmail.com,4807205,desarrollador junior
+25116,Pablo,Urrego,1155339,True,0.1,dddd@hotmail.com,4916407,desarrollador junior
+499898,Kelly,Gonzalez,3736297,True,0.1,bbbb@hotmail.com,4823394,arquitecto
+215985,Kelly,Gutierrez,3389240,True,0.1,dddd@hotmail.com,4870575,desarrollador junior
+440668,Manuela,Gomez,4618290,True,0.1,bbbb@hotmail.com,4849923,desarrollador senior
+387659,Juan,Peralta,2462833,True,0.1,aaaa@hotmail.com,4863615,arquitecto
+357165,Ana,Gonzalez,4625759,True,0.1,cccc@hotmail.com,4878002,arquitecto
+495105,Isabel,Gomez,2056157,True,0.1,aaaa@hotmail.com,4695048,arquitecto
+425899,Mauricio,Gutierrez,1494071,True,0.1,aaaa@hotmail.com,4685281,desarrollador junior
+136800,Manuela,Urrego,3917234,True,0.1,cccc@hotmail.com,4736396,desarrollador junior
+499940,Isabel,Gutierrez,3850891,True,0.1,bbbb@hotmail.com,4805633,arquitecto
+108213,Raul,Gonzalez,2103278,True,0.1,cccc@hotmail.com,4791890,desarrollador junior
+267669,Veronica,Peralta,2192121,True,0.1,aaaa@hotmail.com,4732053,desarrollador junior
+214908,Pablo,Gomez,2855898,True,0.1,aaaa@hotmail.com,4951275,desarrollador junior
+15418,Mauricio,Urrego,3180833,True,0.1,aaaa@hotmail.com,5020147,desarrollador junior
+498252,Pablo,Perez,1710948,True,0.1,aaaa@hotmail.com,4995991,arquitecto
+406360,Isabel,Gomez,2484751,True,0.1,bbbb@hotmail.com,5027978,arquitecto
+138664,Pablo,Urrego,4825640,True,0.1,dddd@hotmail.com,4914565,desarrollador junior
+275428,Ana,Montoya,1322989,True,0.1,dddd@hotmail.com,5037268,desarrollador junior
+91008,Manuela,Gutierrez,3341504,True,0.1,dddd@hotmail.com,5000869,desarrollador senior
+21737,Andres,Gomez,1780931,True,0.1,dddd@hotmail.com,4947690,arquitecto
+143030,Isabel,Peralta,1366602,True,0.1,aaaa@hotmail.com,5061259,desarrollador senior
+197502,Juan,Gutierrez,3107155,True,0.1,cccc@hotmail.com,5055246,desarrollador senior
+206100,Raul,Gutierrez,2388928,True,0.1,bbbb@hotmail.com,4780635,desarrollador senior
+55389,Isabel,Peralta,1353228,True,0.1,cccc@hotmail.com,4712711,desarrollador junior
+48761,Ana,Urrego,3602928,True,0.1,dddd@hotmail.com,4766040,arquitecto
+238576,Ana,Gutierrez,4625898,True,0.1,dddd@hotmail.com,4790869,arquitecto
+346919,Mauricio,Urrego,3982382,True,0.1,aaaa@hotmail.com,4924582,arquitecto
+180551,Isabel,Perez,2623015,True,0.1,bbbb@hotmail.com,4987179,desarrollador junior
+209829,Isabel,Gomez,1848100,True,0.1,cccc@hotmail.com,4601811,desarrollador junior
+94228,Mauricio,Gutierrez,1423166,True,0.1,bbbb@hotmail.com,5072289,desarrollador junior
+484099,Isabel,Gonzalez,1255470,True,0.1,aaaa@hotmail.com,5059070,desarrollador junior
+278692,Juan,Peralta,4183908,True,0.1,bbbb@hotmail.com,4972735,arquitecto
+457287,Veronica,Gomez,4055836,True,0.1,cccc@hotmail.com,5059764,arquitecto
+225201,Pablo,Perez,4865926,True,0.1,aaaa@hotmail.com,4987698,arquitecto
+76488,Kelly,Urrego,3376312,True,0.1,aaaa@hotmail.com,4651895,desarrollador junior
+409096,Kelly,Peralta,4421831,True,0.1,cccc@hotmail.com,4651857,desarrollador senior
+259358,Mauricio,Montoya,4699078,True,0.1,bbbb@hotmail.com,4838195,desarrollador senior
+394528,Andres,Gutierrez,3994582,True,0.1,aaaa@hotmail.com,4887890,desarrollador junior
