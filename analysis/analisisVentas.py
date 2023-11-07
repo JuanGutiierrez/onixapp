@@ -37,7 +37,7 @@ ventasBajas=ventasDataFrame.nsmallest(5,"Costo")
 print(ventasAltas)
 
 #Graficando un DATAFRAME co MATLOTLIB
-ventasAltas["NumeroOrden"]
+ventasAltas["NumeroOrden"]=ventasAltas["NumeroOrden"].astype(str)
 colores=['#e36dec', '#f364dc','#ff5ccb','#ff55ba','#ff51a8','#ff4f96','#ff5185','#ff5573']
 plt.figure(figsize=(10,10))
 plt.bar(ventasAltas["Cliente"],ventasAltas["Costo"], color=colores)
@@ -46,5 +46,7 @@ plt.bar(ventasAltas["Cliente"],ventasAltas["Costo"], color=colores)
 plt.xlabel("Cliente")
 plt.ylabel("Costo")
 plt.title("Ventas mas altas en ultimo mes")
+plt.xticks(rotation=45)
 
-plt.show()
+rutaGrafica="figuras/barrasventas.png"
+plt.savefig(rutaGrafica)
